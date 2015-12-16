@@ -1,4 +1,4 @@
-a cap-pel-la
+﻿a cap-pel-la
 a for-ti-o-ri
 a go-go
 a pos-te-ri-o-ri
@@ -89,8 +89,8 @@ ab-bre-vi-at-ing
 ab-bre-vi-a-tion
 ab-bre-vi-a-tor
 Ab-by
-ab-bŽ
-ab-bŽs
+ab-bÅ½
+ab-bÅ½s
 ab-cou-lomb
 Ab-der-hal-den
 Ab-de-rus
@@ -410,7 +410,7 @@ Ab-ys-sin-i-a
 Ab-ys-sin-i-an
 Ab-ys-sin-i-an cat
 Ab-y-la
-Ab-Ž-lard
+Ab-Å½-lard
 ac-glob-u-lin
 ace
 ace-y-deuc-y
@@ -1818,7 +1818,7 @@ ae-ti-o-log-i-cal-ly
 Ae-to-li-a
 Ae-to-li-an
 Ae-to-lus
-Ae-‘-tes
+Ae-â€˜-tes
 aff
 aft
 aft-most
@@ -1925,7 +1925,7 @@ af-front-er
 af-front-ing-ly
 af-fron-tive
 af-fron-tive-ness
-af-fron-tŽ
+af-fron-tÅ½
 af-fu-sion
 af-ghan
 Af-ghan
@@ -2248,9 +2248,9 @@ Ah-ve-nan-maa
 Ah-waz
 aid
 aide
-aide-mŽ-moire
+aide-mÅ½-moire
 aide-m-moire
-aides-mŽ-moire
+aides-mÅ½-moire
 aid-er
 aid-ful
 aid-less
@@ -2463,7 +2463,7 @@ Al Ma-di-nah
 Al Si-rat
 al-Fus-tat
 Al-Ga-zel
-Al-Is-kan-da-r”-yah
+Al-Is-kan-da-râ€-yah
 al-Sa-hih
 al-Uz-za
 ala-bastron
@@ -2666,7 +2666,7 @@ Al-bu-na
 Al-bu-ne-a
 Al-bu-quer-que
 Al-bu-ry
-Al-bŽ-niz
+Al-bÅ½-niz
 Al-b-niz
 al-cade
 Al-cae-us
@@ -2684,7 +2684,7 @@ al-ca-hest
 Al-ca-ic
 Al-ca-ids
 al-ca-lig-e-nes
-Al-ca-l‡
+Al-ca-lâ€¡
 Al-ca-traz
 Al-ca-zar
 al-ca-zar
@@ -2707,9 +2707,9 @@ Al-cid-i-ce
 Al-cim-e-de
 Al-cim-e-don
 Al-cin-o-us
-Al-cin-o-Ÿs
+Al-cin-o-Å¸s
 Al-cis
-Al-cith-o-‘
+Al-cith-o-â€˜
 Al-ci-bi-a-des
 Al-ci-bi-a-de-an
 Al-ci-des
@@ -3161,7 +3161,7 @@ al-lom-er-ous
 al-lom-e-try
 al-longe
 al-long-es
-al-lon-gŽ
+al-lon-gÅ½
 al-lon-y-mous
 al-lon-y-mous-ly
 al-lop-a-thist
@@ -3276,7 +3276,7 @@ al-man-dite
 al-ma-can-tar
 Al-ma-d
 Al-ma-da
-Al-ma-dŽn
+Al-ma-dÅ½n
 Al-ma-gest
 al-ma-nac
 Al-ma-non
@@ -3287,7 +3287,7 @@ Al-me-lo
 al-me-mar
 Al-me-ri-a
 Al-me-ri-an
-Al-me-r’-a
+Al-me-râ€™-a
 Al-me-r-a
 al-might-i-ly
 al-might-i-ness
@@ -4004,8 +4004,8 @@ am-pu-tee
 Am-pyx
 Am-py-ci-des
 Am-py-cus
-am-pre
-Am-pre
+am-pÂre
+Am-pÂre
 Am-ram
 Am-ra-tian
 Am-ra-va-ti
@@ -4058,7 +4058,7 @@ angst
 Ang-kor
 Ang-lis-tics
 ang-strom
-Ang-stršm
+Ang-strÅ¡m
 ang-wan-ti-bo
 anim
 ankh
@@ -4336,7 +4336,7 @@ an-ces-tral-ly
 an-ces-tress
 an-ces-try
 An-ches-mi-us
-An-chin-o-‘
+An-chin-o-â€˜
 An-chi-a-le
 An-chi-ses
 an-chor
@@ -4389,12 +4389,12 @@ An-co-na
 an-co-na
 an-co-nal
 an-co-nes
-an-crŽ
+an-crÅ½
 an-cy-los-to-mi-a-sis
-An-c—n
+An-câ€”n
 an-dan-te
 an-dan-ti-no
-An-da-lu-c’-a
+An-da-lu-câ€™-a
 An-da-lu-sia
 an-da-lu-site
 An-da-lu-si-a
@@ -4485,9 +4485,9 @@ an-dro-sphinx-es
 an-dro-sphin-ges
 an-dro-spore
 An-drus
-An-dr‡s-sy
-An-drŽ
-An-drŽs
+An-drâ€¡s-sy
+An-drÅ½
+An-drÅ½s
 An-dr-sy
 An-dvar
 An-dva-ri
@@ -4751,7 +4751,7 @@ an-gu-la-tion
 an-gu-lose
 an-gu-los-i-ty
 an-gu-lous
-An-gŽ-lique
+An-gÅ½-lique
 an-haem-a-to-poi-e-sis
 An-halt
 an-har-mon-ic
@@ -4832,7 +4832,7 @@ an-i-mist
 an-i-mis-tic
 an-i-mos-i-ty
 an-i-mus
-an-i-mŽ
+an-i-mÅ½
 an-i-on
 an-i-on-ic
 an-i-seed
@@ -5045,7 +5045,7 @@ an-o-rex-i-a
 an-o-rex-i-a ner-vo-sa
 an-o-rex-i-ant
 an-o-sog-no-sia
-an-o-šp-si-a
+an-o-Å¡p-si-a
 an-sa
 An-sar
 An-sar-i-an
@@ -5061,7 +5061,7 @@ An-shan
 An-son
 An-so-ni-a
 an-stoss
-an-stšs-se
+an-stÅ¡s-se
 an-swer
 an-swer back
 an-swer for
@@ -6249,7 +6249,7 @@ an-to-no-ma-sia
 an-to-no-ma-si-a
 An-to-ny
 an-to-nym
-An-to-n’n
+An-to-nâ€™n
 an-tral
 an-tre
 An-trim
@@ -6477,7 +6477,7 @@ ap-par-ent-ly
 ap-par-ent-ness
 ap-par-i-tor
 ap-pas-sio-na-to
-ap-pau-mŽ
+ap-pau-mÅ½
 Ap-pa-la-chi-a
 Ap-pa-la-chi-an
 Ap-pa-la-chi-an Moun-tains
@@ -6615,9 +6615,9 @@ ap-pli-ca-to-ri-ly
 ap-pli-ca-to-ry
 ap-pli-er
 ap-pli-que
-ap-pli-quŽ
-ap-pli-quŽd
-ap-pli-quŽ-ing
+ap-pli-quÅ½
+ap-pli-quÅ½d
+ap-pli-quÅ½-ing
 ap-ply
 ap-ply-ing
 ap-pog-gia-tu-ra
@@ -7214,7 +7214,7 @@ ar-dour
 ar-du-ous
 ar-du-ous-ly
 ar-du-ous-ness
-Ar-dche
+Ar-dÂche
 Ar-endt
 Ar-es
 ar-e-a
@@ -7243,7 +7243,7 @@ ar-e-o-log-i-cal-ly
 Ar-e-thu-sa
 ar-e-thu-sa
 Ar-e-ti-no
-Ar-e-•th-o-Ÿs
+Ar-e-â€¢th-o-Å¸s
 ar-gal
 Ar-gall
 Ar-ga-des
@@ -7326,7 +7326,7 @@ ar-gyr-o-dite
 Ar-gy-ra
 Ar-gy-rol
 Ar-gy-ro-tox-us
-Ar-gŸe-das
+Ar-gÅ¸e-das
 Ar-hat
 Ar-hat-ship
 Ar-ian-rhod
@@ -7426,7 +7426,7 @@ ar-ma-ry
 ar-ma-ture
 Ar-ma-vir
 Ar-men-ti
-Ar-men-tires
+Ar-men-tiÂres
 ar-met
 Ar-me-ni-a
 Ar-me-ni-an
@@ -7570,18 +7570,18 @@ ar-rive
 ar-rived
 ar-riv-er
 ar-riv-ing
-ar-rire-pen-sŽe
-ar-rire-pen-sŽes
-ar-rire-vous-sure
-ar-rire-vous-sures
+ar-riÂre-pen-sÅ½e
+ar-riÂre-pen-sÅ½es
+ar-riÂre-vous-sure
+ar-riÂre-vous-sures
 Ar-ri-go
 ar-ri-s
 ar-ri-val
 ar-ri-ve-der-ci
 ar-ri-visme
 ar-ri-viste
-ar-ri-vŽ
-ar-ri-re-ban
+ar-ri-vÅ½
+ar-ri-Âre-ban
 ar-ron-disse-ment
 ar-row
 ar-rows
@@ -7630,7 +7630,7 @@ ar-shin
 ar-shine
 ar-sine
 Ar-sin-o-us
-Ar-sin-o-‘
+Ar-sin-o-â€˜
 Ar-sip-pe
 ar-sis
 ar-si-no
@@ -7887,7 +7887,7 @@ as-bes-toi-dal
 as-bes-tos
 as-bes-to-sis
 as-bes-tus
-As-bjšrn-sen
+As-bjÅ¡rn-sen
 as-bo-lane
 As-bur-y
 As-cal-a-bus
@@ -7980,7 +7980,7 @@ As-mo-de-us
 As-mo-nae-an
 As-mo-ne-an
 As-ni
-As-nires
+As-niÂres
 as-par-a-gine
 as-par-a-gus
 as-par-tic ac-id
@@ -8088,7 +8088,7 @@ As-sem-bly
 as-sem-bly
 as-sem-bly line
 as-sem-bly-man
-as-sem-blŽ
+as-sem-blÅ½
 As-sen
 as-sent
 as-sent-er
@@ -8391,7 +8391,7 @@ As-ty-a-nax
 As-ty-da-mi-a
 As-wan
 As-wan High Dam
-As-w‰n
+As-wâ€°n
 as-ymp-tote
 as-ymp-tot-ic
 as-ymp-tot-i-cal
@@ -8589,8 +8589,8 @@ at-tar
 at-ta-bal
 at-ta-boy
 at-ta-ch
-at-ta-chŽ
-at-ta-chŽs
+at-ta-chÅ½
+at-ta-chÅ½s
 at-ta-pul-gite
 at-tempt
 at-tempt-a-bil-i-ty
@@ -8735,7 +8735,7 @@ Aud-hum-bla
 Aud-hum-la
 Aud-ley
 auf Wie-der-seh-en
-Auf-klŠ-rung
+Auf-klÅ -rung
 Auf-kl-rung
 aug
 aught
@@ -8774,7 +8774,7 @@ aus-form-ing
 Aus-gleich
 Aus-gleich-e
 Aus-le-se
-Aus-lŠnd-er
+Aus-lÅ nd-er
 aus-pex
 aus-pice
 aus-pic-es
@@ -9082,7 +9082,7 @@ au-tis-tic
 au-to
 au-to-a-larm
 au-to-da-f
-au-to-da-fŽ
+au-to-da-fÅ½
 au-to-in-fec-tion
 au-to-in-oc-u-la-bil-i-ty
 au-to-in-oc-u-la-ble
@@ -9124,12 +9124,12 @@ au-ton-o-mist
 au-ton-o-mous
 au-ton-o-mous-ly
 au-ton-o-my
-Au-ton-o-‘
+Au-ton-o-â€˜
 au-top-sic
 au-top-sist
 au-top-si-cal
 au-top-sy
-au-tos-da-fŽ
+au-tos-da-fÅ½
 au-tot-o-mise
 au-tot-o-mised
 au-tot-o-mis-ing
@@ -9450,7 +9450,7 @@ Ay-din
 Ay-m
 Ay-ma-ra
 Ay-ma-ran
-Ay-mŽ
+Ay-mÅ½
 Az-a-ri-ah
 az-a-thi-o-prine
 Az-bine
@@ -9491,21 +9491,21 @@ az-ur-ite
 az-ur-mal-a-chite
 az-yme
 az-y-gous
-aŽr-o-gramme
-a‘r-ate
-a‘r-a-tor
-a‘r-if-er-ous
-a‘r-i-al
-a‘r-i-al-ist
-a‘r-i-al-i-ty
-a‘r-i-al-ly
-a‘r-i-al-ness
-a‘r-i-fi-ca-tion
-a‘r-i-form
-a‘r-i-fy
-a‘r-y
-a”-nŽ
-a”-nŽe
+aÅ½r-o-gramme
+aâ€˜r-ate
+aâ€˜r-a-tor
+aâ€˜r-if-er-ous
+aâ€˜r-i-al
+aâ€˜r-i-al-ist
+aâ€˜r-i-al-i-ty
+aâ€˜r-i-al-ly
+aâ€˜r-i-al-ness
+aâ€˜r-i-fi-ca-tion
+aâ€˜r-i-form
+aâ€˜r-i-fy
+aâ€˜r-y
+aâ€-nÅ½
+aâ€-nÅ½e
 a-a
 a-ba
 a-bac
@@ -10135,7 +10135,7 @@ a-dor-er
 a-dor-ing
 a-dor-ing-ly
 a-dor-no
-a-dor-sŽ
+a-dor-sÅ½
 A-dou-la
 a-down
 a-do-be
@@ -10263,7 +10263,7 @@ a-ga-pe
 A-ga-pe
 A-ga-ve
 a-ga-ve
-A-ga-–a
+A-ga-â€“a
 a-ged
 a-ged-ly
 a-ged-ness
@@ -10369,10 +10369,10 @@ a-gros-to-graph-ic
 a-gros-to-log-ic
 a-ground
 A-gro-te-ra
-a-grŽ-a-tion
-a-grŽ-gŽ
-a-grŽ-mens
-a-grŽ-ment
+a-grÅ½-a-tion
+a-grÅ½-gÅ½
+a-grÅ½-mens
+a-grÅ½-ment
 a-guar-dien-te
 A-guas-ca-lien-tes
 A-gua-dil-la
@@ -10485,7 +10485,7 @@ a-larm-ed-ly
 a-larm-ing-ly
 a-larm-ism
 a-larm-ist
-A-lar-c—n
+A-lar-câ€”n
 a-lar-um
 a-lar-y
 a-las
@@ -10501,7 +10501,7 @@ A-layne
 A-la-g
 A-la-gez
 A-la-go-as
-A-la-gšz
+A-la-gÅ¡z
 a-la-li-a
 A-la-mein
 a-la-mode
@@ -10519,7 +10519,7 @@ a-lem-bi-cat-ed
 A-lene
 A-len-con
 A-len-con lace
-A-len-on
+A-len-Âon
 A-lep
 a-leph
 a-leph-null
@@ -10562,7 +10562,7 @@ A-le-gre-te
 A-le-ksan-drovsk
 A-le-ksan-dro-pol
 A-le-m
-A-le-m‡n
+A-le-mâ€¡n
 a-le-ri-on
 A-le-si-a
 A-le-tes
@@ -10711,7 +10711,7 @@ a-ma-dan
 A-ma-ga-sa-ki
 a-ma-la-ka
 A-ma-p
-A-ma-p‡
+A-ma-pâ€¡
 A-ma-sa
 A-ma-ta
 A-ma-te-ra-su
@@ -10940,7 +10940,7 @@ a-myx-or-rhoe-a
 a-my-a-ton-ic
 A-my-clas
 a-my-o-to-ni-a
-A-mŽ-dŽe
+A-mÅ½-dÅ½e
 a-na
 a-nab-a-sine
 a-nab-a-sis
@@ -11122,7 +11122,7 @@ a-nu-cle-at-ed
 a-nu-ran
 A-nu-ra-dha-pu-ra
 a-nu-rous
-A-n‡-po-lis
+A-nâ€¡-po-lis
 A-oe-de
 A-oi-de
 A-or-nis
@@ -11165,7 +11165,7 @@ A-pel-les
 a-per-cu
 a-per-i-ent
 a-per-i-tive
-a-per-u
+a-per-Âu
 a-pet-al-ous
 a-pet-a-lous-ness
 a-pet-a-ly
@@ -11362,9 +11362,9 @@ A-pus
 A-pu-lia
 A-pu-lian
 A-pu-re
-A-pu-r’-mac
+A-pu-râ€™-mac
 a-py-ret-ic
-a-pŽ-ri-tif
+a-pÅ½-ri-tif
 a-p-ri-tif
 A-qa-ba
 a-quar-ist
@@ -11430,9 +11430,9 @@ A-ra-gats
 A-ra-gon
 A-ra-guai-a
 A-ra-guay-a
-A-ra-gua-r’
+A-ra-gua-râ€™
 A-ra-gua-ya
-A-ra-g—n
+A-ra-gâ€”n
 A-ra-kan Yo-ma
 a-ra-li-a-ceous
 A-ra-lu
@@ -11442,8 +11442,8 @@ a-ra-ne-ous
 A-ra-nha
 a-ra-ro-ba
 A-ra-tus
-A-ra-x‡
-A-ra-a-tu-ba
+A-ra-xâ€¡
+A-ra-Âa-tu-ba
 a-reg
 A-rei-us
 A-rel-ia
@@ -11542,7 +11542,7 @@ A-ru-sha
 A-ru-wi-mi
 a-ryth-mi-a
 a-ryth-mi-cal-ly
-a-rte
+a-rÂte
 A-sa
 A-sag
 A-san-te-he-ne
@@ -11653,7 +11653,7 @@ a-stray
 a-stride
 a-sty-lar
 A-sun-ci
-A-sun-ci—n
+A-sun-ciâ€”n
 a-sun-der
 A-sur
 A-su-ra
@@ -11674,7 +11674,7 @@ a-syn-er-gy
 A-syn-jur
 a-syn-tac-tic
 A-syut
-A-syžt
+A-syÅ¾t
 a-sy-lum
 a-sy-ner-gia
 A-ta
@@ -11689,7 +11689,7 @@ a-tax-y
 A-ta-ba-li-pa
 A-ta-ca-ma Des-ert
 A-ta-hual-pa
-A-ta-tŸrk
+A-ta-tÅ¸rk
 A-te
 a-tef-crown
 a-tel-ic
@@ -11717,8 +11717,8 @@ a-thirst
 a-thrill
 a-thwart
 a-thwart-ships
-A-thŽ-nienne
-A-thŽ-niennes
+A-thÅ½-nienne
+A-thÅ½-niennes
 a-th-e-mat-ic
 a-tilt
 a-tin-gle
@@ -11838,10 +11838,10 @@ a-ver-ment
 A-ver-nal
 A-ver-no
 A-ver-nus
-A-ver-rho-‘s
+A-ver-rho-â€˜s
 a-ver-ring
 A-ver-ro-es
-A-ver-ro-‘s
+A-ver-ro-â€˜s
 a-ver-sion
 a-ver-sion ther-a-py
 a-ver-sive
@@ -11880,7 +11880,7 @@ a-vi-a-tion med-i-cine
 a-vi-a-tor
 a-vi-a-trix
 a-vi-a-tri-ces
-A-vi-ce-br—n
+A-vi-ce-brâ€”n
 a-vi-cul-ture
 a-vi-cul-tur-ist
 a-vi-fau-na
@@ -11972,7 +11972,7 @@ A-zan
 a-zan
 A-za-na
 A-za-zel
-A-za-–a
+A-za-â€“a
 a-zed-a-rach
 A-zer-bai-jan
 A-zer-bai-ja-ni
@@ -11997,19 +11997,19 @@ a-zo-ic
 A-zo-phi
 A-zo-r
 A-zo-ri-an
-A-zo-r’n
+A-zo-râ€™n
 A-zo-tos
 a-zo-to-bac-ter
 A-zue-la
 a-zu-le-jo
 A-zu-sa
 a-zy-go-spore
-A-‘r-o-pe
-a-‘-des
-A-‘-don
-a-‘-ne-ous
-A-•r
-A-•-da
+A-â€˜r-o-pe
+a-â€˜-des
+A-â€˜-don
+a-â€˜-ne-ous
+A-â€¢r
+A-â€¢-da
 B bat-ter-y
 B com-plex
 B ho-ri-zon
@@ -12568,7 +12568,7 @@ bal-bo-a
 bal-brig-gan
 Bal-bue-na
 bal-che
-bal-chŽ
+bal-chÅ½
 bal-co-net
 bal-co-nette
 bal-co-nied
@@ -12668,7 +12668,7 @@ Bal-li-ol
 bal-li-um
 bal-locks
 bal-lon
-bal-lon-nŽ
+bal-lon-nÅ½
 bal-loon
 bal-loon sail
 bal-loon sleeve
@@ -13379,8 +13379,8 @@ bar-ry-neb-u-ly
 bar-ry-pi-ly
 bar-ry-wav-y
 Bar-ry-more
-bar-rŽ
-Bar-rs
+bar-rÅ½
+Bar-rÂs
 Bar-sac
 bar-spoon
 bar-stool
@@ -13403,9 +13403,9 @@ Bar-ton
 Bar-ton-ville
 Bar-to-lom-me-o
 Bar-to-loz-zi
-Bar-to-lo-mŽ
+Bar-to-lo-mÅ½
 Bar-tram
-Bar-t—k
+Bar-tâ€”k
 Bar-uch
 bar-ways
 bar-wise
@@ -13453,7 +13453,7 @@ bass
 bass gui-tar
 bass vi-ol
 Basse-Nor-man-die
-Basses-Py-rŽ-nŽes
+Basses-Py-rÅ½-nÅ½es
 Basses-Py-r-n
 Basse-terre
 bass-es
@@ -13721,7 +13721,7 @@ Bau-haus
 bau-hin-i-a
 Bau-m
 Bau-meis-ter
-Bau-mŽ
+Bau-mÅ½
 Bau-ru
 bau-son
 bau-sond
@@ -13860,7 +13860,7 @@ Ba-da-ri-an
 Ba-den
 Ba-den-Ba-den
 Ba-den-Pow-ell
-Ba-den-WŸrt-tem-berg
+Ba-den-WÅ¸rt-tem-berg
 Ba-den-W-tem-berg
 ba-di-geon
 ba-di-ne-rie
@@ -13892,11 +13892,11 @@ Ba-hi-a
 ba-hut
 ba-huts
 ba-hu-vri-hi
-Ba-h‡i
-Ba-h‡’sm
-Ba-h‡-ist
-Ba-h‡-ul-lah
-Ba-h‡-ul-l‡h
+Ba-hâ€¡i
+Ba-hâ€¡â€™sm
+Ba-hâ€¡-ist
+Ba-hâ€¡-ul-lah
+Ba-hâ€¡-ul-lâ€¡h
 Ba-h-a Blan-ca
 Ba-iae
 Ba-ja Cal-i-for-nia
@@ -13997,7 +13997,7 @@ ba-ryt-ic
 ba-ry-ta
 ba-ry-tes
 ba-ry-to-cal-cite
-ba-rge
+ba-rÂge
 ba-sad
 ba-sal
 ba-sal an-aes-the-si-a
@@ -14074,7 +14074,7 @@ Ba-su-to-land
 Ba-taan
 Ba-tan Is-lands
 Ba-tan-gas
-Ba-ta‡n
+Ba-taâ€¡n
 ba-ta-ta
 Ba-ta-vi-a
 ba-teau
@@ -14110,7 +14110,7 @@ ba-ya-dere
 Ba-ya-m
 ba-ya-mo
 Ba-ya-mo
-Ba-ya-m—n
+Ba-ya-mâ€”n
 Ba-yeux tap-es-try
 Ba-yonne
 ba-zaar
@@ -14929,7 +14929,7 @@ Ber-ge-rac
 Ber-gin
 Ber-gius
 Ber-gi-us
-ber-gre
+ber-gÂre
 Ber-ing
 Ber-ing Sea
 Ber-ing Strait
@@ -14982,7 +14982,7 @@ Ber-nouil-li
 Ber-noul-li
 Ber-noul-li's prin-ci-ple
 Ber-noul-li-an
-Ber-o-‘
+Ber-o-â€˜
 ber-ret-ta
 Ber-ri
 ber-ried
@@ -15320,7 +15320,7 @@ be-lay-ing
 be-lay-ing pin
 be-la-bor
 be-la-bour
-Be-la-œn-de
+Be-la-Å“n-de
 be-lea-guer
 be-lea-guer-er
 be-lec-tion
@@ -15369,7 +15369,7 @@ Be-lus
 be-lu-ga
 Be-ly
 be-ly-ing
-Be-lŽm
+Be-lÅ½m
 be-ma
 be-maul
 be-mazed
@@ -15431,7 +15431,7 @@ Be-ni-ta
 Be-ni-to
 be-ni-to-ite
 Be-no
-Be-no”t
+Be-noâ€t
 Be-no-ni
 Be-nue
 Be-nue-Con-go
@@ -15441,7 +15441,7 @@ be-numb-ing-ly
 be-numb-ment
 Be-nu-e
 Be-nu-e-Con-go
-Be-nŽt
+Be-nÅ½t
 Be-o-grad
 Be-o-wulf
 be-paint
@@ -15483,7 +15483,7 @@ be-ryl-li-um
 be-ryl-lon-ite
 be-sant
 Be-san-con
-Be-san-on
+Be-san-Âon
 be-screen
 be-scrib-ble
 be-seech
@@ -16138,7 +16138,7 @@ bis-sex-tile
 bis-sex-tus
 bis-so
 bis-so-na-ta
-Bis-s‹o
+Bis-sâ€¹o
 bis-ter
 bis-tered
 bis-tort
@@ -16295,7 +16295,7 @@ bi-den-tic-u-late
 bi-det
 bi-di
 bi-di-rec-tion-al
-Bi-dœ
+Bi-dÅ“
 bi-en-ni-a
 bi-en-ni-al
 bi-en-ni-al-ly
@@ -16692,8 +16692,8 @@ bi-zone
 bi-zon-al
 Bi-zo-ni-a
 Bjoer-ling
-Bjšrn-son
-Bjšrn-stjer-ne
+BjÅ¡rn-son
+BjÅ¡rn-stjer-ne
 Bj-ne-borg
 bkcy
 bkg
@@ -16993,7 +16993,7 @@ Bla-go-vesh-chensk
 Bla-go-ve-shchensk
 Bla-mey
 bla-s
-bla-sŽ
+bla-sÅ½
 bla-tant
 bla-tant-ly
 bla-tan-cy
@@ -17493,8 +17493,8 @@ blype
 Blyth
 Blythe
 Blythe-ville
-BlŽ-riot
-BlŸ-cher
+BlÅ½-riot
+BlÅ¸-cher
 Bl-cher
 Bl-riot
 BMA
@@ -17642,7 +17642,7 @@ bod-y-check
 bod-y-guard
 bod-y-ing
 bod-y-work
-Bod-š
+Bod-Å¡
 Boehm-ite
 Boehm-i-an
 Boeh-me
@@ -17709,7 +17709,7 @@ bois-ter-ous-ly
 bois-ter-ous-ness
 Boi-el-dieu
 Boi-leau
-Boi-leau-Des-prŽ-aux
+Boi-leau-Des-prÅ½-aux
 Boi-se
 Boi-se Cit-y
 boi-se-rie
@@ -17783,13 +17783,13 @@ Bol-shy
 bol-son
 bol-ster
 bol-ster-er
-bol-s—n
-bol-s—-nes
+bol-sâ€”n
+bol-sâ€”-nes
 bol-tel
 Bol-ton
 bol-to-ni-a
 Bol-za-no
-Bol-’-var
+Bol-â€™-var
 bomb
 bomb cal-o-rim-e-ter
 bombe
@@ -17820,7 +17820,7 @@ bom-bi-lla
 bom-bor-a
 bom-bous
 bom-by-cid
-bom-bŽ
+bom-bÅ½
 Bon
 bon vi-vant
 bon vo-yage
@@ -17868,7 +17868,7 @@ bong
 bonk-ers
 Bonn
 bonne
-bonne-tire
+bonne-tiÂre
 bonze
 Bon-aire
 Bon-a-dox-in
@@ -17877,7 +17877,7 @@ Bon-a-ven-ture
 Bon-a-ven-tu-ra
 bon-a-vist
 bon-bon
-bon-bon-nire
+bon-bon-niÂre
 bon-er
 bon-fire
 bon-go
@@ -18262,9 +18262,9 @@ Bot-a-ny wool
 bot-fly
 Bot-kin
 bot-on-ny
-bot-on-nŽe
+bot-on-nÅ½e
 bot-o-ny
-bot-o-nŽe
+bot-o-nÅ½e
 bot-ry-oid
 bot-ry-oi-dal
 bot-ry-oi-dal-ly
@@ -18316,7 +18316,7 @@ bot-u-li-nus-es
 Bot-vin-nik
 Bouar
 Boua-k
-Boua-kŽ
+Boua-kÅ½
 bouche
 boud
 bouffe
@@ -18412,24 +18412,24 @@ bour-kha
 bour-non-ite
 bour-r
 bour-rasque
-bour-rŽe
+bour-rÅ½e
 bour-tree
 bouse
 bous-ing
 Bous-sin-gault
 bous-y
 bout
-bouts-ri-mŽs
+bouts-ri-mÅ½s
 bou-ch
 Bou-chard
 Bou-cher
 bou-chon
-Bou-chŽ
-bou-chŽe
+Bou-chÅ½
+bou-chÅ½e
 Bou-ci-cault
 bou-cl
 bou-cle
-bou-clŽ
+bou-clÅ½
 bou-deuse
 Bou-dic-ca
 bou-doir
@@ -18461,7 +18461,7 @@ bou-tel
 bou-tell
 bou-tique
 bou-ton-niere
-bou-ton-nire
+bou-ton-niÂre
 bou-ton-ni-ere
 Bou-vard
 bou-var-di-a
@@ -18617,7 +18617,7 @@ Bo-bo
 Bo-bo-Diou-las-so
 bo-bol
 bo-bo-tie
-bo-bche
+bo-bÂche
 bo-cac-cio
 bo-cage
 Bo-chum
@@ -18626,7 +18626,7 @@ Bo-den-heim
 Bo-den-see
 bo-de-ga
 bo-de-go-nes
-bo-de-g—n
+bo-de-gâ€”n
 bo-dhi
 Bo-dhi-dhar-ma
 Bo-dhi-satt-va
@@ -18650,14 +18650,14 @@ bo-geyed
 bo-gey-ing
 bo-gey-man
 Bo-ghaz-keu-i
-Bo-ghaz-kšy
+Bo-ghaz-kÅ¡y
 bo-gie
 bo-gle
 bo-gong
 Bo-gor
 Bo-go-t
 Bo-go-ta
-Bo-go-t‡
+Bo-go-tâ€¡
 bo-gus
 Bo-gu-slaw-sky
 bo-gy
@@ -18673,7 +18673,7 @@ Bo-hol
 bo-hor-ok
 bo-hunk
 Bo-hu-slav
-Bo-hme
+Bo-hÂme
 Bo-iar-do
 bo-it
 Bo-i-to
@@ -18816,8 +18816,8 @@ bo-yar-ism
 Bo-yo-ma Falls
 Bo-zen
 bo-zo
-Bo-‘-dro-mi-us
-Bo-š-tes
+Bo-â€˜-dro-mi-us
+Bo-Å¡-tes
 BPC
 bpi
 bpt
@@ -18825,7 +18825,7 @@ br'er
 bra
 braa-ta
 braa-tas
-Brab-an-on
+Brab-an-Âon
 brab-ble
 brab-bler
 brab-ble-ment
@@ -19100,10 +19100,10 @@ bras-sard
 bras-sart
 bras-se-rie
 bras-siere
-bras-sire
+bras-siÂre
 bras-si-ca
 bras-si-ca-ceous
-Bras-s—
+Bras-sâ€”
 brat
 Brat-tain
 brat-tice
@@ -19122,7 +19122,7 @@ braun-ite
 Braun-schweig
 Braun-schwei-ger
 Brau-haus
-Brau-hŠu-ser
+Brau-hÅ u-ser
 brave
 brave-ly
 brave-ness
@@ -19191,7 +19191,7 @@ bra-sil
 bra-sil-e-in
 bra-si-er
 Bra-sov
-Bra-s’l-ia
+Bra-sâ€™l-ia
 Bra-s-ia
 bra-ti-na
 Bra-ti-sla-va
@@ -19424,9 +19424,9 @@ Bre-scia
 Bre-scian
 Bre-tagne
 bre-telle
-bre-tes-sŽ
+bre-tes-sÅ½
 Bre-ton
-bre-tche
+bre-tÂche
 bre-va
 Bre-vard
 bre-vet
@@ -19713,7 +19713,7 @@ Bri-se-is
 Bri-se-us
 Bri-sing-a-men
 bri-sure
-bri-sŽ
+bri-sÅ½
 Bri-tan-nic
 Bri-tan-nic-us
 Bri-tan-ni-a
@@ -19843,7 +19843,7 @@ Bron-t
 Bron-tes
 bron-to-saur
 bron-to-sau-rus
-Bron-t‘
+Bron-tâ€˜
 Bron-zi-no
 broo
 brooch
@@ -19909,7 +19909,7 @@ brought
 brough-am
 brough-ta
 brough-tas
-brouil-lŽ
+brouil-lÅ½
 Broun
 brou-ha-ha
 Brou-wer
@@ -19959,7 +19959,7 @@ bro-ch
 bro-chan-tite
 bro-chette
 bro-chure
-bro-chŽ
+bro-chÅ½
 bro-de-rie an-glaise
 Bro-die
 bro-die
@@ -20101,8 +20101,8 @@ bru-in
 bru-ja
 bru-jo
 Bru-le
-bru-lŽ
-bru-lŽe
+bru-lÅ½
+bru-lÅ½e
 Bru-maire
 bru-mal
 bru-mous
@@ -20113,7 +20113,7 @@ bru-net
 bru-nette
 bru-nette-ness
 bru-net-ness
-Bru-ne-tire
+Bru-ne-tiÂre
 Bru-no
 Bru-sa
 bru-tal
@@ -20151,9 +20151,9 @@ Bry-o-zo-a
 bry-o-zo-an
 Bry-thon-ic
 Brze-giem
-BrŸnn-hil-de
-brŸs-cha
-BrŸ-cke
+BrÅ¸nn-hil-de
+brÅ¸s-cha
+BrÅ¸-cke
 Br-e
 Br-hil-de
 Br-ing
@@ -21084,7 +21084,7 @@ bu-cra-ni-um
 Bu-cu-re
 Bu-cu-resti
 Bu-da-pest
-Bu-d‘n-ny
+Bu-dâ€˜n-ny
 Bu-ell
 Bu-ford
 bu-fo-ten-in
@@ -21145,7 +21145,7 @@ bu-rel-ly
 bu-ret
 bu-rette
 bu-re-lage
-bu-re-lŽ
+bu-re-lÅ½
 Bu-ri
 bu-rin
 bu-roo
@@ -21264,26 +21264,26 @@ by-wo-ner
 By-zan-tin-ism
 By-zan-ti-um
 By-zas
-B‡-b’
-B‡-r‡ny
-B‰-tard-Mon-tra-chet
-BŽc-quer
-BŽ-ar-naise
-bŽ-cha-mel
-BŽ-la
-BŽ-ran-ger
-BŽ-rŽ-nice
-bŽ-ton
-BŽ-ziers
-bch-es-de-mer
-b-tise
-B’-o-B’-o
-Bšh-me
-Bšh-mer-wald
-Bšn-pa
-Bštt-ger
-BŸn-de
-BŸ-low
+Bâ€¡-bâ€™
+Bâ€¡-râ€¡ny
+Bâ€°-tard-Mon-tra-chet
+BÅ½c-quer
+BÅ½-ar-naise
+bÅ½-cha-mel
+BÅ½-la
+BÅ½-ran-ger
+BÅ½-rÅ½-nice
+bÅ½-ton
+BÅ½-ziers
+bÂch-es-de-mer
+bÂ-tise
+Bâ€™-o-Bâ€™-o
+BÅ¡h-me
+BÅ¡h-mer-wald
+BÅ¡n-pa
+BÅ¡tt-ger
+BÅ¸n-de
+BÅ¸-low
 B-ar-naise
 B-char
 b-cha-mel sauce
@@ -21408,7 +21408,7 @@ cac-o-mis-tle
 cac-o-mix-le
 cac-o-phon-ic
 cac-o-phon-i-cal-ly
-cac-o-‘-thes
+cac-o-â€˜-thes
 cac-que-teuse
 cac-que-teus-es
 cac-ta-ceous
@@ -21876,7 +21876,7 @@ Cal-vi-na
 cal-vi-ti-es
 cal-vous
 cal-vus
-Cal-vŽ
+Cal-vÅ½
 cal-y-cate
 Cal-y-ce
 cal-y-ces
@@ -22005,7 +22005,7 @@ cam-ou-fleur
 cam-o-ca
 Cam-o-ens
 cam-o-mile
-Cam-o-‘ns
+Cam-o-â€˜ns
 cam-paign
 cam-paign-er
 Cam-pan-us
@@ -22116,7 +22116,7 @@ can-a-lise
 can-a-lize
 Can-a-ne-an
 can-a-p
-can-a-pŽ
+can-a-pÅ½
 Can-a-sto-ta
 Can-ber-ra
 Can-by
@@ -22151,7 +22151,7 @@ can-cer-ous-ly
 can-cer-ous-ness
 can-cha
 can-cio-nes
-can-ci—n
+can-ciâ€”n
 Can-cri
 can-crine
 can-cri-zans
@@ -23132,7 +23132,7 @@ Car-rie
 car-ried
 Car-ring-ton
 car-ritch
-Car-rire
+Car-riÂre
 car-ri-a-ble
 car-ri-er
 car-ri-er bag
@@ -23178,7 +23178,7 @@ car-ry-ing charge
 car-ry-ing place
 car-ry-ing-on
 car-ry-ings-on
-Car-rre
+Car-rÂre
 car-sey
 car-shops
 car-sick
@@ -23962,7 +23962,7 @@ ca-ba-llo
 ca-ba-llos
 ca-ba-na
 Ca-ba-na-tuan
-ca-ba-–a
+ca-ba-â€“a
 Ca-bei-ri
 ca-ber
 Ca-ber-net
@@ -23995,7 +23995,7 @@ ca-boo-dle
 ca-boshed
 ca-bossed
 Ca-bot
-ca-bo-chŽ
+ca-bo-chÅ½
 ca-bo-clo
 Ca-bo-ra Bas-sa
 Ca-bral
@@ -24063,7 +24063,7 @@ ca-du-cous
 ca-ella
 ca-f
 ca-fard
-ca-fŽ
+ca-fÅ½
 Ca-glia-ri
 Ca-glios-tro
 Ca-glio-stro
@@ -24155,14 +24155,14 @@ ca-lyp-trate
 ca-lyp-tro-gen
 ca-lyx
 ca-lyx-es
-ca-lche
+ca-lÂche
 ca-mail
 ca-mailed
 ca-man-cha-ca
 ca-mau-ro
 Ca-ma-cho
 Ca-ma-g
-Ca-ma-gŸey
+Ca-ma-gÅ¸ey
 ca-ma-ra-de-rie
 Ca-mel-lia
 ca-mel-lia
@@ -24440,7 +24440,7 @@ ca-run-cu-late
 ca-run-cu-lat-ed
 Ca-ruth-ers-ville
 Ca-ru-so
-Ca-rœ-pa-no
+Ca-rÅ“-pa-no
 ca-sa
 Ca-sals
 ca-saque
@@ -24490,7 +24490,7 @@ ca-tas-tro-phe
 ca-tas-tro-phism
 ca-tas-tro-phist
 Ca-taw-ba
-Ca-ta-lu-–a
+Ca-ta-lu-â€“a
 Ca-ta-nia
 ca-ten-u-late
 ca-ter
@@ -24578,10 +24578,10 @@ Ca-xi-as
 Ca-ye-y
 Ca-yu-ga
 ca-zique
-ca-•que
-ca-–a-da
-ca-–on
-Ca-Øs-ter
+ca-â€¢que
+ca-â€“a-da
+ca-â€“on
+Ca-Ã˜s-ter
 CBC
 CBD
 cbd
@@ -24959,8 +24959,8 @@ cer-car-i-a
 cer-car-i-ae
 cer-car-i-al
 cer-car-i-an
-cer-ce-lŽ
-cer-ce-lŽe
+cer-ce-lÅ½
+cer-ce-lÅ½e
 cer-ci
 cer-cis
 Cer-co-pes
@@ -25035,10 +25035,10 @@ cer-ti-o-ra-ri
 cer-ti-tude
 cer-to-si-na
 Cer-van-tes
-cer-vel-lire
+cer-vel-liÂre
 cer-ve-las
 cer-ve-lat
-cer-ve-lire
+cer-ve-liÂre
 cer-vid
 Cer-vin
 cer-vine
@@ -25077,9 +25077,9 @@ Cey-lon
 Cey-lon moss
 Cey-lo-nese
 ce-a-no-thus
-Ce-a-r‡
+Ce-a-râ€¡
 Ce-b
-Ce-bœ
+Ce-bÅ“
 ce-cal
 Ce-cile
 Ce-cil-ia
@@ -25135,7 +25135,7 @@ ce-lo-nav-i-ga-tion
 ce-lom
 ce-lot-o-my
 ce-lo-scope
-Ce-l‰l
+Ce-lâ€°l
 Ce-mal
 ce-ment
 ce-ment-er
@@ -25399,7 +25399,7 @@ champ
 Champs -ly-s
 champ-er
 champ-le-v
-champ-le-vŽ
+champ-le-vÅ½
 champ-y
 cham-ae-phyte
 cham-ber
@@ -25421,7 +25421,7 @@ Cham-ber-tin
 Cham-blee
 Cham-bord
 cham-bray
-Cham-bŽ-ry
+Cham-bÅ½-ry
 Cham-b-ry
 cham-fer
 cham-fer-er
@@ -25705,7 +25705,7 @@ char-cu-tier
 Char-din
 Char-don
 Char-don-net
-char-gŽ
+char-gÅ½
 char-g-faires
 char-ing
 Char-ing Cross
@@ -25812,7 +25812,7 @@ char-vet
 char-wom-an
 char-wom-en
 char-y
-char-ˆ-cin
+char-Ë†-cin
 Chase
 chase
 chase-a-ble
@@ -25838,9 +25838,9 @@ chas-s
 chas-seur
 chas-sis
 Chas-si-dim
-chas-sŽ
-chas-sŽd
-chas-sŽ-ing
+chas-sÅ½
+chas-sÅ½d
+chas-sÅ½-ing
 chas-ten
 chas-ten-er
 chas-ten-ing-ly
@@ -25913,7 +25913,7 @@ chay
 chay-a
 chay-a-root
 Chay-ef-sky
-cha”-nŽ
+chaâ€-nÅ½
 cha-bouk
 Cha-bri-er
 Cha-brol
@@ -26473,7 +26473,7 @@ chiff-robe
 chif-fe-robe
 chif-fon
 chif-fon-nier
-chif-fon-nire
+chif-fon-niÂre
 chif-fo-nade
 chif-fo-nier
 chif-fo-robe
@@ -26733,7 +26733,7 @@ chi-gnons
 Chi-hua-hua
 Chi-ka-mat-su
 Chi-ll
-Chi-ll‡n
+Chi-llâ€¡n
 Chi-lo
 Chi-lom-on-as
 Chi-lon
@@ -26797,7 +26797,7 @@ Chi-nook
 Chi-nook Jar-gon
 Chi-nook sal-mon
 Chi-nook-an
-chi-nŽ
+chi-nÅ½
 chi-on-o-dox-a
 Chi-os
 Chi-o-ne
@@ -26934,7 +26934,7 @@ chlo-ro-spi-nel
 chlo-ro-thi-a-zide
 chlo-ro-tri-flu-o-ro-eth-yl-ene
 chlo-ro-tri-flu-o-ro-meth-ane
-Chlo-‘
+Chlo-â€˜
 chm
 Choate
 chock
@@ -27189,13 +27189,13 @@ cho-rused
 cho-rus-es
 cho-rus-ing
 cho-rus-mas-ter
-Cho-rz—w
+Cho-rzâ€”w
 cho-sen
 Cho-sen
 cho-sen peo-ple
 Cho-sn
 Cho-ta Nag-pur
-Cho-‘ph-o-ri
+Cho-â€˜ph-o-ri
 Chr
 chremz-lach
 chrem-sel
@@ -27599,17 +27599,17 @@ chy-mous
 chy-mo-sin
 chy-mo-tryp-sin
 chy-mo-tryp-sin-o-gen
-Ch‰-lons
-Ch‰-lons-sur-Marne
-Ch‰-lons-sur-Sa™ne
-ch‰-teau
-Ch‰-teau-Thier-ry
-Ch‰-teau-neuf-du-Pape
-Ch‰-teau-roux
-chŽ-chia
-ChŽ-nier
-chŽ-rie
-ch-nire
+Châ€°-lons
+Châ€°-lons-sur-Marne
+Châ€°-lons-sur-Saâ„¢ne
+châ€°-teau
+Châ€°-teau-Thier-ry
+Châ€°-teau-neuf-du-Pape
+Châ€°-teau-roux
+chÅ½-chia
+ChÅ½-nier
+chÅ½-rie
+chÂ-niÂre
 Ch-lons-sur-Marne
 Ch-nier
 ch-teau
@@ -27775,8 +27775,8 @@ cin-que-cen-to
 cin-que-de-a
 Cin-y-ras
 Cin-za-no
-cin-Ž
-cin-Ž-aste
+cin-Å½
+cin-Å½-aste
 CIO
 cip-o-lin
 cip-pi
@@ -28134,7 +28134,7 @@ civ-i-li-za-tion
 civ-i-li-za-tion-al
 civ-vies
 civ-vy
-ciŽ-na-ga
+ciÅ½-na-ga
 ci-bar-i-a
 ci-bar-i-al
 ci-bar-i-an
@@ -28181,11 +28181,11 @@ ci-pher-er
 Ci-pus
 ci-r
 Ci-ren-ces-ter
-ci-rŽ
+ci-rÅ½
 ci-seaux
 ci-se-leur
 ci-se-lure
-ci-se-lŽ
+ci-se-lÅ½
 ci-ta-tion
 ci-ta-to-ry
 Ci-thae-ron
@@ -28650,7 +28650,7 @@ Cle-an-tha
 Cle-an-thes
 Cle-ar-chus
 Cle-burne
-cle-chŽ
+cle-chÅ½
 Cle-mens
 Cle-men-ceau
 Cle-men-ti
@@ -28775,7 +28775,7 @@ cli-an-thus
 cli-ch
 cli-che
 Cli-chy
-cli-chŽ
+cli-chÅ½
 Cli-de
 cli-ent
 cli-ent-age
@@ -28871,7 +28871,7 @@ cloi-son
 cloi-son-n
 Cloi-son-nisme
 Cloi-son-nist
-cloi-son-nŽ
+cloi-son-nÅ½
 cloke
 clomb
 clomp
@@ -28988,7 +28988,7 @@ clo-nus
 clo-nus-es
 clo-que
 Clo-quet
-clo-quŽ
+clo-quÅ½
 Clo-rin-da
 Clo-ris
 clo-sure
@@ -29015,7 +29015,7 @@ clo-ver-y
 Clo-vis
 Clo-vis I
 clo-vis point
-Clo-‘
+Clo-â€˜
 club
 club sand-wich
 club-a-bil-i-ty
@@ -29093,7 +29093,7 @@ Cly-taem-nes-ra
 Cly-taem-nes-tra
 Cly-tem-nes-tra
 Cly-ti-us
-Cly-ti-‘
+Cly-ti-â€˜
 Cmdr
 CMF
 CMG
@@ -29572,7 +29572,7 @@ colt-ish
 colt-ish-ly
 colt-ish-ness
 col-an-der
-Col-ax-a-•s
+Col-ax-a-â€¢s
 col-a-co-bi-ot-ic
 col-a-co-bi-o-sis
 Col-baith
@@ -30368,7 +30368,7 @@ com-mu-ni-ca-tive-ness
 com-mu-ni-ca-tor
 com-mu-ni-ca-to-ry
 com-mu-ni-qu
-com-mu-ni-quŽ
+com-mu-ni-quÅ½
 com-mu-ni-tal
 com-mu-ni-tar-i-an
 com-mu-ni-ty
@@ -30476,10 +30476,10 @@ com-pa-thy
 com-pa-tri-ot
 com-pa-tri-ot-ic
 com-pa-tri-ot-ism
-com-pa-–e-ro
-com-pa-–e-ros
-com-pa-–i-a
-com-pa-–i-as
+com-pa-â€“e-ro
+com-pa-â€“e-ros
+com-pa-â€“i-a
+com-pa-â€“i-as
 com-peer
 com-pel
 com-pelled
@@ -30531,7 +30531,7 @@ com-piled
 com-pil-a-to-ry
 com-pil-er
 com-pil-ing
-Com-pigne
+Com-piÂgne
 com-pi-la-tion
 com-pi-la-tion film
 com-plain
@@ -30675,7 +30675,7 @@ com-po-nent
 com-po-nent-ed
 com-po-nen-tial
 com-po-ny
-com-po-nŽ
+com-po-nÅ½
 com-po-site
 com-po-site num-ber
 com-po-site pho-to-graph
@@ -30878,7 +30878,7 @@ con-cen-tri-cal
 con-cen-tri-cal-ly
 con-cept
 Con-cep-ci
-Con-cep-ci—n
+Con-cep-ciâ€”n
 con-cep-tac-u-lar
 con-cep-ta-cle
 con-cep-tion
@@ -31173,7 +31173,7 @@ con-dy-lom-a-tous
 con-dy-lo-ma
 con-dy-lo-mas
 con-dy-lo-ma-ta
-Con-dŽ
+Con-dÅ½
 Con-el-rad
 Con-es-to-ga wag-on
 con-fab
@@ -31471,7 +31471,7 @@ con-gru-i-ty
 con-gru-ous
 con-gru-ous-ly
 con-gru-ous-ness
-con-gŽ
+con-gÅ½
 con-ic
 con-ic pro-jec-tion
 con-ic sec-tion
@@ -31745,7 +31745,7 @@ con-sol-i-to-ri-ly
 con-sol-i-to-ri-ness
 con-sol-ute
 con-som-m
-con-som-mŽ
+con-som-mÅ½
 con-son-an-tize
 con-son-an-tized
 con-son-an-tiz-ing
@@ -32317,7 +32317,7 @@ con-tu-me-ly
 con-tu-sion
 con-tu-sioned
 con-tu-sive
-con-tŽ
+con-tÅ½
 con-ure
 con-ur-ba-tion
 con-val-lar-i-a-ceous
@@ -32642,7 +32642,7 @@ cop-per-y
 cop-pice
 cop-piced
 cop-ping
-Cop-pŽe
+Cop-pÅ½e
 cop-ra
 cop-rae-mic
 cop-rae-mi-a
@@ -32916,8 +32916,8 @@ cor-ner-stone
 cor-ner-ways
 cor-ner-wise
 cor-net
-cor-net-ˆ-pis-tons
-cor-nets-ˆ-pis-tons
+cor-net-Ë†-pis-tons
+cor-nets-Ë†-pis-tons
 cor-nett
 cor-nette
 cor-net-cy
@@ -33145,7 +33145,7 @@ cor-ru-gat-ing
 cor-ru-ga-tion
 cor-ru-ga-tor
 Cor-ry
-Cor-rze
+Cor-rÂze
 cor-sac
 cor-sage
 cor-sair
@@ -33181,9 +33181,9 @@ cor-ti-sol
 cor-ti-sone
 Cor-tot
 Cor-to-na
-Cor-tŽs
-cor-tge
-cor-tg-es
+Cor-tÅ½s
+cor-tÂge
+cor-tÂg-es
 cor-us-cate
 cor-us-cat-ed
 cor-us-cat-ing
@@ -33196,7 +33196,7 @@ cor-vine
 cor-vi-na
 cor-vo
 Cor-vus
-cor-vŽe
+cor-vÅ½e
 Cor-win
 Cor-yell
 cor-ymb
@@ -33217,7 +33217,7 @@ Cor-y-phae-a
 cor-y-phae-i
 cor-y-phae-us
 Cor-y-pha-sia
-cor-y-phŽe
+cor-y-phÅ½e
 Cor-y-thus
 cos
 Cos
@@ -33735,7 +33735,7 @@ couth-y
 cou-cal
 cou-chant
 cou-chette
-cou-chŽ
+cou-chÅ½
 cou-d
 Cou-ders-port
 Cou-e
@@ -33751,7 +33751,7 @@ Cou-lomb field
 Cou-lomb's law
 cou-lomb-me-ter
 cou-lom-e-ter
-cou-lŽe
+cou-lÅ½e
 cou-ma-rin
 cou-ma-rone
 cou-p
@@ -33766,7 +33766,7 @@ cou-ple-ment
 cou-pling
 cou-pon
 cou-pon-less
-cou-pŽ
+cou-pÅ½
 cou-rant
 cou-rante
 cou-ra-geous
@@ -33782,12 +33782,12 @@ cou-til
 cou-ture
 cou-tu-riers
 cou-tu-ri-er
-cou-tu-ri-re
-cou-tu-ri-res
+cou-tu-ri-Âre
+cou-tu-ri-Âres
 cou-vade
-Cou-Ž
-cou-Ž
-Cou-Ž-ism
+Cou-Å½
+cou-Å½
+Cou-Å½-ism
 cove
 cov-en
 Cov-ent Gar-den
@@ -34284,7 +34284,7 @@ co-lure
 co-lu-go
 Co-lu-sa
 co-ly
-Co-l—n
+Co-lâ€”n
 co-ma
 Co-ma Ber-e-ni-ces
 Co-mae-tho
@@ -34409,7 +34409,7 @@ co-pe-pod
 co-pe-set-ic
 co-pe-set-tic
 Co-piague
-Co-pia-p—
+Co-pia-pâ€”
 co-pi-lot
 co-pi-os-i-ty
 co-pi-ous
@@ -34433,7 +34433,7 @@ co-proph-i-lous
 co-pros-ma
 co-pros-ta-nol
 co-pros-ter-ol
-Co-p‡n
+Co-pâ€¡n
 co-quet
 co-quette
 co-quet-ry
@@ -34496,12 +34496,12 @@ Co-ro-nis
 co-ro-no-graph
 Co-ro-nus
 co-ro-zo
-Co-rum-b‡
+Co-rum-bâ€¡
 co-run-dum
 Co-run-na
 co-rus-cant
 co-rus-cate
-Co-ru-–a
+Co-ru-â€“a
 co-ryd-a-lis
 co-rym-bose
 co-rym-bose-ly
@@ -34584,24 +34584,24 @@ co-zi-est
 co-zi-ly
 co-zi-ness
 co-zy
-co-špt
-co-šp-er-ate
-co-šp-er-a-tion
-co-šp-er-a-tion-ist
-co-šp-er-a-tive
-co-šp-er-a-tive-ly
-co-šp-er-a-tive-ness
-co-šp-er-a-tor
-co-šp-ta-tion
-co-šp-ta-tive
-co-šp-tion
-co-šr-di-nal
-co-šr-di-nate
-co-šr-di-nate-ly
-co-šr-di-nate-ness
-co-šr-di-na-tion
-co-šr-di-na-tive
-co-šr-di-na-tor
+co-Å¡pt
+co-Å¡p-er-ate
+co-Å¡p-er-a-tion
+co-Å¡p-er-a-tion-ist
+co-Å¡p-er-a-tive
+co-Å¡p-er-a-tive-ly
+co-Å¡p-er-a-tive-ness
+co-Å¡p-er-a-tor
+co-Å¡p-ta-tion
+co-Å¡p-ta-tive
+co-Å¡p-tion
+co-Å¡r-di-nal
+co-Å¡r-di-nate
+co-Å¡r-di-nate-ly
+co-Å¡r-di-nate-ness
+co-Å¡r-di-na-tion
+co-Å¡r-di-na-tive
+co-Å¡r-di-na-tor
 cpd
 Cpl
 CPO
@@ -34711,9 +34711,9 @@ cram-ming-ly
 cram-oi-sie
 cram-oi-sy
 cram-pon
-cram-pon-nŽe
+cram-pon-nÅ½e
 cram-poon
-cram-po-nŽe
+cram-po-nÅ½e
 cran
 crane
 Crane
@@ -35127,7 +35127,7 @@ cre-na-tion
 cre-nelle
 cre-nelled
 cre-nel-ling
-cre-nel-lŽ
+cre-nel-lÅ½
 Cre-ole
 cre-ole
 cre-ole-fish
@@ -35161,7 +35161,7 @@ cre-ta-ceous
 Cre-ta-ceous
 cre-ta-ceous-ly
 Cre-the-us
-Cre-the-•s
+Cre-the-â€¢s
 cre-tic
 cre-tin
 cre-tin-ism
@@ -35172,7 +35172,7 @@ cre-val-le
 cre-vasse
 cre-vassed
 cre-vas-sing
-Cre-Ÿ-sa
+Cre-Å¸-sa
 crib
 crib-bit-ing
 crib-bage
@@ -35240,7 +35240,7 @@ cring-ing-ly
 cring-ing-ness
 crin-et
 crin-gle
-crin-ire
+crin-iÂre
 crin-kle
 crin-kle-root
 crin-kli-er
@@ -35285,7 +35285,7 @@ cris-tat-ed
 Cris-tophe
 Cris-to-bal
 cris-to-bal-ite
-Cris-t—-bal
+Cris-tâ€”-bal
 crit
 crit-ic
 crit-ic-as-ter
@@ -35321,7 +35321,7 @@ crit-ter
 crit-tur
 criz-zle
 cri-bel-lum
-cri-blŽ
+cri-blÅ½
 cri-coid
 cri-co-pha-ryn-ge-al
 cri-er
@@ -35352,7 +35352,7 @@ cri-sic
 cri-sis
 Cri-si-um
 Cri-spi
-Cri-st—-bal
+Cri-stâ€”-bal
 cri-te-ri-a
 cri-te-ri-on
 cri-te-ri-on-al
@@ -35398,7 +35398,7 @@ Crom-wel-li-an
 crone
 cronk
 cron-ish
-Cron-jŽ
+Cron-jÅ½
 crood
 crook
 Crookes ra-di-om-e-ter
@@ -35951,10 +35951,10 @@ cry-o-stat
 cry-o-sur-ger-y
 cry-o-ther-a-py
 cry-o-tron
-CrŽ-cy
-crch-es
-Crve-coeur
-CrŸ-ger
+CrÅ½-cy
+crÂch-es
+CrÂve-coeur
+CrÅ¸-ger
 cr-a-mel
 cr-ca-o
 Cr-cy
@@ -36528,15 +36528,15 @@ cu-da
 Cu-fic
 Cu-i
 Cu-ia-bor Cu-ya-b
-Cu-ia-b‡
+Cu-ia-bâ€¡
 cu-ing
-cu-iŽ-jo
+cu-iÅ½-jo
 Cu-kor
 cu-let
 cu-lex
 Cu-le-bra Cut
 Cu-lia-c
-Cu-lia-c‡n
+Cu-lia-câ€¡n
 cu-lic-id
 Cu-lion
 cu-li-ces
@@ -36547,7 +36547,7 @@ cu-lottes
 Cu-mae
 Cu-mae-an
 Cu-ma-n
-Cu-ma-n‡
+Cu-ma-nâ€¡
 cu-ma-rin
 cu-ma-rone
 cu-mul-et
@@ -36632,8 +36632,8 @@ cu-ra-tor-ship
 cu-ra-to-ri-al
 cu-ra-trix
 cu-ra-tri-ces
-Cu-ra-ao
-cu-ra-oa
+Cu-ra-Âao
+cu-ra-Âoa
 cu-ret
 cu-rette
 cu-rette-ment
@@ -36664,8 +36664,8 @@ Cu-ri-ty-ba
 cu-ri-um
 cu-rule
 cu-rule chair
-cu-rŽ
-cu-rŽs
+cu-rÅ½
+cu-rÅ½s
 Cu-san-us
 cu-sec
 cu-shaw
@@ -36686,9 +36686,9 @@ cu-ti-cle
 cu-ti-col-or
 cu-vette
 Cu-vi-er
-cu-vŽe
+cu-vÅ½e
 Cu-ya-b
-Cu-ya-b‡
+Cu-ya-bâ€¡
 CVA
 CVO
 Cwlth
@@ -36764,7 +36764,7 @@ Cyp-ri-ote
 cyp-ri-pe-di-um
 cyp-se-la
 Cyp-se-lus
-Cyr-l'Ž-cole
+Cyr-l'Å½-cole
 Cyr-a-no
 Cyr-e-na-ic
 Cyr-e-na-i-ca
@@ -36812,7 +36812,7 @@ cy-an
 cy-an-a-mid
 cy-an-a-mide
 cy-an-e-ous
-Cy-an-e-‘
+Cy-an-e-â€˜
 cy-an-ic
 cy-an-ic ac-id
 cy-an-o-gen
@@ -37064,18 +37064,18 @@ Czer-no-witz
 Czer-ny
 Cze-sto-cho-wa
 Cz-sto-cho-wa
-C‡r-de-nas
-C‡-diz
-C‰n-di-do
-cŽn-ti-mo
-cŽ-du-la
-CŽ-line
-CŽ-li-ba-taires
-CŽ-sar
-CŽ-vennes
-CŽ-zanne
-C—r-do-ba
-Cœ-cu-ta
+Câ€¡r-de-nas
+Câ€¡-diz
+Câ€°n-di-do
+cÅ½n-ti-mo
+cÅ½-du-la
+CÅ½-line
+CÅ½-li-ba-taires
+CÅ½-sar
+CÅ½-vennes
+CÅ½-zanne
+Câ€”r-do-ba
+CÅ“-cu-ta
 C-ce-res
 C-cu-ta
 C-de-nas
@@ -37088,7 +37088,7 @@ c-ti-mo
 C-vennes
 C-zanne
 C-zur
-C¾d-mon
+CÂ¾d-mon
 D re-gion
 d'ac-cord
 d'Al-bert
@@ -37196,7 +37196,7 @@ Dag-na
 Dag-ney
 Dag-ny
 Dag-wood
-Dag-š
+Dag-Å¡
 dah
 Dahl-gren
 dahl-ia
@@ -37399,14 +37399,14 @@ Dan-a-e
 Dan-a-i
 Dan-a-id-e-an
 Dan-a-us
-Dan-a-Šn
-Dan-a-‘
+Dan-a-Å n
+Dan-a-â€˜
 dan-bur-ite
 Dan-bur-y
 dan-cette
 dan-cet-ty
-dan-cet-tŽ
-dan-cet-tŽe
+dan-cet-tÅ½
+dan-cet-tÅ½e
 dan-der
 dan-de-li-on
 Dan-die
@@ -37676,7 +37676,7 @@ dau-phin
 dau-phine
 dau-phin-ess
 Dau-phi-n
-Dau-phi-nŽ
+Dau-phi-nÅ½
 Dave
 Dav-en-port
 dav-en-port
@@ -37748,7 +37748,7 @@ daz-zler
 daz-zling-ly
 da-cha
 Da-chau
-Da-chŽ
+Da-chÅ½
 Da-ci-a
 da-coit
 da-coit-ies
@@ -37800,7 +37800,7 @@ da-led
 da-leth
 Da-li
 Da-ly
-Da-lŽn
+Da-lÅ½n
 Da-m
 Da-man
 Da-man-h
@@ -37815,7 +37815,7 @@ Da-ma-ra-land
 Da-mien
 Da-mon
 Da-mon and Pyth-i-as
-Da-m‹o
+Da-mâ€¹o
 Da-na
 Da-nang
 da-na-ite
@@ -37836,14 +37836,14 @@ Da-nu
 Da-nu-ta
 Da-rice
 Da-rius
-Da-riŽn
+Da-riÅ½n
 Da-ri-a
 Da-ri-o
 Da-ri-us
 Da-ri-us I
 Da-ri-us III
 da-ro-gha
-Da-r’-o
+Da-râ€™-o
 Da-sa-ha-ra
 da-sein
 Da-se-hra
@@ -38315,7 +38315,7 @@ Del-a-van
 Del-a-ware
 Del-a-war-e-an
 Del-bert
-Del-cas-sŽ
+Del-cas-sÅ½
 del-e-gate
 del-e-gat-ed
 del-e-gat-ing
@@ -38586,7 +38586,7 @@ den-u-date
 den-u-da-tion
 Den-ver
 Den-ys
-Den-”s
+Den-â€s
 dep
 dept
 depth
@@ -38690,7 +38690,7 @@ der-ma-to-ses
 der-ma-to-sis
 der-ma-to-zo-a
 der-ma-to-zo-on
-der-ma-to-zo-šn
+der-ma-to-zo-Å¡n
 der-ma-trop-ic
 der-mic
 der-mis
@@ -38717,7 +38717,7 @@ der-ring-do
 der-rin-ger
 der-ris
 der-ri-ere
-der-ri-re
+der-ri-Âre
 der-ry
 Der-ry
 der-ry-down
@@ -38898,7 +38898,7 @@ Deut-sche Mark
 Deut-scher
 Deut-sche-mark
 deut-zi-a
-Deux-S-vres
+Deux-SÂ-vres
 Deu-ca-li-on
 deu-ced
 deu-ter-ag-o-nist
@@ -39070,7 +39070,7 @@ de-a-cet-y-la-tion
 de-a-late
 de-a-lat-ed
 de-a-la-tion
-de-a-‘r-ate
+de-a-â€˜r-ate
 de-bag
 de-bagged
 de-bag-ging
@@ -39836,7 +39836,7 @@ de-ice
 de-iced
 de-ic-er
 de-ic-ing
-De-ic-o-šn
+De-ic-o-Å¡n
 de-if-ic
 de-ism
 de-ist
@@ -40173,7 +40173,7 @@ de-mon-stra-tive
 de-mon-stra-tive-ly
 de-mon-stra-tive-ness
 de-mon-stra-tor
-De-moph-o-šn
+De-moph-o-Å¡n
 De-mop-o-lis
 de-mor-al-ise
 de-mor-al-ised
@@ -40969,7 +40969,7 @@ de-vel-op-ing
 de-vel-op-ment
 de-vel-op-men-tal
 de-vel-op-men-ta-ry
-de-vel-op-pŽ
+de-vel-op-pÅ½
 De-ven-ter
 de-vest
 De-vi
@@ -41064,16 +41064,16 @@ De-wa-li
 de-wa-ter
 De-wi
 de-zinc-i-fi-ca-tion
-de-‘m-pha-sis
-de-‘s-ca-late
-de-‘s-ca-la-tion
-De-•ph-i-lus
-De-•ph-o-be
-De-•ph-o-bus
-De-•p-y-le
-De-•p-y-lus
-De-•-on
-De-•-o-pe
+de-â€˜m-pha-sis
+de-â€˜s-ca-late
+de-â€˜s-ca-la-tion
+De-â€¢ph-i-lus
+De-â€¢ph-o-be
+De-â€¢ph-o-bus
+De-â€¢p-y-le
+De-â€¢p-y-lus
+De-â€¢-on
+De-â€¢-o-pe
 DFC
 DFM
 Dhah-ran
@@ -41507,7 +41507,7 @@ dip-lo-pod
 dip-lo-ste-mo-nous
 dip-lo-ste-mo-ny
 dip-lo-tene
-dip-lo-‘
+dip-lo-â€˜
 dip-nee-dle
 dip-no-an
 dip-o-dy
@@ -41907,7 +41907,7 @@ dis-co-graph-i-cal-ly
 dis-co-phil
 dis-co-phile
 dis-co-theque
-dis-co-thque
+dis-co-thÂque
 dis-cred-it
 dis-cred-it-a-bil-i-ty
 dis-cred-it-a-ble
@@ -42202,7 +42202,7 @@ dis-june
 Dis-ko
 dis-kog-ra-phy
 dis-ko-phile
-dis-k™rs
+dis-kâ„¢rs
 dis-like
 dis-liked
 dis-lik-a-ble
@@ -42727,8 +42727,8 @@ dis-tin-guish-er
 dis-tin-guish-ing
 dis-tin-guish-ing-ly
 dis-tin-guish-ment
-dis-tin-guŽ
-dis-tin-guŽe
+dis-tin-guÅ½
+dis-tin-guÅ½e
 dis-ti-chal
 dis-ti-chous
 dis-ti-chous-ly
@@ -43827,8 +43827,8 @@ di-vorc-er
 di-vorc-ing
 di-vor-cee
 di-vor-cive
-di-vor-cŽ
-di-vor-cŽe
+di-vor-cÅ½
+di-vor-cÅ½e
 di-vulge
 di-vulged
 di-vulge-ment
@@ -44065,7 +44065,7 @@ dog-watch
 dog-win-kle
 dog-wood
 doh
-Doh-n‡-nyi
+Doh-nâ€¡-nyi
 Doh-n-nyi
 doiled
 doit
@@ -44313,7 +44313,7 @@ dop-er
 dop-ing
 dop-i-er
 dop-i-est
-Dop-pel-gŠng-er
+Dop-pel-gÅ ng-er
 Dop-pel-g-er
 Dop-pel-may-er
 Dop-per
@@ -44391,7 +44391,7 @@ dor-so-ven-tral
 dor-so-ven-tral-ly
 dor-sum
 dor-ter
-Dor-ti-c—s
+Dor-ti-câ€”s
 dor-ti-ness
 dor-tour
 Dos Pas-sos
@@ -44644,8 +44644,8 @@ dou-tim-ing
 dou-tongued
 dou-tongu-ing
 dou-zaine
-dou-zi-me
-dou-zi-mes
+dou-zi-Âme
+dou-zi-Âmes
 DOVAP
 Dove
 dove
@@ -44815,7 +44815,7 @@ Do-bie
 do-bl
 do-bla
 do-blon-es
-do-bl—n
+do-blâ€”n
 do-bra
 Do-bro
 Do-bro-gea
@@ -44973,8 +44973,8 @@ Do-ro-bo
 Do-rus
 do-ry
 do-ry-man
-Do-rŽ
-do-rŽ
+Do-rÅ½
+do-rÅ½
 do-sim-e-ter
 do-sim-e-try
 do-si-met-ric
@@ -44989,7 +44989,7 @@ Do-ver's pow-der
 Do-wa-giac
 do-wie
 do-wy
-do-–a
+do-â€“a
 DPH
 DPh
 DPM
@@ -45185,7 +45185,7 @@ dra-goon
 dra-goon-age
 dra-go-man
 Dra-gui-gnan
-dra-gŽe
+dra-gÅ½e
 Dra-kens-berg
 dra-ma
 dra-mat-ic
@@ -45466,7 +45466,7 @@ drow-sy
 dro-gher
 dro-som-e-ter
 dro-soph-i-la
-Dro-ste-HŸls-hoff
+Dro-ste-HÅ¸ls-hoff
 dro-ver
 Dru
 drub
@@ -45641,7 +45641,7 @@ due
 dues
 due-ness
 Due-ro
-Due-–a
+Due-â€“a
 duff
 Duff
 duff-er
@@ -45828,7 +45828,7 @@ Dur-r
 dur-ra
 Dur-rell
 dur-rie
-Dur-r‘s
+Dur-râ€˜s
 Dur-yea
 dur-zi
 dusk
@@ -46039,7 +46039,7 @@ Du-pont
 du-pon-di-i
 du-pon-di-us
 Du-pr
-Du-prŽ
+Du-prÅ½
 Du-que de Ca-xi-as
 Du-quesne
 du-ra
@@ -46111,7 +46111,7 @@ Dvi-na Bay
 Dvi-na Gulf
 DVM
 Dvo-rak
-Dvo-r‡k
+Dvo-râ€¡k
 dwale
 dwalm
 dwarf
@@ -46307,36 +46307,36 @@ Dzong-ka
 Dzun-ga-ri-a
 Dzu-gash-vi-li
 Dzyu-bin
-D‡-ma-so
-dŽb-u-tant
-dŽb-u-tante
-dŽ-bou-chŽ
-dŽ-bo”-tŽ
-dŽ-bris
-dŽ-but
-dŽ-clas-sŽ
-dŽ-clas-sŽe
-dŽ-colle-tage
-dŽ-colle-tŽ
-dŽ-cor
-dŽ-cou-page
-dŽ-ga-gŽ
-dŽ-jeu-ner
-dŽ-marche
-dŽ-men-ti
-dŽ-mo-dŽ
-dŽ-par-te-ment
-DŽ-si-rŽe
-dŽ-tente
-dŽ-te-nu
-dŽ-te-nue
-D’-az
-Dš-blin
-DŸs-sel-dorf
-DŸ-na
-DŸ-na-burg
-DŸ-rer
-dŸ-sen-wind
+Dâ€¡-ma-so
+dÅ½b-u-tant
+dÅ½b-u-tante
+dÅ½-bou-chÅ½
+dÅ½-boâ€-tÅ½
+dÅ½-bris
+dÅ½-but
+dÅ½-clas-sÅ½
+dÅ½-clas-sÅ½e
+dÅ½-colle-tage
+dÅ½-colle-tÅ½
+dÅ½-cor
+dÅ½-cou-page
+dÅ½-ga-gÅ½
+dÅ½-jeu-ner
+dÅ½-marche
+dÅ½-men-ti
+dÅ½-mo-dÅ½
+dÅ½-par-te-ment
+DÅ½-si-rÅ½e
+dÅ½-tente
+dÅ½-te-nu
+dÅ½-te-nue
+Dâ€™-az
+DÅ¡-blin
+DÅ¸s-sel-dorf
+DÅ¸-na
+DÅ¸-na-burg
+DÅ¸-rer
+dÅ¸-sen-wind
 D-az de Bi-var
 d-bride-ment
 d-bris
@@ -47624,7 +47624,7 @@ em-bow-el-ing
 em-bow-el-ling
 em-bow-er
 em-bow-ment
-em-bo”-tŽ
+em-boâ€-tÅ½
 em-bo-lec-to-my
 em-bo-lism
 em-bo-lis-mic
@@ -47843,7 +47843,7 @@ em-ploy-ment
 em-ploy-ment a-gen-cy
 em-ploy-ment ex-change
 Em-ploy-ment Ser-vice A-gen-cy
-em-ploy-Ž
+em-ploy-Å½
 em-poi-son
 em-poi-son-ment
 em-pol-der
@@ -48007,7 +48007,7 @@ en-case-ment
 en-cash
 en-cas-ing
 en-cas-tered
-en-cas-trŽ
+en-cas-trÅ½
 en-caus-tic
 en-caus-ti-cal-ly
 en-ceinte
@@ -48046,7 +48046,7 @@ en-chase
 en-chased
 en-chas-er
 en-chas-ing
-en-cha”ne-ment
+en-chaâ€ne-ment
 en-chi-la-da
 en-chi-rid-i-a
 en-chi-rid-i-on
@@ -48173,7 +48173,7 @@ en-der-mic
 en-der-mi-cal-ly
 En-de-cott
 en-de-mism
-En-de-•s
+En-de-â€¢s
 en-dive
 En-di-cott
 en-doc-ri-nous
@@ -48404,7 +48404,7 @@ en-gag-ing-ness
 en-gar-land
 En-ga-dine
 en-ga-gee
-en-ga-gŽ
+en-ga-gÅ½
 En-gels
 En-gel-ber-ta
 en-gen-der
@@ -48556,10 +48556,10 @@ En-no-sig-ae-us
 en-nui
 en-nuy-ant
 en-nuy-ante
-en-nuy-Ž
-en-nuy-Že
-en-nuy-Žes
-en-nuy-Žs
+en-nuy-Å½
+en-nuy-Å½e
+en-nuy-Å½es
+en-nuy-Å½s
 en-o-sis
 En-o-vid
 en-phy-tot-ic
@@ -48858,7 +48858,7 @@ en-trench
 en-trench-ment
 en-tre-c
 en-tre-chat
-en-tre-c™te
+en-tre-câ„¢te
 en-tre-lac
 en-tre-mets
 en-tre-p
@@ -48868,14 +48868,14 @@ en-tre-pre-neur-i-al
 en-tre-pre-neur-ship
 en-tre-pre-neuse
 en-tre-pre-neus-es
-en-tre-p™t
+en-tre-pâ„¢t
 en-tre-sol
 en-tro-py
 en-trust
 en-trust-ment
 en-try
 en-try-way
-en-trŽe
+en-trÅ½e
 en-twine
 en-twined
 en-twine-ment
@@ -48940,8 +48940,8 @@ En-y-a-li-us
 En-zed
 en-zo-ot-ic
 en-zo-ot-i-cal-ly
-en-zo-št-ic
-en-zo-št-i-cal-ly
+en-zo-Å¡t-ic
+en-zo-Å¡t-i-cal-ly
 en-zyme
 en-zy-got-ic
 en-zy-mat-ic
@@ -49256,9 +49256,9 @@ ep-i-zo-on
 ep-i-zo-ot-ic
 ep-i-zo-ot-i-cal-ly
 ep-i-zo-o-ty
-ep-i-zo-št-ic
-ep-i-zo-št-i-cal-ly
-ep-i-zo-š-ty
+ep-i-zo-Å¡t-ic
+ep-i-zo-Å¡t-i-cal-ly
+ep-i-zo-Å¡-ty
 ep-och
 ep-och-mak-ing
 ep-och-al
@@ -49492,7 +49492,7 @@ er-y-sip-e-lo-thrix
 er-y-si-pel-a-tous
 er-y-the-ma
 er-y-the-mat-ic
-Er-y-the-•s
+Er-y-the-â€¢s
 Er-y-thrae-um
 er-y-thris-mal
 er-y-throp-sin
@@ -49543,11 +49543,11 @@ es-cap-ist
 es-carp
 es-carp-ment
 es-car-got
-es-car-go-tire
+es-car-go-tiÂre
 es-car-teled
 es-car-tel-ly
-es-car-te-lŽ
-es-car-te-lŽe
+es-car-te-lÅ½
+es-car-te-lÅ½e
 Es-caut
 es-ca-drille
 es-ca-lade
@@ -49640,9 +49640,9 @@ es-pa-drille
 es-pa-gnole
 es-pa-gno-lette
 Es-pa-na
-Es-pa-–a
-es-pa-–ol
-es-pa-–o-les
+Es-pa-â€“a
+es-pa-â€“ol
+es-pa-â€“o-les
 es-per-ance
 es-pe-cial
 es-pe-cial-ly
@@ -49651,8 +49651,8 @@ Es-pe-ran-tism
 Es-pe-ran-tist
 Es-pe-ran-to
 es-pied
-es-pi-gle
-es-pi-gle-rie
+es-piÂ-gle
+es-piÂ-gle-rie
 es-pi-al
 es-pi-o-nage
 es-pla-nade
@@ -50060,9 +50060,9 @@ eu-ge-nol
 Eu-gle-na
 eu-gle-na
 eu-gon-ic
-Eu-gŽne
-Eu-gŽ-nie
-Eu-gne
+Eu-gÅ½ne
+Eu-gÅ½-nie
+Eu-gÂne
 Eu-g-nie
 eu-he-dral
 eu-he-mer-ise
@@ -51251,7 +51251,7 @@ ex-po-si-tion
 ex-po-si-tion-al
 ex-po-sure
 ex-po-sure me-ter
-ex-po-sŽ
+ex-po-sÅ½
 ex-press
 ex-press ri-fle
 ex-press-age
@@ -51748,7 +51748,7 @@ E-che-ga-ray
 e-che-lon
 E-che-mus
 E-che-tus
-E-che-ver-r’-a
+E-che-ver-râ€™-a
 e-chid-na
 e-chiu-roid
 e-chi-noid
@@ -52004,7 +52004,7 @@ e-la-tion
 e-la-tive
 E-la-tus
 E-la-zig
-E-la-•s
+E-la-â€¢s
 e-lect
 e-lec-tion
 e-lec-tion-eer
@@ -53347,7 +53347,7 @@ E-wig-weib-li-che
 e-ya-let
 E-ze-chi-el
 E-ze-ki-el
-E-‘-ti-on
+E-â€˜-ti-on
 F dis-tri-bu-tion
 f num-ber
 F re-gion
@@ -53483,7 +53483,7 @@ fad-like
 Fae
 Faer-oes
 Faer-o-ese
-Faer-š-er-ne
+Faer-Å¡-er-ne
 fae-cal
 fae-ces
 Fae-roes
@@ -53584,7 +53584,7 @@ fai-nai-guer
 fai-nai-guing
 fai-ne-ance
 fai-ne-ant
-fai-nŽ-ant
+fai-nÅ½-ant
 fai-n-ant
 Fai-sal
 Fai-sal I
@@ -54119,7 +54119,7 @@ fau-nal
 fau-nal-ly
 Fau-nus
 Fau-r
-Fau-rŽ
+Fau-rÅ½
 Fau-stine
 Fau-sti-na
 Fau-sto
@@ -54151,7 +54151,7 @@ faz-ing
 fa-ba-ceous
 Fa-bens
 Fa-ber-g
-Fa-ber-gŽ
+Fa-ber-gÅ½
 Fa-bi-an
 Fa-bi-an So-ci-e-ty
 Fa-bi-an-ism
@@ -54347,10 +54347,10 @@ fa-vus-es
 Fa-yal
 Fa-yum
 fa-zen-da
-fa-ade
-fa-‘r-ie
-fa-‘r-y
-fa-•ence
+fa-Âade
+fa-â€˜r-ie
+fa-â€˜r-y
+fa-â€¢ence
 FBA
 FCO
 feal
@@ -54710,7 +54710,7 @@ Fer-nan-do de No-ro-nha
 Fer-nan-do Po
 Fer-na-ta
 Fer-ne-li-us
-Fer-n‡n-dez
+Fer-nâ€¡n-dez
 fer-rate
 Fer-ra-ra
 Fer-ra-ri
@@ -54892,7 +54892,7 @@ feuil-le-ton
 feuil-le-ton-ism
 feuil-le-ton-ist
 feuil-le-ton-is-tic
-Feuil-lŽe
+Feuil-lÅ½e
 feu-age
 feu-ar
 feu-dal
@@ -55356,7 +55356,7 @@ fil-lis-ter
 fil-li-beg
 fil-li-peen
 fil-ly
-fil-lŽr
+fil-lÅ½r
 fil-mog-ra-phy
 Fil-o-me-na
 fil-o-plume
@@ -55464,7 +55464,7 @@ fin-ish-er
 fin-ish-ing school
 Fin-is-t
 Fin-is-terre
-Fin-is-tre
+Fin-is-tÂre
 fin-i-al
 fin-i-aled
 fin-i-cal
@@ -55739,7 +55739,7 @@ fitch-er
 fitch-et
 fitch-ew
 fitch-y
-fitch-Že
+fitch-Å½e
 Fitz
 Fitz-ger-ald
 Fitz-Ger-ald
@@ -55815,8 +55815,8 @@ fi-an-ce
 fi-an-cee
 fi-an-chet-ti
 fi-an-chet-to
-fi-an-cŽ
-fi-an-cŽe
+fi-an-cÅ½
+fi-an-cÅ½e
 Fi-an-na
 Fi-an-na Fail
 fi-ar
@@ -55927,7 +55927,7 @@ Fi-lip-po
 fi-lose
 fi-lo-sus
 fi-lum
-fi-lŽ
+fi-lÅ½
 fi-nal
 fi-nal cause
 fi-nals
@@ -55945,7 +55945,7 @@ fi-nanc-ing
 fi-nan-cial
 fi-nan-cial year
 fi-nan-cial-ly
-fi-nan-cire
+fi-nan-ciÂre
 fi-nan-ci-er
 fi-na-gle
 fi-na-gler
@@ -56065,8 +56065,8 @@ flam-boy-ance
 flam-boy-ant
 flam-boy-ant-ly
 flam-boy-an-cy
-flam-bŽ
-flam-bŽed
+flam-bÅ½
+flam-bÅ½ed
 flam-er
 flam-ing
 flam-ing-ly
@@ -56721,7 +56721,7 @@ flo-ris-ti-cal-ly
 Flo-ri-a
 Flo-ri-an
 flo-ri-at-ed
-Flo-ri-a-n—p-o-lis
+Flo-ri-a-nâ€”p-o-lis
 flo-ri-bun-da
 flo-ri-can
 flo-ri-cul-ture
@@ -56734,7 +56734,7 @@ Flo-ri-na
 Flo-ri-o
 flo-ru-it
 flo-ry
-Flo-rŽ-al
+Flo-rÅ½-al
 Flo-r-al
 flo-tage
 flo-ta-tion
@@ -56961,12 +56961,12 @@ fly-trap
 fly-way
 fly-weight
 fly-wheel
-fl‰-neur
-fl‰-ne-rie
-flŽ-chette
-flŽ-chettes
-fl-ches
-FlŸ-gel-horn
+flâ€°-neur
+flâ€°-ne-rie
+flÅ½-chette
+flÅ½-chettes
+flÂ-ches
+FlÅ¸-gel-horn
 fl-chette
 fl-neur
 fl-rie
@@ -57619,7 +57619,7 @@ for-lorn
 for-lorn hope
 for-lorn-ly
 for-lorn-ness
-For-l“
+For-lâ€œ
 for-mal
 for-mal lan-guage
 for-mal log-ic
@@ -57706,7 +57706,7 @@ for-myl-ate
 for-myl-at-ed
 for-myl-at-ing
 for-myl-a-tion
-for-mŽe
+for-mÅ½e
 For-nac-is
 For-nax
 For-na-ca-li-a
@@ -57874,7 +57874,7 @@ Foth-er-in-ghay
 fou
 Fouc-quet
 fouet-t
-fouet-tŽ
+fouet-tÅ½
 fought
 fought-en
 foul
@@ -57936,8 +57936,8 @@ fourth-di-men-sion-al
 fourth-ly
 four-bag-ger
 four-chette
-four-chŽ
-four-chŽe
+four-chÅ½
+four-chÅ½e
 Four-drin-i-er
 four-flush-er
 four-fold
@@ -57947,7 +57947,7 @@ four-pence
 four-pen-ny
 four-post-er
 four-ra-g
-four-ra-gre
+four-ra-gÂre
 four-score
 four-some
 four-square
@@ -57966,7 +57966,7 @@ fou-mart
 Fou-qu
 Fou-quet
 Fou-quier-Tin-ville
-Fou-quŽ
+Fou-quÅ½
 Fou-rier
 Fou-ri-er
 Fou-ri-er a-nal-y-sis
@@ -58115,8 +58115,8 @@ fo-zi-er
 fo-zi-est
 fo-zi-ness
 fo-zy
-Fo-•sm
-Fo-•st
+Fo-â€¢sm
+Fo-â€¢st
 FPA
 fps
 fps u-nits
@@ -58204,7 +58204,7 @@ franc
 franc-ti-reur
 France
 Franche-Com-t
-Franche-Com-tŽ
+Franche-Com-tÅ½
 Franck
 francs-ti-reurs
 frang-er
@@ -58264,7 +58264,7 @@ Fran-cis-can
 Fran-cis-co
 fran-ci-um
 Fran-co
-Fran-co-Pro-ven-al
+Fran-co-Pro-ven-Âal
 Fran-co-Prus-sian War
 Fran-cois
 Fran-co-ism
@@ -58294,12 +58294,12 @@ fran-tic
 fran-tic-ly
 fran-tic-ness
 fran-ti-cal-ly
-Fran-aix
-Fran-ois
+Fran-Âaix
+Fran-Âois
 frap
 frap-p
 frap-ping
-frap-pŽ
+frap-pÅ½
 frass
 Fras-cat-i
 frat
@@ -58351,7 +58351,7 @@ fra-ter-nal
 fra-ter-nal-ism
 fra-ter-nal-ly
 fra-ter-ni-ty
-fra-ter-ni-tŽ
+fra-ter-ni-tÅ½
 fra-try
 Fra-va-shi
 Fra-zer
@@ -58504,7 +58504,7 @@ freight-less
 freight-lin-er
 Frei-a
 Frei-burg
-Frei-schŸtz
+Frei-schÅ¸tz
 fremd
 fremd-ly
 fremd-ness
@@ -58823,7 +58823,7 @@ fri-sette
 fri-seur
 Fri-sian
 Fri-sian Is-lands
-fri-sŽ
+fri-sÅ½
 fri-til-lar-y
 Fri-u-li
 Fri-u-li-Ve-ne-zi-a Giu-lia
@@ -59089,12 +59089,12 @@ fry-er
 fry-ing
 fry-ing pan
 fry-pan
-FrŠu-lein
-FrŠu-leins
-FrŽ-chet
-FrŽ-chette
-FrŽ-dŽ-ric
-FrŽ-mont
+FrÅ u-lein
+FrÅ u-leins
+FrÅ½-chet
+FrÅ½-chette
+FrÅ½-dÅ½-ric
+FrÅ½-mont
 Fr-bel
 Fr-lein
 FSA
@@ -59317,7 +59317,7 @@ furl
 furl-a-ble
 furl-er
 furred
-Furt-wŠng-ler
+Furt-wÅ ng-ler
 Furt-w-ler
 furze
 furz-i-er
@@ -59506,7 +59506,7 @@ fu-mi-ga-tor
 fu-mi-ga-to-ry
 fu-mi-to-ry
 fu-mu-lus
-fu-mŽ
+fu-mÅ½
 fu-nam-bu-lism
 fu-nam-bu-list
 fu-ner
@@ -59608,13 +59608,13 @@ fytte
 Fyz-a-bad
 Fy-o-dor
 FZS
-F‡-ti-ma
-FŽ-ne-lon
-FŽ-vri-er
-F‘-dor
-FŸh-rer
-FŸnf-kir-chen
-FŸ-nen
+Fâ€¡-ti-ma
+FÅ½-ne-lon
+FÅ½-vri-er
+Fâ€˜-dor
+FÅ¸h-rer
+FÅ¸nf-kir-chen
+FÅ¸-nen
 F-i-ma
 F-lon
 F-nen
@@ -59889,7 +59889,7 @@ Gal-lus
 gal-lused
 gal-lus-es
 gal-ly-gas-kins
-gal-lŠnt
+gal-lÅ nt
 Gal-ois the-o-ry
 gal-op
 gal-o-pade
@@ -60264,7 +60264,7 @@ gar-vey
 Gar-vin
 Gar-wood
 Gar-y
-gar-on
+gar-Âon
 gas
 gas burn-er
 gas cham-ber
@@ -60582,7 +60582,7 @@ Ga-bri-lo-witsch
 Ga-bun
 ga-by
 Ga-by
-Ga-bs
+Ga-bÂs
 Ga-dhel-ic
 ga-di
 ga-did
@@ -60696,7 +60696,7 @@ ga-rot-ted
 ga-rot-ter
 ga-rot-ting
 Ga-ro-fa-lo
-ga-rœ-a
+ga-rÅ“-a
 Ga-t
 ga-ta
 ga-teau
@@ -60729,7 +60729,7 @@ ga-zet-ting
 ga-ze-bo
 Ga-zi-an-tep
 ga-zump
-ga-Šzh
+ga-Å zh
 GBA
 Gba-ri
 GBE
@@ -60868,7 +60868,7 @@ Genck
 gene
 Gene
 gene fre-quen-cy
-Gene-vive
+Gene-viÂve
 Genf
 Genf-er-see
 genit
@@ -61173,7 +61173,7 @@ ger-mi-na-tion
 ger-mi-na-tive
 ger-mi-na-tive-ly
 ger-mi-na-tor
-Ger-m‡n
+Ger-mâ€¡n
 ger-on-toc-ra-cy
 ger-on-tol-o-gist
 ger-on-tol-o-gy
@@ -61304,9 +61304,9 @@ ge-lid-i-ty
 Ge-li-bo-lu
 Ge-lo-nus
 Ge-lug-pa
-ge-lŠn-de-lŠu-fer
-ge-lŠn-de-sprung
-Ge-lŽe
+ge-lÅ n-de-lÅ u-fer
+ge-lÅ n-de-sprung
+Ge-lÅ½e
 ge-l-de jump
 ge-l-de-sprung
 Ge-ma-ra
@@ -61319,8 +61319,8 @@ ge-mot
 ge-mote
 ge-muet-lich
 Ge-muet-lich-keit
-ge-mŸt-lich
-Ge-mŸt-lich-keit
+ge-mÅ¸t-lich
+Ge-mÅ¸t-lich-keit
 ge-m-lich
 Ge-n
 ge-na
@@ -61377,8 +61377,8 @@ Ge-no
 Ge-nol-la
 ge-nom
 ge-nome
-ge-nouil-lre
-ge-nouil-lres
+ge-nouil-lÂre
+ge-nouil-lÂres
 ge-no-mic
 Ge-no-va
 ge-nu
@@ -61386,8 +61386,8 @@ ge-nus
 ge-nu-a
 ge-nu-al
 Ge-nu-cius
-Ge-nve
-Ge-nt
+Ge-nÂve
+Ge-nÂt
 ge-o-nav-i-ga-tion
 ge-ode
 ge-od-e-sist
@@ -61556,7 +61556,7 @@ Ge-vaert
 Ge-zer
 Ge-zi-ra
 ghain
-Ghar-da-•a
+Ghar-da-â€¢a
 ghar-ri
 ghar-ry
 ghast
@@ -61835,7 +61835,7 @@ Giot-to
 Gio-con-da
 gio-co-so
 Gio-no
-Gio-sue
+Gio-sueÂ
 Gio-van-na
 Gio-van-ni
 Gio-van-ni-da
@@ -62165,9 +62165,9 @@ gla-ci-a-tion
 gla-ci-ol-o-gist
 gla-ci-ol-o-gy
 gla-ci-o-log-i-cal
-gla-cŽ
-gla-cŽed
-gla-cŽ-ing
+gla-cÅ½
+gla-cÅ½ed
+gla-cÅ½-ing
 gla-di-i
 gla-di-us
 Gla-mor-gan
@@ -62847,8 +62847,8 @@ Goi-dhel-ic
 goi-ter
 goi-tre
 goi-trous
-Goi-‡s
-Goi-‰-ni-a
+Goi-â€¡s
+Goi-â€°-ni-a
 gold
 gold ba-sis
 gold bee-tle
@@ -63297,7 +63297,7 @@ gout-i-er
 gout-i-est
 gout-i-ly
 gout-i-ness
-gout-tŽ
+gout-tÅ½
 gout-weed
 gout-y
 Gouv-er-neur
@@ -63358,7 +63358,7 @@ Go-bi-an
 go-bi-oid
 go-bo
 go-bo-ny
-go-bo-nŽe
+go-bo-nÅ½e
 go-by
 Go-clen-i-us
 Go-dard
@@ -63415,7 +63415,7 @@ go-nan-gi-um
 Go-nave
 go-na-di-al
 Go-na-ives
-Go-na-•ves
+Go-na-â€¢ves
 go-nid-ic
 go-nid-i-a
 go-nid-i-al
@@ -63874,7 +63874,7 @@ grat-u-lat-ing
 grat-u-la-tion
 grat-u-la-to-ri-ly
 grat-u-la-to-ry
-Grau-bŸn-den
+Grau-bÅ¸n-den
 Grau-b-den
 grau-pel
 Grau-stark
@@ -64391,8 +64391,8 @@ gril-lades
 gril-lad-ed
 gril-lad-ing
 gril-lage
-gril-lŽ
-gril-lŽe
+gril-lÅ½
+gril-lÅ½e
 grim
 grime
 Grimm
@@ -64703,7 +64703,7 @@ gro-cer
 gro-cer-ies
 gro-cer-y
 gro-cer-y-man
-Gro-fŽ
+Gro-fÅ½
 Gro-land
 Gro-li-er
 gro-ma
@@ -64802,14 +64802,14 @@ gru-mous
 gru-mous-ness
 Gru-nit-sky
 Gru-yor Gru-y
-Gru-yre
+Gru-yÂre
 gryph-on
 grys-bok
 Gry-nae-us
-grŽ-gal
-GrŽ-goire
-GrŽ-try
-GrŸ-ne-wald
+grÅ½-gal
+GrÅ½-goire
+GrÅ½-try
+GrÅ¸-ne-wald
 Gr-ne-wald
 GTC
 gtc
@@ -64822,7 +64822,7 @@ Guam
 guan
 guan-i-din
 guan-i-dine
-Guan-t‡-na-mo
+Guan-tâ€¡-na-mo
 Guan-t-na-mo
 guar
 guard
@@ -64889,11 +64889,11 @@ gua-nine
 gua-no
 gua-no-sine
 Gua-po-r
-Gua-po-rŽ
+Gua-po-rÅ½
 gua-ra-cha
 gua-ra-ni
 Gua-ra-ni
-Gua-ra-n’
+Gua-ra-nâ€™
 Gua-ri-ni
 Gua-ri-no
 Gua-te-ma-la
@@ -65047,7 +65047,7 @@ Gui-do d'A-rez-zo
 gui-don
 Gui-do-ni-an
 Gui-enne
-Gui-llŽn
+Gui-llÅ½n
 gui-pure
 gui-ro
 gui-sarme
@@ -65305,8 +65305,8 @@ gut-tur-al-ly
 gut-tur-al-ness
 gut-tur-o-na-sal
 gut-ty
-gut-tŽ
-gut-tŽe
+gut-tÅ½
+gut-tÅ½e
 guv
 Guy
 guy
@@ -65317,11 +65317,11 @@ guy-ing
 Guy-mon
 Guy-on
 guy-ot
-Guz-m‡n
+Guz-mâ€¡n
 Guz-m-co
 guz-zle
 guz-zler
-guŽ-rite
+guÅ½-rite
 gu-ber-nac-u-lar
 gu-ber-nac-u-lum
 gu-ber-na-to-ri-al
@@ -65366,7 +65366,7 @@ gwyn-i-ad
 Gya-ni
 gybe
 gyb-ing
-Gyl-dŽn
+Gyl-dÅ½n
 gym
 gym-el
 gym-kha-na
@@ -65459,7 +65459,7 @@ gyr-fal-con
 gyt-tja
 gyve
 gyv-ing
-Gyšr-gy
+GyÅ¡r-gy
 Gy-as
 Gy-es
 Gy-gae-a
@@ -65539,23 +65539,23 @@ gy-ro-sta-bi-lized
 gy-ro-sta-bi-liz-er
 gy-ro-vague
 gy-rus
-GŠrt-ner
-GŠv-le
-GŽ-nŽ-trix
-GŽ-rard
-GŽ-ri-cault
-GŽ-r™me
-G—-mez
-G™-a
-Gšr-litz
-Gšt-ter-dŠm-mer-ung
-Gšt-tin-gen
-Gš-del
-Gš-ring
-Gš-te-borg
-gš-thite
-GŸi-ral-des
-GŸnz-i-an
+GÅ rt-ner
+GÅ v-le
+GÅ½-nÅ½-trix
+GÅ½-rard
+GÅ½-ri-cault
+GÅ½-râ„¢me
+Gâ€”-mez
+Gâ„¢-a
+GÅ¡r-litz
+GÅ¡t-ter-dÅ m-mer-ung
+GÅ¡t-tin-gen
+GÅ¡-del
+GÅ¡-ring
+GÅ¡-te-borg
+gÅ¡-thite
+GÅ¸i-ral-des
+GÅ¸nz-i-an
 G-del
 G-go-ra y Ar-go-te
 G-le
@@ -66463,7 +66463,7 @@ Ham-let
 Ham-lin
 ham-mal
 Ham-mar-skj
-Ham-mar-skjšld
+Ham-mar-skjÅ¡ld
 ham-mer
 ham-mer and sick-le
 ham-mer beam
@@ -66993,7 +66993,7 @@ har-mo-ni-um
 har-mo-ni-za-tion
 har-mo-ny
 Har-mo-ny
-Har-mo-tho-‘
+Har-mo-tho-â€˜
 har-mo-tome
 har-mo-tom-ic
 Har-nack
@@ -67241,7 +67241,7 @@ haute -cole
 Haute-Ga-ronne
 Haute-Nor-man-die
 Haute-Sa-voie
-Hautes-Py-rŽ-nŽes
+Hautes-Py-rÅ½-nÅ½es
 Hautes-Py-r-n
 haut-bois
 haut-boy
@@ -67389,8 +67389,8 @@ ha-bit-u-at-ed
 ha-bit-u-at-ing
 ha-bit-u-a-tion
 ha-bit-u-e
-ha-bit-u-Ž
-ha-bit-u-Žs
+ha-bit-u-Å½
+ha-bit-u-Å½s
 Ha-bi-ri
 Ha-bi-ru
 ha-bi-tan
@@ -67476,7 +67476,7 @@ ha-lo-like
 Ha-lo-na
 ha-lutz
 ha-lutz-im
-Ha-lŽ-vy
+Ha-lÅ½-vy
 Ha-l-vy
 Ha-ma
 ha-mal
@@ -67584,8 +67584,8 @@ Ha-zle-hurst
 Ha-zle-ton
 Ha-zor
 ha-zy
-ha-Ÿyne
-ha-Ÿy-nite
+ha-Å¸yne
+ha-Å¸y-nite
 HCF
 hcf
 hdbk
@@ -68224,7 +68224,7 @@ Hel-sa
 Hel-sing-borg
 Hel-sing-fors
 Hel-sing-o
-Hel-sing-šr
+Hel-sing-Å¡r
 Hel-sin-ki
 hel-ter-skel-ter
 hel-ter-skel-ter-i-ness
@@ -68233,7 +68233,7 @@ Hel-vet-ic
 Hel-ve-tia
 Hel-ve-tian
 Hel-ve-ti-i
-Hel-vŽ-tius
+Hel-vÅ½-tius
 hem
 heme
 hemisco-tosis
@@ -68703,7 +68703,7 @@ her-ni-at-ed
 her-ni-or-rha-phy
 her-ni-ot-o-my
 her-ni-o-plas-ty
-Her-n‡n-dez
+Her-nâ€¡n-dez
 Her-od
 Her-od Ant-i-pas
 Her-od A-grip-pa I
@@ -68727,7 +68727,7 @@ her-pe-to-log-i-cal-ly
 her-que-in
 Her-ren
 Her-ren-volk
-Her-ren-všl-ker
+Her-ren-vÅ¡l-ker
 Her-re-ra
 Her-rick
 her-ried
@@ -68934,7 +68934,7 @@ het-er-o-zy-gote
 het-er-o-zy-got-ic
 het-er-o-zy-gous
 het-er-o-zy-go-sis
-Het-er-o-šu-si-an
+Het-er-o-Å¡u-si-an
 het-man
 het-man-ate
 het-man-ship
@@ -70198,7 +70198,7 @@ Hol-dredge
 hol-forged
 hol-forg-ing
 Hol-gu
-Hol-gu’n
+Hol-guâ€™n
 hol-ing
 Hol-ing-shed
 Hol-ins-hed
@@ -71393,7 +71393,7 @@ ho-mo-typ-i-cal
 ho-mo-zy-gote
 ho-mo-zy-gous
 ho-mo-zy-go-sis
-Ho-mo-šu-si-an
+Ho-mo-Å¡u-si-an
 ho-mun-cu-lar
 ho-mun-cu-lus
 Ho-nan
@@ -71404,7 +71404,7 @@ Ho-ni-a-ra
 Ho-no-ra
 Ho-no-ri-a
 Ho-no-ri-us
-Ho-no-rŽ
+Ho-no-rÅ½
 Ho-nus
 Ho-pat-cong
 Ho-peh
@@ -71825,8 +71825,8 @@ Huys-mans
 Huy-gens
 huz-za
 huz-zah
-Hu‡s-car
-Hu‡-nu-co
+Huâ€¡s-car
+Huâ€¡-nu-co
 Hu-bert
 Hu-ber-tus-burg
 hu-bris
@@ -73273,17 +73273,17 @@ Hy-ri-e
 hy-son
 hy-ther-graph
 hy-zone
-H‡-ba
-HŠl-sing-borg
-HŽ-bert
-HŽ-lo-•se
-HŽ-mon
-HŽ-rault
-HŽ-rold
-H—d-me-zo-v‡-s‡r-hely
-Hšl-der-lin
-HŸ-gel
-HŸ-ther
+Hâ€¡-ba
+HÅ l-sing-borg
+HÅ½-bert
+HÅ½-lo-â€¢se
+HÅ½-mon
+HÅ½-rault
+HÅ½-rold
+Hâ€”d-me-zo-vâ€¡-sâ€¡r-hely
+HÅ¡l-der-lin
+HÅ¸-gel
+HÅ¸-ther
 H-bert
 H-der-lin
 H-lo-ise
@@ -73785,7 +73785,7 @@ Il-lyr-i-a
 Il-lyr-i-an
 Il-lyr-i-cum
 Il-lyr-i-us
-Il-l’-a
+Il-lâ€™-a
 Il-ma-ri-nen
 Il-men
 il-men-ite
@@ -75293,8 +75293,8 @@ in-co-her-ent-ly
 in-co-her-en-cy
 in-co-or-di-nate
 in-co-or-di-na-tion
-in-co-šr-dinate
-in-co-šr-di-na-tion
+in-co-Å¡r-dinate
+in-co-Å¡r-di-na-tion
 in-cras-sate
 in-cras-sat-ed
 in-cras-sat-ing
@@ -76458,7 +76458,7 @@ in-gur-gi-tat-ed
 in-gur-gi-tat-ing
 in-gur-gi-ta-tion
 In-gush
-in-gŽ-nue
+in-gÅ½-nue
 in-g-nue
 in-hab-it
 in-hab-it-ance
@@ -79025,7 +79025,7 @@ in-vul-ner-a-ble
 in-vul-ner-a-ble-ness
 in-vul-ner-a-bly
 in-vul-tu-a-tion
-in-vžrs
+in-vÅ¾rs
 in-wale
 in-wall
 in-ward
@@ -79590,7 +79590,7 @@ i-bi-dem
 I-bi-za
 I-bo
 I-bos
-I-b‡-–ez
+I-bâ€¡-â€“ez
 I-c
 I-car-i-a
 I-car-i-an
@@ -79791,7 +79791,7 @@ I-gnace
 I-gor
 I-graine
 i-guan-o-don
-I-guas-sœ
+I-guas-sÅ“
 I-gua-c
 I-gua-cor I-guas-s
 i-gua-na
@@ -79809,7 +79809,7 @@ i-lang-i-lang
 I-lene
 i-lex
 I-le-sha
-I-lhŽ-us
+I-lhÅ½-us
 I-lis-a
 I-li-gan
 I-li-o-ne
@@ -79854,7 +79854,7 @@ I-nes
 I-nez
 I-no
 i-nyl
-I-nš-nŸ
+I-nÅ¡-nÅ¸
 I-n-n
 I-o
 I-o moth
@@ -79932,7 +79932,7 @@ i-o-ta
 i-o-ta-cism
 I-o-wa
 I-phid-a-mas
-I-phin-o-‘
+I-phin-o-â€˜
 I-phis
 I-phi-ti-on
 I-pia-les
@@ -80078,7 +80078,7 @@ i-ro-nist
 i-ro-nize
 i-ro-ny
 I-rus
-I-rne
+I-rÂne
 I-r-kli-on
 I-s
 I-saac
@@ -80125,7 +80125,7 @@ i-soch-ro-nous
 i-soch-ro-nous-ly
 i-soch-ro-ny
 i-soch-ro-ous
-i-soch-ro-šus
+i-soch-ro-Å¡us
 i-soc-ra-cy
 I-soc-ra-tes
 i-sod-o-mum
@@ -80344,7 +80344,7 @@ i-so-typ-ic
 i-so-typ-i-cal
 i-sta-na
 I-sus
-I-sre
+I-sÂre
 I-tal-ian
 I-tal-ian East Af-ri-ca
 I-tal-ian sixth
@@ -80380,7 +80380,7 @@ I-tal-o-phil
 I-tal-o-phile
 I-tas-ca
 I-ta-bu-na
-I-ta-ja-’
+I-ta-ja-â€™
 I-ta-lia
 I-ta-lia ir-re-den-ta
 I-ta-lo
@@ -80460,7 +80460,7 @@ I-ynx
 I-za-na-gi
 I-za-na-mi
 I-zhevsk
-I-a
+I-Âa
 j'a-doube
 j'ou-vert
 jaap
@@ -80808,7 +80808,7 @@ jas-per-at-ed
 jas-per-oid
 jas-per-ware
 jas-per-y
-jas-pŽ
+jas-pÅ½
 Jas-sy
 Jat
 jauk
@@ -80826,7 +80826,7 @@ jaun-ty
 jaun-ty car
 jaup
 Jau-r
-Jau-rs
+Jau-rÂs
 Jav
 jave-lin
 Jav-a-nese
@@ -80943,7 +80943,7 @@ Ja-nus
 Ja-nus-faced
 Ja-ny
 Ja-nye
-Ja-n‡-cek
+Ja-nâ€¡-cek
 ja-pan
 Ja-pan
 Ja-pan Cur-rent
@@ -80955,7 +80955,7 @@ Ja-pheth
 Ja-phet-ic
 ja-pon-i-ca
 Ja-pu-r
-Ja-pu-r‡
+Ja-pu-râ€¡
 ja-pyg-id
 Ja-ques
 Ja-rash
@@ -80978,8 +80978,8 @@ Ja-wa-har-lal
 Ja-wa-ra
 ja-zey
 ja-zy
-ja-a-na
-Ja-Žn
+ja-Âa-na
+Ja-Å½n
 JCD
 JCL
 JCR
@@ -81269,7 +81269,7 @@ Je-na
 Je-nu-fa
 je-quer-i-ty
 je-quir-i-ty
-Je-quiŽ
+Je-quiÅ½
 Je-rash
 je-reed
 Je-rez
@@ -81284,9 +81284,9 @@ Je-ru-sa-lem oak
 Je-su
 Je-sus
 Je-sus freak
-Je-sœs
+Je-sÅ“s
 je-t
-je-tŽ
+je-tÅ½
 Jhan-si
 Jhe-lum
 JHVH
@@ -81396,7 +81396,7 @@ Ji-bu-ti
 ji-had
 Ji-lo-lo
 ji-mi-ga-ki
-Ji-mŽ-nez
+Ji-mÅ½-nez
 Ji-m-nez
 Ji-m-nez de Cis-ne-ros
 ji-pi-ja-pa
@@ -81409,7 +81409,7 @@ jnd
 Jnr
 Joan
 Joa-quin
-Joa-qu’n
+Joa-quâ€™n
 Job
 job
 Job's com-fort-er
@@ -81744,7 +81744,7 @@ Jo-sie
 Jo-sip
 Jo-si-ah
 Jo-si-as
-Jo-sŽ
+Jo-sÅ½
 jo-ta
 Jo-tun
 Jo-tunn
@@ -81996,7 +81996,7 @@ jux-ta-posed
 jux-ta-pos-ing
 jux-ta-po-si-tion
 jux-ta-po-si-tion-al
-Ju‡-rez
+Juâ€¡-rez
 Ju-an de Fu-ca
 Ju-an Fer-n-dez Is-lands
 Ju-ba
@@ -82154,7 +82154,7 @@ ju-ris-ti-cal
 ju-ris-ti-cal-ly
 ju-ror
 Ju-ru
-Ju-ru-‡
+Ju-ru-â€¡
 ju-ry
 ju-ry box
 ju-ry pro-cess
@@ -82186,16 +82186,16 @@ ju-ve-nil-i-ty
 JWV
 Jyl-land
 Jym-mye
-Jy-vŠs-ky-lŠ
-J‡-nos
-jŠ-ger
-JŽ-rŽ-mie
-JŽ-r™me
-j—-zef
-Jšn-kš-ping
-Jš-tunn-heim
-Jš-tun-heim
-JŸn-ger
+Jy-vÅ s-ky-lÅ 
+Jâ€¡-nos
+jÅ -ger
+JÅ½-rÅ½-mie
+JÅ½-râ„¢me
+jâ€”-zef
+JÅ¡n-kÅ¡-ping
+JÅ¡-tunn-heim
+JÅ¡-tun-heim
+JÅ¸n-ger
 j-ger
 J-k-ping
 K ra-tion
@@ -82225,7 +82225,7 @@ Kaf-re
 kaf-tan
 Kahn
 Kah-lil
-Kah-lœ-a
+Kah-lÅ“-a
 kaif
 kail
 kail-yard
@@ -82672,14 +82672,14 @@ Ka-tri-na
 Ka-try-na
 Ka-tsu-shi-ka
 ka-ty-did
-ka-t‡r
+ka-tâ€¡r
 Ka-un-da
 Ka-u-a-i
 ka-va
 Ka-va-ic
 Ka-va-phis
 Ka-ver-i
-Ka-v‡l-la
+Ka-vâ€¡l-la
 Ka-v-la
 Ka-wa-gu-chi
 Ka-wa-sa-ki
@@ -82721,7 +82721,7 @@ keck
 keck-ling
 keck-sy
 Kecs-ke-m
-Kecs-ke-mŽt
+Kecs-ke-mÅ½t
 ked
 kedge
 kedg-ing
@@ -82955,7 +82955,7 @@ Ker-e-san
 ker-flop
 ker-fuf-fle
 Ker-gue-len
-Ker-guŽ-len
+Ker-guÅ½-len
 Ker-ki
 Ker-ky-ra
 Ker-man
@@ -83146,7 +83146,7 @@ Khat-ti
 Khat-tish
 Khat-tu-sas
 Khay-y
-Khay-y‡m
+Khay-yâ€¡m
 Kha-ba-rovsk
 Kha-bur
 Kha-cha-tur-i-an
@@ -83739,7 +83739,7 @@ ki-wi
 ki-yas
 ki-yi
 Ki-zil Ir-mak
-Kjš-len
+KjÅ¡-len
 KKK
 KKt
 KKtP
@@ -83796,8 +83796,8 @@ klutz-y
 klys-tron
 Klys-tron
 Kly-don-o-graph
-KlŽ-ber
-klšs-se
+KlÅ½-ber
+klÅ¡s-se
 Kl-ber
 knack
 knack-er
@@ -83984,7 +83984,7 @@ knurl-y
 knurr
 Knut
 Knute
-knŠck-e-bršd
+knÅ ck-e-brÅ¡d
 ko-ka-ta-na
 kob
 kob-old
@@ -84036,7 +84036,7 @@ Kon-stanz
 Kon-stan-tin
 kon-ta-ki-a
 kon-ta-ki-on
-kon-vžrs
+kon-vÅ¾rs
 Kon-ya
 Koo
 kook
@@ -84119,7 +84119,7 @@ Ko-di-ak
 Ko-di-ak bear
 Ko-dok
 ko-do-gu
-Ko-d‡-ly
+Ko-dâ€¡-ly
 ko-el
 Ko-fu
 ko-gai
@@ -84153,7 +84153,7 @@ Ko-li-ma
 ko-lo
 Ko-lom-na
 Ko-lozs-v
-Ko-lozs-v‡r
+Ko-lozs-vâ€¡r
 Ko-ly-ma
 Ko-ly-ma Range
 ko-mat-ik
@@ -84217,7 +84217,7 @@ Ko-weit
 Ko-za-ni
 Ko-zhi-kode
 ko-zu-ka
-Ko-z‡-ne
+Ko-zâ€¡-ne
 Kra
 kraal
 Krae-pe-lin
@@ -84244,7 +84244,7 @@ Kra-ka-tau
 Kra-ka-to-a
 kra-ken
 kra-ko-wi-ak
-Kra-k—w
+Kra-kâ€”w
 Kra-ma-torsk
 Kra-mer
 kra-me-ri-a
@@ -84318,8 +84318,8 @@ Kru-sen-stern
 Krym
 kryp-ton
 Kry-lon
-kr—-na
-kr—-nur
+krâ€”-na
+krâ€”-nur
 kr-na
 Kr-ti
 Kshat-ri-ya
@@ -84379,7 +84379,7 @@ Kur-land
 kur-ra-jong
 kur-saal
 Kur-saal
-Kur-sŠ-le
+Kur-sÅ -le
 kur-ta
 kur-to-sis
 Kur-ze-me
@@ -84397,7 +84397,7 @@ Kuz-netsk Ba-sin
 Ku-ban
 Ku-ban-go
 Ku-be-lik
-Ku-be-l’k
+Ku-be-lâ€™k
 Ku-blai Khan
 Ku-brick
 ku-chen
@@ -84525,20 +84525,20 @@ Ky-the-ra
 ky-toon
 Ky-zyl
 Ky-zyl Kum
-kŠm-ki-a
-KŠst-ner
-KŠ-se
-KŠ-the
-Kšh-ler
-Kš-ben-havn
-Kš-nigs-berg
-Kš-nigs-hŸt-te
-Kš-nig-grŠtz
-kžr-vet-ed
-kžr-vet-ing
-kžr-vet-ted
-kžr-vet-ting
-kŸm-mel
+kÅ m-ki-a
+KÅ st-ner
+KÅ -se
+KÅ -the
+KÅ¡h-ler
+KÅ¡-ben-havn
+KÅ¡-nigs-berg
+KÅ¡-nigs-hÅ¸t-te
+KÅ¡-nig-grÅ tz
+kÅ¾r-vet-ed
+kÅ¾r-vet-ing
+kÅ¾r-vet-ted
+kÅ¾r-vet-ting
+kÅ¸m-mel
 K-a
 K-dar
 K-el
@@ -84562,7 +84562,7 @@ L'Hos-pi-tal
 L'Im-mo-ra-liste
 L'Ou-ver-ture
 L'O-tage
-l'Ž-tat
+l'Å½-tat
 l-ar-te-re-nol
 L-D con-vert-er
 L-do-pa
@@ -84844,7 +84844,7 @@ lak-er
 lak-ing
 lak-i-er
 lak-i-est
-Lak-mŽ
+Lak-mÅ½
 lak-sa
 Lak-shad-weep Is-lands
 lak-y
@@ -85083,8 +85083,8 @@ Lang-land
 lang-lauf
 lang-lauf-er
 Lang-ley
-lang-lŠuf-er
-lang-lŠuf-ers
+lang-lÅ uf-er
+lang-lÅ uf-ers
 Lang-muir
 lang-sat
 lang-set
@@ -85607,7 +85607,7 @@ lau-rus-ti-nus
 lau-ryl al-co-hol
 Lau-sanne
 Lau-trec
-Lau-trŽ-a-mont
+Lau-trÅ½-a-mont
 lau-wine
 lav
 lave
@@ -85731,7 +85731,7 @@ laz-u-lite
 laz-u-lit-ic
 laz-u-rite
 Laz-za-ro
-La‘n-nec
+Laâ€˜n-nec
 La-ban
 La-be
 la-bel
@@ -85925,7 +85925,7 @@ la-gen-i-form
 la-ger
 La-ger-kvist
 La-ger-l
-La-ger-lšf
+La-ger-lÅ¡f
 la-ge-na
 La-ghou-at
 la-gnappe
@@ -86001,7 +86001,7 @@ la-mi-a-ceous
 La-mont
 La-mou-reux
 La-mus
-la-mŽ
+la-mÅ½
 La-n
 la-nate
 la-na-i
@@ -86021,7 +86021,7 @@ la-nu-gi-nous-ness
 la-nu-go
 La-oag
 La-oc-o-on
-La-oc-o-šn
+La-oc-o-Å¡n
 La-od-a-mas
 La-od-a-mi-a
 La-od-i-ce
@@ -86031,7 +86031,7 @@ la-od-i-ce-an
 La-od-o-cus
 La-om-e-don
 La-os
-La-oth-o-‘
+La-oth-o-â€˜
 la-pac-tic
 La-peer
 la-pel
@@ -86117,7 +86117,7 @@ la-tus rec-tum
 la-va
 la-va-la-va
 La-val
-la-val-lire
+la-val-liÂre
 la-va-bo
 La-va-da
 La-va-ter
@@ -86568,7 +86568,7 @@ lem-ma
 lem-mas
 lem-ma-ta
 lem-ming
-Lem-min-kŠi-nen
+Lem-min-kÅ i-nen
 lem-nis-cate
 lem-nis-ci
 lem-nis-cus
@@ -86826,7 +86826,7 @@ leu-cor-rhe-al
 leu-cor-rhoe-a
 leu-cor-rhoe-al
 Leu-coth-e-a
-Leu-coth-o-‘
+Leu-coth-o-â€˜
 leu-cot-o-my
 leu-co-blast
 leu-co-ci-din
@@ -87092,7 +87092,7 @@ le-git-i-miz-ing
 le-git-i-mi-za-tion
 Le-grand
 Le-gree
-Le-gu’-a
+Le-guâ€™-a
 le-gu-min
 le-gu-mi-nous
 Le-har
@@ -87101,7 +87101,7 @@ Le-hi
 Le-high
 Le-high-ton
 le-hu-a
-Le-h‡r
+Le-hâ€¡r
 le-i
 le-is
 Le-jeune
@@ -87110,7 +87110,7 @@ Le-land
 Le-ly
 Le-man
 Le-mass
-Le-ma”-tre
+Le-maâ€-tre
 Le-mes-sus
 Le-mont
 Le-mon-nier
@@ -87139,7 +87139,7 @@ le-no
 Le-noir
 Le-nore
 Le-no-ra
-Le-n™-tre
+Le-nâ„¢-tre
 Le-o
 Le-o I
 Le-o III
@@ -87246,8 +87246,8 @@ le-vo-ro-ta-ry
 le-vo-ro-ta-tion
 le-vo-ro-ta-to-ry
 Le-vy
-Le-•-tus
-Le-—n
+Le-â€¢-tus
+Le-â€”n
 lge
 lgth
 Lha-sa
@@ -87605,7 +87605,7 @@ limp-ness
 limp-sey
 limp-sy
 lim-a-cine
-lim-a-on
+lim-a-Âon
 lim-bate
 lim-ber
 lim-ber up
@@ -87759,7 +87759,7 @@ Lin-den
 lin-den
 Lin-den-hurst
 Lin-den-wold
-Lin-de-lšf
+Lin-de-lÅ¡f
 Lin-de-nau
 Lin-di
 lin-died
@@ -87838,7 +87838,7 @@ lin-ing
 lin-i-er
 lin-i-est
 lin-i-ment
-Lin-kš-ping
+Lin-kÅ¡-ping
 Lin-k-ping
 Lin-lith-gow
 Lin-nae-an
@@ -87848,7 +87848,7 @@ Lin-net
 Lin-nete
 Lin-ne-an
 Lin-nhe
-Lin-nŽ
+Lin-nÅ½
 lin-o-len-ic ac-id
 lin-o-le-ic
 lin-o-le-ic ac-id
@@ -88143,8 +88143,8 @@ lit-tlish
 lit-to-ral
 Lit-to-ria
 Lit-trow
-Lit-trŽ
-lit-tŽ-ra-teur
+Lit-trÅ½
+lit-tÅ½-ra-teur
 lit-t-ra-teur
 lit-ur-gism
 lit-ur-gist
@@ -88284,7 +88284,7 @@ Li-ber-a-li-a
 Li-ber-tas
 li-ber-ti-cide
 li-ber-ti-cid-al
-li-ber-tŽ
+li-ber-tÅ½
 Li-be-rec
 Li-be-ri-a
 Li-be-ri-us
@@ -88316,7 +88316,7 @@ li-bret-tos
 Li-bre-ville
 li-bri
 li-bri-form
-Li-bŽ-ral
+Li-bÅ½-ral
 li-cence
 li-cenced
 li-cence-a-ble
@@ -88419,7 +88419,7 @@ Li-mon
 Li-mou-sin
 li-mo-nite
 li-mo-nit-ic
-Li-m—n
+Li-mâ€”n
 Li-na
 Li-na-res
 li-na-rite
@@ -88536,10 +88536,10 @@ Li-vo-ni-a
 Li-vo-ni-an
 li-vrai-son
 li-vre
-li-w‰n
+li-wâ€°n
 li-za
 Li-za
-Li-ge
+Li-Âge
 Ljod
 Lju-blja-na
 Llan-daf
@@ -88787,7 +88787,7 @@ loins
 loin-cloth
 Loire
 Loire-At-lan-tique
-Loire-In-fŽ-rieure
+Loire-In-fÅ½-rieure
 Loi-ret
 loi-ter
 loi-ter-er
@@ -89519,7 +89519,7 @@ lo-gom-a-chist
 lo-gom-a-chy
 lo-gos
 Lo-gro-no
-Lo-gro-–o
+Lo-gro-â€“o
 lo-gy
 Lo-hen-grin
 Lo-is
@@ -89541,7 +89541,7 @@ lo-ment-like
 lo-men-ta-ceous
 lo-men-tum
 Lo-mond
-Lo-mŽ
+Lo-mÅ½
 Lo-ney
 lo-nic-er-a
 Lo-pat-ni-kov
@@ -89612,7 +89612,7 @@ Lo-tze
 Lo-yang
 Lo-z
 Lo-zi
-Lo-zre
+Lo-zÂre
 LPG
 Lsd
 lsd
@@ -89789,7 +89789,7 @@ lur-ing-ly
 Lur-lei
 Lur-line
 Lur-ton
-Lur-at
+Lur-Âat
 lush
 lush-i-er
 lush-i-est
@@ -89997,7 +89997,7 @@ lu-mined
 lu-min-ing
 lu-mis-ter-ol
 lu-mis-te-rol
-Lu-mire
+Lu-miÂre
 lu-mi-na
 Lu-mi-nal
 lu-mi-nance
@@ -90052,7 +90052,7 @@ lu-nu-la
 lu-nu-lar
 lu-nu-late
 lu-nu-lat-ed
-Lu-nŽ-ville
+Lu-nÅ½-ville
 Lu-n-ville
 Lu-o
 Lu-per-ca-li-a
@@ -90265,7 +90265,7 @@ ly-co-sid
 Ly-co-ther-ses
 Ly-cur-gus
 Ly-cus
-ly-cŽe
+ly-cÅ½e
 Ly-ell
 ly-gae-id
 Ly-go-des-ma
@@ -90316,22 +90316,22 @@ Ly-sol
 ly-so-some
 ly-so-zyme
 Ly-tle
-L‡sz-l—
-L‡-za-ro
-lŠnd-ler
-LŽ-ger
-LŽ-on
-LŽ-o-ca-dia
-LŽ-o-pold-ville
-LŽ-ri-da
-L—-pez
-Lšff-ler
-lšl-ling-ite
-Lšnn-rot
-LŸb-ke
-LŸt-zen
-LŸ-beck
-LŸ-der-itz
+Lâ€¡sz-lâ€”
+Lâ€¡-za-ro
+lÅ nd-ler
+LÅ½-ger
+LÅ½-on
+LÅ½-o-ca-dia
+LÅ½-o-pold-ville
+LÅ½-ri-da
+Lâ€”-pez
+LÅ¡ff-ler
+lÅ¡l-ling-ite
+LÅ¡nn-rot
+LÅ¸b-ke
+LÅ¸t-zen
+LÅ¸-beck
+LÅ¸-der-itz
 L-beck
 L-den-scheid
 L-der-itz
@@ -90388,7 +90388,7 @@ Mach-me-ter
 mach-zor
 mach-zors
 mach-zo-rim
-mach-z™r
+mach-zâ„¢r
 mack
 macke-rel
 macke-rel breeze
@@ -90530,8 +90530,8 @@ mac-u-late
 mac-u-lat-ed
 mac-u-lat-ing
 mac-u-la-tion
-mac-Ž-doine
-mac-Ž-doines
+mac-Å½-doine
+mac-Å½-doines
 mad
 Madag
 made
@@ -90580,7 +90580,7 @@ mad-ri-gal-ist
 mad-ri-gal-i-an
 mad-ri-l
 Mad-ri-le-ni-an
-mad-ri-lne
+mad-ri-lÂne
 mad-tom
 mad-wom-an
 mad-wort
@@ -90953,7 +90953,7 @@ malm
 Malmes-bur-y
 Malm-o
 malm-sey
-Malm-š
+Malm-Å¡
 malt
 malt ex-tract
 malt liq-uor
@@ -91037,7 +91037,7 @@ mal-fea-sance
 mal-for-ma-tion
 mal-func-tion
 mal-gr
-mal-grŽ
+mal-grÅ½
 Mal-herbe
 mal-ic ac-id
 mal-ice
@@ -91049,7 +91049,7 @@ mal-lam
 mal-lan-ders
 mal-lard
 Mal-lar-me
-Mal-lar-mŽ
+Mal-lar-mÅ½
 mal-lee
 mal-lee fowl
 mal-lee root
@@ -91073,7 +91073,7 @@ mal-le-o-lus
 mal-le-us
 Mal-lia
 mal-low
-Mal-mŽ-dy
+Mal-mÅ½-dy
 Mal-m-dy
 mal-nour-ished
 mal-nu-tri-tion
@@ -91413,7 +91413,7 @@ Man-or-ha-ven
 man-o-met-ric
 man-pow-er
 man-qu
-man-quŽ
+man-quÅ½
 Man-re-sa
 man-root
 man-rope
@@ -91431,7 +91431,7 @@ man-steal-ing
 man-stop-per
 man-sue-tude
 Man-sur
-Man-sž-ra
+Man-sÅ¾-ra
 Man-s-ra
 Man-ta
 man-ta
@@ -91930,7 +91930,7 @@ mar-ten
 mar-tens-ite
 mar-ten-site
 mar-ten-sit-ic
-mar-te-lŽ
+mar-te-lÅ½
 Mar-tha
 mar-tial
 Mar-tial
@@ -91975,7 +91975,7 @@ mar-tyr-ol-o-gist
 mar-tyr-ol-o-gy
 mar-tyr-o-log-i-cal
 mar-tyr-y
-Mar-t’
+Mar-tâ€™
 mar-vel
 mar-vel-of-Pe-ru
 mar-veled
@@ -92145,7 +92145,7 @@ Mas-so-ret-ic
 Mas-so-ret-i-cal
 mas-so-ther-a-py
 Mas-sys
-Mas-sŽ-na
+Mas-sÅ½-na
 Mas-s-na
 mas-tax
 mas-ta-ba
@@ -92264,7 +92264,7 @@ Mat-a-wan
 mat-ed
 mat-el-las-se
 mat-e-las-se
-mat-e-las-sŽ
+mat-e-las-sÅ½
 mat-e-lote
 mat-e-lotte
 mat-in
@@ -92274,7 +92274,7 @@ mat-in-al
 mat-i-n
 mat-i-nee
 mat-i-ness
-mat-i-nŽe
+mat-i-nÅ½e
 mat-i-n-dol
 mat-less
 mat-lo
@@ -92527,9 +92527,9 @@ ma-ca-bre
 ma-ca-co
 Ma-ca-p
 Ma-ca-pa-gal
-Ma-ca-p‡
+Ma-ca-pâ€¡
 Ma-cei-o
-Ma-cei-—
+Ma-cei-â€”
 ma-ce-doine
 Ma-chae-rus
 ma-chai-ra
@@ -92584,7 +92584,7 @@ ma-cru-ran
 ma-cru-rous
 Ma-cum-ba
 ma-cum-ba
-Ma-c‡u
+Ma-câ€¡u
 Ma-c-as N-gue-ma
 Ma-dang
 ma-da-fu
@@ -92605,7 +92605,7 @@ ma-dre
 Ma-dre de Dios
 Ma-drid
 ma-dro-na
-ma-dro-–a
+ma-dro-â€“a
 Ma-du-ra
 Ma-du-rai
 ma-du-ro
@@ -92614,7 +92614,7 @@ Ma-e-ba-shi
 Ma-e-wo
 Ma-fi-a
 ma-fi-o-so
-Ma-gan-guŽ
+Ma-gan-guÅ½
 Ma-ga-lla-nes
 Ma-gel-lan
 Ma-gen Da-vid
@@ -92638,7 +92638,7 @@ ma-gun-ning
 ma-gus
 Ma-gus
 Ma-gyar-or-sz
-Ma-gyar-or-sz‡g
+Ma-gyar-or-szâ€¡g
 Ma-h
 Ma-hal-ia
 Ma-hal-la el Ku-bra
@@ -92671,7 +92671,7 @@ Ma-hound
 ma-hout
 ma-ho-ni-a
 ma-hua
-Ma-h—n
+Ma-hâ€”n
 Ma-ia
 ma-ieu-tic
 ma-ieu-ti-cal
@@ -92793,7 +92793,7 @@ Ma-lone
 ma-lo-nic
 ma-lo-nic ac-id
 Ma-lu-ku
-Ma-lŽ
+Ma-lÅ½
 ma-ma
 Ma-mal-la-pur-am
 Ma-mar-o-neck
@@ -92807,7 +92807,7 @@ ma-mon-cil-lo
 ma-mon-cil-los
 Ma-mou
 Ma-mo-r
-Ma-mo-rŽ
+Ma-mo-rÅ½
 Ma-mu-ri-us
 Ma-n
 ma-na
@@ -92914,11 +92914,11 @@ Ma-ra-j
 Ma-ra-line
 Ma-ra-li-na
 Ma-ra-nh
-Ma-ra-nh‹o
+Ma-ra-nhâ€¹o
 Ma-ra-non
 Ma-ra-tha
 Ma-ra-thi
-Ma-ra-–—n
+Ma-ra-â€“â€”n
 ma-re
 ma-re clau-sum
 ma-re li-be-rum
@@ -93099,7 +93099,7 @@ ma-tur-i-ty
 Ma-tu-ta
 ma-tu-ti-nal
 ma-tu-ti-nal-ly
-ma-tŽ
+ma-tÅ½
 ma-t-ri-el
 Ma-u-man
 ma-ven
@@ -93115,7 +93115,7 @@ Ma-ya
 Ma-yan
 ma-yan
 Ma-ya-g
-Ma-ya-gŸez
+Ma-ya-gÅ¸ez
 Ma-ya-kov-ski
 Ma-ya-kov-sky
 Ma-yence
@@ -93127,7 +93127,7 @@ ma-zae-di-a
 ma-zae-di-um
 ma-zard
 Ma-zat-l
-Ma-zat-l‡n
+Ma-zat-lâ€¡n
 ma-ze-ga-ne
 ma-zer
 ma-zi-er
@@ -93140,7 +93140,7 @@ ma-zo-path-i-a
 ma-zur-ka
 ma-zu-ma
 ma-zy
-ma-–a-na
+ma-â€“a-na
 MBA
 Mban-da-ka
 Mba-ba-ne
@@ -93512,7 +93512,7 @@ mei-o-sis
 Mekh-i-tar-ist
 Mek-ka
 Mek-n
-Mek-ns
+Mek-nÂs
 Mel
 mel
 meld
@@ -93595,7 +93595,7 @@ Mel-i-cer-tes
 mel-i-lot
 mel-i-nite
 Mel-i-te-ne
-Mel-i-‘
+Mel-i-â€˜
 Mel-kite
 mel-ler
 Mel-lers
@@ -93814,8 +93814,8 @@ men-tion-a-ble
 men-tion-er
 men-ti-cide
 Men-ton
-men-ton-nire
-men-ton-nires
+men-ton-niÂre
+men-ton-niÂres
 Men-tor
 men-tor
 Men-tor-on-the-Lake-Vil-lage
@@ -93974,7 +93974,7 @@ Mer-o-e
 mer-o-plank-ton
 Mer-o-vin-gi-an
 mer-o-zo-ite
-Mer-o-‘
+Mer-o-â€˜
 mer-ri-er
 mer-ri-est
 Mer-ri-ly
@@ -94411,7 +94411,7 @@ Meung
 Meurthe-et-Mo-selle
 Meuse
 meu-ni
-meu-nire
+meu-niÂre
 MeV
 mew
 mewl
@@ -94475,7 +94475,7 @@ me-dal-lion
 Me-dan
 me-da-ka
 Me-del-l
-Me-del-l’n
+Me-del-lâ€™n
 Me-de-a
 Me-de-us
 me-dic-a-ment
@@ -96320,7 +96320,7 @@ Miz-ra-hi
 miz-zen
 miz-zen-mast
 miz-zle
-Mišl-nir
+MiÅ¡l-nir
 Mi-a
 mi-a mi-a
 mi-ae
@@ -96361,7 +96361,7 @@ Mi-che-le
 Mi-che-loz-zo
 Mi-chol
 Mi-cho-a-c
-Mi-cho-a-c‡n
+Mi-cho-a-câ€¡n
 mi-cra
 mi-cri-fied
 mi-cri-fy
@@ -96576,7 +96576,7 @@ mi-cro-watt
 mi-cro-wave
 mi-cro-wave ov-en
 mi-cro-wave spec-tros-co-py
-mi-cro-šr-gan-is-mal
+mi-cro-Å¡r-gan-is-mal
 mi-crur-gy
 Mi-das
 Mi-di
@@ -96602,7 +96602,7 @@ mi-gra-tive
 mi-gra-to-ry
 Mi-guel
 Mi-ha-il
-Mi-h‡ly
+Mi-hâ€¡ly
 Mi-kan
 mi-ka-do
 Mi-kha-il
@@ -96702,7 +96702,7 @@ mi-ra-cid-i-al
 mi-ra-cid-i-um
 Mi-ra-flo-res
 mi-ri
-Mi-r—
+Mi-râ€”
 mi-s
 Mi-scha
 mi-ser
@@ -96754,10 +96754,10 @@ mi-tre-wort
 Mi-zar
 Mi-zo-gu-chi
 Mi-zo-ram
-Mi-–o
+Mi-â€“o
 Mjoll-nir
-Mjšll-nir
-Mjšl-nir
+MjÅ¡ll-nir
+MjÅ¡l-nir
 mks u-nits
 MKSA sys-tem
 mkt
@@ -96943,7 +96943,7 @@ Moi-na
 moi-r
 Moi-ra
 Moi-rai
-moi-rŽ
+moi-rÅ½
 Moi-se-yev
 moi-ther
 moke
@@ -97014,7 +97014,7 @@ Momm-sen
 Mom-ba-sa
 mom-ism
 mom-my
-Mom-p—s
+Mom-pâ€”s
 mom-ser
 mom-zer
 Mon
@@ -97041,12 +97041,12 @@ Mont
 Mont Cer-vin
 Mont Ce-nis
 Mont-de-Mar-san
-mont-de-piŽ-tŽ
+mont-de-piÅ½-tÅ½
 mont-de-pi-t
 Mont-Saint-Mi-chel
 month
 month-ly
-monts-de-piŽ-tŽ
+monts-de-piÅ½-tÅ½
 mont-bre-tia
 Mont-b-liard
 Mont-calm
@@ -97060,7 +97060,7 @@ mont-gol-fi-ers
 Mont-gom-er-y
 Mont-gom-er-y-shire
 Mont-lu-con
-Mont-lu-on
+Mont-lu-Âon
 Mont-mar-tre
 mont-mo-ril-lon-it-ic
 Mont-par-nasse
@@ -97068,7 +97068,7 @@ Mont-pel-ier
 Mont-pel-lier
 Mont-re-al
 Mont-rose
-Mont-rŽ-al
+Mont-rÅ½-al
 Mont-ser-rat
 mon-ac-id
 mon-ad
@@ -97441,7 +97441,7 @@ Mon-te-go Bay
 Mon-te-ne-gro
 Mon-te-rey
 mon-te-ro
-Mon-te-r’-a
+Mon-te-râ€™-a
 Mon-te-val-lo
 Mon-te-ver-di
 Mon-te-vi-de-o
@@ -97787,7 +97787,7 @@ mos-qui-to-fish-es
 Mos-si
 mos-sie
 mos-so
-Mos-so-r—
+Mos-so-râ€”
 mot
 mote
 mote-y
@@ -97843,7 +97843,7 @@ moue
 mouf-flon
 mouf-lon
 mouil-l
-mouil-lŽ
+mouil-lÅ½
 Mouk-den
 mould
 mould-board
@@ -97961,8 +97961,8 @@ Mou-lins
 mou-sa-ka
 mou-tarde
 mou-ton
-mou-ton-nŽe
-mou-ton-nŽed
+mou-ton-nÅ½e
+mou-ton-nÅ½ed
 move
 move-a-bil-i-ty
 move-a-ble
@@ -98288,7 +98288,7 @@ Mo-ra-vi-a
 Mo-ra-vi-an
 Mo-ra-vi-an Church
 Mo-ra-vi-an Gate
-Mo-ra-z‡n
+Mo-ra-zâ€¡n
 Mo-reau
 mo-reen
 mo-rel
@@ -98422,7 +98422,7 @@ Mo-zam-bique
 Mo-zam-bique Chan-nel
 Mo-zart
 mo-zet-ta
-Mo-am-bi-que
+Mo-Âam-bi-que
 mpg
 mph
 MPh
@@ -98550,7 +98550,7 @@ Mul-doon
 mul-ey
 mul-ga
 Mul-ha-c
-Mul-ha-cŽn
+Mul-ha-cÅ½n
 Mul-house
 mul-ish
 mul-ish-ly
@@ -99137,8 +99137,8 @@ mu-cro-nes
 mu-cus
 mu-dir
 mu-dra
-Mu-dŽ-jar
-Mu-dŽ-ja-res
+Mu-dÅ½-jar
+Mu-dÅ½-ja-res
 Mu-d-jar
 mu-ez-zin
 Mu-fu-li-ra
@@ -99545,40 +99545,40 @@ my-thos
 My-ti-shchi
 mzee
 mzun-gu
-M‰-con
-MŠh-ren
-MŠh-risch-Os-trau
-MŠr-chen
-MŠ-lar
-MŠ-lar-en
-mŽ-dail-lon
-MŽ-doc
-MŽ-hul
-mŽ-lange
-mŽ-ringue
-mŽ-ringued
-mŽ-ringu-ing
-MŽ-ri-da
-mŽ-ri-di-enne
-mŽ-ri-di-ennes
-MŽ-ri-mŽe
-mŽ-sal-li-ance
-mŽ-sal-li-anc-es
-mŽ-tif
-mŽ-tis
-mŽ-tisse
-mŽ-tro
-MŽ-xi-co
-mŽ-zair
-m-lŽe
-Mšn-chen-glad-bach
-Mšss-bau-er
-Mšs-ting
-Mš-bi-us
-Mš-ri-ke
-MŸl-hau-sen
-MŸn-chen
-MŸn-chen-Glad-bach
+Mâ€°-con
+MÅ h-ren
+MÅ h-risch-Os-trau
+MÅ r-chen
+MÅ -lar
+MÅ -lar-en
+mÅ½-dail-lon
+MÅ½-doc
+MÅ½-hul
+mÅ½-lange
+mÅ½-ringue
+mÅ½-ringued
+mÅ½-ringu-ing
+MÅ½-ri-da
+mÅ½-ri-di-enne
+mÅ½-ri-di-ennes
+MÅ½-ri-mÅ½e
+mÅ½-sal-li-ance
+mÅ½-sal-li-anc-es
+mÅ½-tif
+mÅ½-tis
+mÅ½-tisse
+mÅ½-tro
+MÅ½-xi-co
+mÅ½-zair
+mÂ-lÅ½e
+MÅ¡n-chen-glad-bach
+MÅ¡ss-bau-er
+MÅ¡s-ting
+MÅ¡-bi-us
+MÅ¡-ri-ke
+MÅ¸l-hau-sen
+MÅ¸n-chen
+MÅ¸n-chen-Glad-bach
 M-bau-er ef-fect
 M-bi-us strip
 M-chen
@@ -99844,7 +99844,7 @@ nar-thex
 nar-the-cal
 Nar-va
 Nar-vik
-Nar-v‡-ez
+Nar-vâ€¡-ez
 nar-wal
 nar-whal
 nar-whale
@@ -99954,7 +99954,7 @@ nau-se-a-tion
 nau-se-ous
 Nau-sic-a-a
 Nau-sith-o-us
-Nau-sŽe
+Nau-sÅ½e
 Nau-tes
 nau-ti-cal
 nau-ti-cal mile
@@ -100030,7 +100030,7 @@ Na-gor-no-Ka-ra-bakh Au-ton-o-mous Re-gion
 Na-go-ya
 na-gual
 Na-gy
-Na-gy-v‡-rad
+Na-gy-vâ€¡-rad
 Na-ha
 Na-hant
 Na-hua
@@ -100043,7 +100043,7 @@ na-if
 na-ive
 na-ive-ly
 na-ive-ty
-na-ive-tŽ
+na-ive-tÅ½
 na-ive-t-ive-t
 na-i-ra
 na-ked
@@ -100253,14 +100253,14 @@ Na-zi-fy
 na-zi-fy
 na-zi-fy-ing
 Na-zi-mo-va
-na-•f
-na-•s-kos
-na-•ve
-na-•ve-ly
-na-•ve-ness
-na-•ve-te
-na-•ve-ty
-na-•ve-tŽ
+na-â€¢f
+na-â€¢s-kos
+na-â€¢ve
+na-â€¢ve-ly
+na-â€¢ve-ness
+na-â€¢ve-te
+na-â€¢ve-ty
+na-â€¢ve-tÅ½
 NBG
 NCB
 NCCL
@@ -100313,7 +100313,7 @@ neb-u-lous-ly
 neb-u-lous-ness
 neb-u-lo-sus
 neb-u-ly
-neb-u-lŽ
+neb-u-lÅ½
 neck
 Neck-ar
 neck-band
@@ -100644,7 +100644,7 @@ net-tle-some
 net-tly
 net-ty
 net-work
-Neuf-ch‰-tel
+Neuf-châ€°-tel
 Neuf-ch-tel
 Neuil-ly
 Neuil-ly-sur-Seine
@@ -100660,7 +100660,7 @@ Neus-tri-a
 Neus-tri-an
 neut
 Neu-bran-den-burg
-Neu-ch‰-tel
+Neu-châ€°-tel
 Neu-ch-tel
 Neu-mann
 neu-mat-ic
@@ -100934,7 +100934,7 @@ New-to-ni-an tel-e-scope
 next
 Nex-o
 nex-us
-Nex-š
+Nex-Å¡
 Ney
 Nez Per-c
 Ne-ae-ra
@@ -101180,8 +101180,8 @@ Ne-o-trop-i-cal
 ne-o-type
 ne-o-yt-ter-bi-um
 Ne-o-zo-ic
-ne-o-šr-tho-dox
-ne-o-šr-tho-dox-y
+ne-o-Å¡r-tho-dox
+ne-o-Å¡r-tho-dox-y
 Ne-pal
 Ne-pal-i
 ne-pen-the
@@ -101667,7 +101667,7 @@ ni-sus
 Ni-ta
 ni-ter
 Ni-te-r
-Ni-te-r—i
+Ni-te-râ€”i
 ni-tid
 ni-ton
 Ni-tral-loy
@@ -101743,11 +101743,11 @@ ni-val
 ni-va-tion
 Ni-ver-nais
 Ni-vre
-Ni-v™se
+Ni-vâ„¢se
 ni-ya-ma
 Ni-zam
 ni-zam-ate
-Ni-–a
+Ni-â€“a
 Njord
 Njorth
 NKGB
@@ -103120,10 +103120,10 @@ non-co-op-er-a-tor
 non-co-or-di-nat-ing
 non-co-or-di-na-tion
 non-co-pla-nar
-non-co-šp-er-a-tion
-non-co-šp-er-a-tion-ist
-non-co-šp-er-a-tive
-non-co-šp-er-a-tor
+non-co-Å¡p-er-a-tion
+non-co-Å¡p-er-a-tion-ist
+non-co-Å¡p-er-a-tive
+non-co-Å¡p-er-a-tor
 non-crank-ing
 non-cred-it-a-ble
 non-cred-it-a-ble-ness
@@ -107170,7 +107170,7 @@ nork
 norm
 Norm
 Norn
-Norr-kš-ping
+Norr-kÅ¡-ping
 Norr-k-ping
 Norse
 Norse-man
@@ -107272,7 +107272,7 @@ nor-a-dren-a-line
 Nor-bert
 Nor-dau
 Nor-den-skj
-Nor-den-skjšld
+Nor-den-skjÅ¡ld
 Nor-dic
 Nor-dic-i-ty
 Nor-di-ca
@@ -107426,12 +107426,12 @@ nou-me-nal-ist
 nou-me-nal-i-ty
 nou-me-nal-ly
 nou-me-non
-Nou-mŽ-a
+Nou-mÅ½-a
 Nou-m-a
 nou-rice
 nou-veau riche
 nou-veau ro-man
-nou-veau-tŽ
+nou-veau-tÅ½
 Nou-velle Vague
 Nou-velle-Ca-l-do-nie
 nou-velles
@@ -107657,7 +107657,7 @@ no-wheres
 no-whith-er
 no-wise
 no-yade
-No-‘-mon
+No-â€˜-mon
 NPA
 NPL
 NSB
@@ -108008,7 +108008,7 @@ nys-tag-mic
 nys-tag-mus
 nys-ta-tin
 Nyx
-Ny’-regy-h‡-za
+Nyâ€™-regy-hâ€¡-za
 Ny-ack
 Ny-as-a
 Ny-as-a-land
@@ -108022,9 +108022,9 @@ Ny-sa
 Ny-se-i-des
 ny-tril
 NZBC
-N‡v-pak-tos
-NŽ-thou
-Nšg-ge-rath
+Nâ€¡v-pak-tos
+NÅ½-thou
+NÅ¡g-ge-rath
 N-berg
 N-pak-tos
 n-v
@@ -108037,7 +108037,7 @@ O'Con-nor
 O'Don-o-van
 o'er
 O'Fal-lon
-O'Fao-l‡in
+O'Fao-lâ€¡in
 O'Fla-her-ty
 O'Har-a
 O'Hig-gins
@@ -109544,8 +109544,8 @@ Or-lon
 or-lop
 or-lop deck
 Or-ly
-Or-lŽ-ans
-Or-lŽ-a-nais
+Or-lÅ½-ans
+Or-lÅ½-a-nais
 Or-l-ans
 Or-l-a-nais
 Or-man-dy
@@ -109718,7 +109718,7 @@ or-tho-stat
 or-tho-style
 or-tho-tone
 or-tho-trop-ic
-or-tho-‘-py
+or-tho-â€˜-py
 or-thros
 Or-thrus
 Or-ton-ville
@@ -109803,7 +109803,7 @@ os-mo-sis
 os-mund
 os-mun-da
 Os-na-br
-Os-na-brŸck
+Os-na-brÅ¸ck
 Os-na-burg
 os-na-burg
 os-o-phone
@@ -111012,7 +111012,7 @@ Ou-spen-sky
 ou-tr
 ou-trance
 ou-tre-mer
-ou-trŽ
+ou-trÅ½
 ou-zel
 ou-zo
 over
@@ -111291,7 +111291,7 @@ O-con-to
 o-co-til-lo
 o-co-til-los
 O-cyp-e-te
-O-cyr-rho-‘
+O-cyr-rho-â€˜
 o-da-lisk
 o-da-lisque
 O-dell
@@ -113900,30 +113900,30 @@ o-zo-ni-sa-tion
 o-zo-nol-y-sis
 o-zo-nous
 o-zo-no-sphere
-O-•z-ys
-o-šg-a-mous
-o-šg-a-my
-o-šl-o-gy
-o-š-cyte
-o-š-gen-e-sis
-o-š-ge-net-ic
-o-š-ki-net-ic
-o-š-ki-ne-sis
-o-š-lite
-o-š-lith
-o-š-lit-ic
-o-š-log-i-cal
-o-š-phore
-o-š-phor-ic
-o-š-pho-rec-to-mize
-o-š-pho-rec-to-my
-o-š-phyte
-o-š-phyt-ic
-o-š-sperm
-o-š-sphere
-o-š-sphore
-o-š-spor-ic
-o-š-tid
+O-â€¢z-ys
+o-Å¡g-a-mous
+o-Å¡g-a-my
+o-Å¡l-o-gy
+o-Å¡-cyte
+o-Å¡-gen-e-sis
+o-Å¡-ge-net-ic
+o-Å¡-ki-net-ic
+o-Å¡-ki-ne-sis
+o-Å¡-lite
+o-Å¡-lith
+o-Å¡-lit-ic
+o-Å¡-log-i-cal
+o-Å¡-phore
+o-Å¡-phor-ic
+o-Å¡-pho-rec-to-mize
+o-Å¡-pho-rec-to-my
+o-Å¡-phyte
+o-Å¡-phyt-ic
+o-Å¡-sperm
+o-Å¡-sphere
+o-Å¡-sphore
+o-Å¡-spor-ic
+o-Å¡-tid
 P-Celt-ic
 p-n junc-tion
 p-type
@@ -114487,7 +114487,7 @@ pan-e-gy-rise
 pan-e-gy-rize
 pan-e-gy-rized
 pan-e-gy-riz-ing
-pan-e-tire
+pan-e-tiÂre
 pan-fish
 pan-fish-es
 pan-fried
@@ -114595,7 +114595,7 @@ pan-the-on
 Pan-the-on
 pan-the-on-ic
 Pan-tho-us
-Pan-thŽ-on
+Pan-thÅ½-on
 pan-tile
 pan-ti-hose
 pan-ti-soc-ra-cy
@@ -114637,7 +114637,7 @@ Pao-shan
 Pao-ting
 Pao-tow
 pap
-paper-m‰chŽ
+paper-mâ€°chÅ½
 Paph-la-go-ni-a
 pap-e-terie
 pap-il-lar
@@ -114670,7 +114670,7 @@ pap-u-lose
 pap-y-ra-ceous
 pap-y-rol-o-gist
 pap-y-rol-o-gy
-pap-Ž-lon-nŽ
+pap-Å½-lon-nÅ½
 par
 Par
 par a-vion
@@ -114812,9 +114812,9 @@ par-a-ca-se-in
 Par-a-cel-sic
 Par-a-cel-sist
 Par-a-cel-sis-tic
-Par-a-cel-si-�ri
+Par-a-cel-si-¥ri
 Pu-rim
-pu-�si-an-ism
+pu-¥si-an-ism
 Par-a-cel-sus
 par-a-cen-te-sis
 par-a-chor
@@ -115145,7 +115145,7 @@ Par-nas-sus
 Par-na-hi-ba
 Par-na-hy-ba
 Par-na-i-ba
-Par-na-’-ba
+Par-na-â€™-ba
 Par-nell
 Par-nell-ism
 Par-nell-ite
@@ -115474,8 +115474,8 @@ pas-si-vat-ing
 pas-sus
 pas-sus-es
 Pas-sy
-pas-sŽ
-pas-sŽs
+pas-sÅ½
+pas-sÅ½s
 pas-ta
 pas-tel
 pas-tel-ist
@@ -115654,7 +115654,7 @@ pat-tle
 Pat-ton
 Pat-ty
 pat-ty
-pat-tŽe
+pat-tÅ½e
 pat-u-lous
 pat-u-lous-ly
 pat-u-lous-ness
@@ -115784,7 +115784,7 @@ pay-off
 pay-o-la
 pay-roll
 Pay-san-d
-Pay-san-dœ
+Pay-san-dÅ“
 Pay-son
 Pay-ton
 paz-a-ree
@@ -115911,7 +115911,7 @@ Pa-lae-o-zo-ic
 pa-lae-o-zo-ol-o-gist
 pa-lae-o-zo-ol-o-gy
 pa-lae-o-zo-o-log-i-cal
-pa-lae-o-zo-šl-o-gy
+pa-lae-o-zo-Å¡l-o-gy
 pa-lais
 pa-lat-i-nal
 pa-lat-i-nate
@@ -115991,9 +115991,9 @@ Pa-le-o-zo-ic
 pa-le-o-zo-ol-o-gist
 pa-le-o-zo-ol-o-gy
 pa-le-o-zo-o-log-i-cal
-pa-le-o-zo-šl-o-gist
-pa-le-o-zo-šl-o-gy
-pa-le-o-zo-š-log-i-cal
+pa-le-o-zo-Å¡l-o-gist
+pa-le-o-zo-Å¡l-o-gy
+pa-le-o-zo-Å¡-log-i-cal
 Pa-le-stri-na
 Pa-li
 pa-lin-dro-mist
@@ -116018,7 +116018,7 @@ Pa-nay
 pa-na-da
 Pa-na-gi-a
 Pa-na-gi-as
-Pa-na-m‡
+Pa-na-mâ€¡
 pa-nic-u-late
 pa-nic-u-late-ly
 pa-nic-u-lat-ed
@@ -116027,7 +116027,7 @@ Pa-nof-sky
 pa-no-cha
 pa-no-che
 pa-nus
-pa-nŽ
+pa-nÅ½
 Pa-o-lo
 pa-pa
 pa-pal
@@ -116065,7 +116065,7 @@ pa-per tape
 pa-per ti-ger
 pa-per-chas-ing
 pa-per-cut-ter
-pa-per-m‰-chŽ
+pa-per-mâ€°-chÅ½
 pa-per-shelled
 pa-per-back
 pa-per-bark
@@ -116156,10 +116156,10 @@ Pa-ra-i-ba
 pa-ra-li-pom-e-na
 pa-ra-mi-ta
 Pa-ra-n
-Pa-ra-na-gu‡
-Pa-ra-n‡
+Pa-ra-na-guâ€¡
+Pa-ra-nâ€¡
 Pa-ra-shah
-Pa-ra-’-ba
+Pa-ra-â€™-ba
 pa-reg-me-non
 pa-rei-ra
 pa-ren-chy-ma
@@ -116191,7 +116191,7 @@ pa-ri-ah dog
 pa-ri-ah-dom
 pa-ri-ah-ism
 Pa-ri-cu-t
-Pa-ri-cu-t’n
+Pa-ri-cu-tâ€™n
 pa-ri-e-tal
 pa-ri-e-tal bone
 pa-ri-e-tal cell
@@ -116227,7 +116227,7 @@ pa-ro-tic
 pa-ro-toid
 pa-rure
 pa-ru-lis
-Pa-rŽ
+Pa-rÅ½
 Pa-r-ber
 Pa-sar-ga-dae
 Pa-say
@@ -116240,7 +116240,7 @@ pa-sha-lic
 pa-sha-lik
 Pa-sio-na-ria
 Pa-siph-a-e
-Pa-siph-a-‘
+Pa-siph-a-â€˜
 Pa-sith-e-a
 pa-so do-ble
 Pa-so-li-ni
@@ -116370,8 +116370,8 @@ Pa-vi-a
 Pa-vi-o-tso
 Pa-vo
 Pa-vo-nis
-pa-vŽ
-pa-vŽs
+pa-vÅ½
+pa-vÅ½s
 PBX
 pct
 pe-tsai cab-bage
@@ -116940,8 +116940,8 @@ pen-sion-less
 pen-sive
 pen-ste-mon
 pen-stock
-pen-sŽe
-Pen-sŽes
+pen-sÅ½e
+Pen-sÅ½es
 pen-tad
 pen-tag-o-nal
 pen-tag-o-nal-ly
@@ -117918,7 +117918,7 @@ pet-it ju-ry
 pet-it lar-ce-ny
 pet-it mal
 pet-it point
-pet-its-ma”-tres
+pet-its-maâ€-tres
 pet-i-ole
 pet-i-ol-u-lar
 pet-i-o-lar
@@ -118117,7 +118117,7 @@ pe-lo-ri-a
 pe-lo-rus
 pe-lo-ta
 Pe-lo-tas
-Pe-lŽe
+Pe-lÅ½e
 pe-nal
 pe-nal code
 pe-nal ser-vi-tude
@@ -118263,8 +118263,8 @@ Pe-ru-gian
 Pe-ru-gin-esque
 Pe-ru-gi-no
 Pe-ru-vi-an bark
-Pe-r—n
-Pe-rœ
+Pe-râ€”n
+Pe-rÅ“
 Pe-sach
 pe-sade
 Pe-sah
@@ -118302,7 +118302,7 @@ pe-te-chi-ae
 pe-te-chi-al
 pe-te-chi-ate
 pe-tit-bour-geois
-pe-tit-ma”-tre
+pe-tit-maâ€-tre
 pe-tite
 pe-tite-ness
 pe-tits
@@ -118351,7 +118351,7 @@ Pe-tr-po-lis
 pe-tun-tse
 pe-tun-tze
 pe-tu-ni-a
-Pe-tš-fi
+Pe-tÅ¡-fi
 Pe-t-fi
 pe-wee
 pe-wit
@@ -118511,7 +118511,7 @@ pha-ryn-go-scope
 pha-se-al
 pha-sic
 pha-sis
-Pha-‘n-na
+Pha-â€˜n-na
 PHC
 PhD
 pheas-ant
@@ -119370,13 +119370,13 @@ phy-to-suc-civ-o-rous
 phy-to-tox-ic
 phy-to-tox-in
 phy-to-tron
-Ph-dre
+PhÂ-dre
 pi me-son
 Piaf
 piaffe
 piaff-ing
 Piau-i
-Piau-’
+Piau-â€™
 piaz-ze
 Pia-cen-za
 Pia-get
@@ -119552,7 +119552,7 @@ Pie-ro di Co-si-mo
 Pie-ter
 Pie-ter-mar-itz-burg
 Pie-tro
-Pie-tˆ
+Pie-tË†
 pif-fle
 pig
 pig i-ron
@@ -119711,7 +119711,7 @@ pine-y
 ping
 pinge
 ping-ing
-Ping-rŽ
+Ping-rÅ½
 pink
 pink el-e-phant
 pink sal-mon
@@ -119821,7 +119821,7 @@ pin-work
 pin-worm
 pin-y
 Pin-z
-Pin-z—n
+Pin-zâ€”n
 pio-let
 pip
 Pip
@@ -120211,7 +120211,7 @@ pi-quant-ly
 pi-quant-ness
 pi-quan-cy
 pi-quet
-pi-quŽ
+pi-quÅ½
 Pi-rae-us
 Pi-ran-del-lo
 pi-rate
@@ -120227,7 +120227,7 @@ pi-ra-rat-ed
 pi-ra-rat-ing
 Pi-re-ne
 Pi-rith-o-us
-Pi-rith-o-Ÿs
+Pi-rith-o-Å¸s
 pi-rog
 pi-rogue
 pi-rosh-ki
@@ -120248,7 +120248,7 @@ pi-sis-tance
 Pi-sis-trat-i-dae
 Pi-sis-tra-tus
 pi-so-lite
-pi-sŽ
+pi-sÅ½
 pi-ta
 pi-tan-ga
 Pi-ta-na
@@ -120278,10 +120278,10 @@ Pi-us XII
 Pi-ute
 pi-zaine
 Pi-zar-ro
-pi-–a
-pi-–on
-pi-–ons
-pi-–o-nes
+pi-â€“a
+pi-â€“on
+pi-â€“ons
+pi-â€“o-nes
 pkg
 pkt
 PL/1
@@ -120877,7 +120877,7 @@ Plin-y
 plis-kie
 plis-s
 plis-se
-plis-sŽ
+plis-sÅ½
 Plis-the-nes
 pli-ant
 pli-ant-ly
@@ -120900,8 +120900,8 @@ pli-ers
 pli-kit
 Pli-o-cene
 Pli-o-film
-pli-Ž
-pli-Žs
+pli-Å½
+pli-Å½s
 PLO
 ploat
 plod
@@ -121068,7 +121068,7 @@ plu-vi-os-i-ty
 plu-vi-ous
 plu-vi-o-met-ric
 Plu-vi-us
-Plu-vi-™se
+Plu-vi-â„¢se
 ply
 Plym-outh
 Plym-outh Breth-ren
@@ -121079,9 +121079,9 @@ ply-ing
 ply-ing-ly
 ply-wood
 Plzen
-plŠ-sŠ
-plŠ-sŠs
-PlŽ-iade
+plÅ -sÅ 
+plÅ -sÅ s
+PlÅ½-iade
 Pl-ze
 PMG
 pneu-drau-lic
@@ -121234,7 +121234,7 @@ point-less-ly
 point-less-ness
 point-wise
 Poin-ca-r
-Poin-ca-rŽ
+Poin-ca-rÅ½
 poin-ci-an-a
 poin-ci-a-na
 poin-set-ti-a
@@ -121243,7 +121243,7 @@ poin-tel
 Poin-til-lism
 poin-til-lism
 poin-til-list
-poin-til-lŽ
+poin-til-lÅ½
 poise
 poised
 pois-er
@@ -121667,7 +121667,7 @@ pom-mel-ing
 pom-mel-ling
 Pom-mern
 pom-my
-pom-mŽe
+pom-mÅ½e
 pom-ol-o-gy
 pom-pa-dour
 Pom-pa-dour
@@ -121708,7 +121708,7 @@ pon-der-ous
 pon-der-ous-ly
 pon-der-ous-ness
 Pon-di-cher-ry
-Pon-di-chŽ-ry
+Pon-di-chÅ½-ry
 Pon-do
 pon-dok
 pon-dok-kie
@@ -121902,7 +121902,7 @@ Port-Gen-til
 Port-Sa-lut
 Porte
 porte-co-chere
-porte-co-chre
+porte-co-chÂre
 porte-mon-mon-naies
 porte-mon-naie
 Ports-mouth
@@ -121997,7 +121997,7 @@ por-tion
 por-tion-a-ble
 por-tion-er
 por-tion-less
-por-tire
+por-tiÂre
 por-ti-co
 por-ti-coed
 por-ti-ere
@@ -122629,8 +122629,8 @@ pouf
 pouffe
 Pough-keep-sie
 Pouil-ly
-Pouil-ly-Fuis-sŽ
-Pouil-ly-Fu-mŽ
+Pouil-ly-Fuis-sÅ½
+Pouil-ly-Fu-mÅ½
 Pouil-ly-sur-Loire
 poult
 poul-ter-er
@@ -122657,7 +122657,7 @@ pour-er
 pour-par-ler
 pour-point
 pousse-ca-f
-pousse-ca-fŽ
+pousse-ca-fÅ½
 pous-sette
 pous-set-ted
 pous-set-ting
@@ -122971,8 +122971,8 @@ po-ny trek-king
 po-ny-ing
 po-ny-tail
 Po-o-p
-Po-o-p—
-Po-pa-y‡n
+Po-o-pâ€”
+Po-pa-yâ€¡n
 Po-pov
 Po-po-cat-e-petl
 Po-po-ca-t-petl
@@ -123057,7 +123057,7 @@ po-ten-ti-a-tor
 po-ten-ti-om-e-ter
 po-ten-ti-o-met-ric
 po-ten-ty
-po-ten-tŽe
+po-ten-tÅ½e
 po-theen
 po-tiche
 po-tich-es
@@ -123068,7 +123068,7 @@ Po-to-mac
 po-to-roo
 Po-to-s
 Po-to-si
-Po-to-s’
+Po-to-sâ€™
 po-tus
 Po-tyom-kin
 Po-yang
@@ -123170,7 +123170,7 @@ prase
 prat
 prate
 Pratt-ville
-Prat-de-sa-b‡
+Prat-de-sa-bâ€¡
 prat-er
 prat-fall
 prat-ing-ly
@@ -125605,7 +125605,7 @@ pre-mis-rep-re-sen-ta-tion
 pre-mix
 pre-mix-er
 pre-mix-ture
-pre-mire
+pre-miÂre
 pre-mi-ate
 pre-mi-at-ed
 pre-mi-at-ing
@@ -126690,22 +126690,22 @@ pre-wrapped
 pre-wrap-ping
 pre-youth-ful
 pre-zy-go-mat-ic
-pre-‘mpt
-pre-‘mp-tion
-pre-‘mp-tive
-pre-‘mp-tor
-pre-‘m-i-nence
-pre-‘m-i-nent
-pre-‘m-pha-sis
-pre-‘n-gage
-pre-‘x-il-ic
-pre-‘x-il-i-an
-pre-‘x-ist
-pre-‘x-ist-ence
-pre-‘x-ist-ent
-pre-‘x-po-sure
-pre-‘-lec-tion
-pre-‘-qual-i-za-tion
+pre-â€˜mpt
+pre-â€˜mp-tion
+pre-â€˜mp-tive
+pre-â€˜mp-tor
+pre-â€˜m-i-nence
+pre-â€˜m-i-nent
+pre-â€˜m-pha-sis
+pre-â€˜n-gage
+pre-â€˜x-il-ic
+pre-â€˜x-il-i-an
+pre-â€˜x-ist
+pre-â€˜x-ist-ence
+pre-â€˜x-ist-ent
+pre-â€˜x-po-sure
+pre-â€˜-lec-tion
+pre-â€˜-qual-i-za-tion
 Pri
 Prib-i-lof Is-lands
 price
@@ -126860,7 +126860,7 @@ Prin-ci-ple
 prin-ci-ple
 prin-ci-pled
 prin-ta-nier
-prin-ta-nire
+prin-ta-niÂre
 prin-ter-like
 prise
 prism
@@ -128376,7 +128376,7 @@ pro-tho-rac-ic
 pro-tho-rax
 pro-tho-rax-es
 pro-tho-ra-ces
-Pro-tho-‘-nor
+Pro-tho-â€˜-nor
 pro-throm-bin
 pro-tist
 Pro-tis-ta
@@ -128456,9 +128456,9 @@ pro-to-zo-ol-o-gy
 pro-to-zo-on
 pro-to-zo-on-al
 pro-to-zo-o-log-i-cal
-pro-to-zo-šl-o-gist
-pro-to-zo-šl-o-gy
-pro-to-zo-š-log-i-cal
+pro-to-zo-Å¡l-o-gist
+pro-to-zo-Å¡l-o-gy
+pro-to-zo-Å¡-log-i-cal
 pro-tract
 pro-tract-ed-ly
 pro-tract-ed-ness
@@ -128490,7 +128490,7 @@ pro-tu-ber-at-ing
 pro-tu-ran
 pro-tyl
 pro-tyle
-pro-tŽ-gŽe
+pro-tÅ½-gÅ½e
 pro-un-ion
 pro-un-ion-ism
 pro-un-ion-ist
@@ -128503,8 +128503,8 @@ Pro-ven-cal
 Pro-ven-cale
 pro-ven-tric-u-lar
 pro-ven-tric-u-lus
-Pro-ven-al
-Pro-ven-ale
+Pro-ven-Âal
+Pro-ven-Âale
 pro-ver-bi-al
 pro-ver-bi-al-ly
 pro-ve-ni-ence
@@ -128618,13 +128618,13 @@ pry-ing-ness
 Pry-lis
 Prze-my
 Prze-wal-ski's horse
-prŽ-cieuse
-prŽ-cieus-es
-prŽ-cieux
-prŽ-cis
-prŽ-ve-nance
-PrŽ-vost
-pr’n-ci-pe
+prÅ½-cieuse
+prÅ½-cieus-es
+prÅ½-cieux
+prÅ½-cis
+prÅ½-ve-nance
+PrÅ½-vost
+prâ€™n-ci-pe
 pr-cis
 Pr-vert
 Pr-vost d'Ex-iles
@@ -129292,7 +129292,7 @@ pto-maine poi-son-ing
 pto-main-ic
 pto-sis
 pto-tic
-Pto-Ÿs
+Pto-Å¸s
 pts
 pty
 pty-a-lec-ta-sis
@@ -129674,7 +129674,7 @@ pur-pure
 pur-pu-ra
 pur-pu-ric
 pur-pu-rin
-pur-p™rt
+pur-pâ„¢rt
 pur-ree
 pur-si-er
 pur-si-est
@@ -129890,10 +129890,10 @@ pu-ru-lent
 pu-ru-lent-ly
 pu-ru-loid
 pu-ru-sha
-pu-rŽe
-pu-rŽed
-pu-rŽe-ing
-Pu-rœs
+pu-rÅ½e
+pu-rÅ½ed
+pu-rÅ½e-ing
+Pu-rÅ“s
 Pu-san
 Pu-sey
 Pu-sey-ism
@@ -130172,7 +130172,7 @@ py-ro-tech-ni-cal-ly
 py-ro-tox-in
 py-ruv-al-de-hyde
 py-ru-vic
-Py-rŽ-nŽes-O-ri-en-tales
+Py-rÅ½-nÅ½es-O-ri-en-tales
 Py-r-n-ri-en-tales
 Py-thag-o-ras
 Py-thag-o-ras' the-o-rem
@@ -130187,12 +130187,12 @@ py-thon-ic
 py-tho-gen-e-sis
 py-tho-ness
 py-u-ri-a
-p‰-tŽ
-PŽ-ri-gord
-PŽ-tain
-P’-o
-P™r-to
-pžr-p™rt
+pâ€°-tÅ½
+PÅ½-ri-gord
+PÅ½-tain
+Pâ€™-o
+Pâ„¢r-to
+pÅ¾r-pâ„¢rt
 P-lion
 P-los
 P-os
@@ -131335,7 +131335,7 @@ que-nelle
 que-rist
 que-ry
 que-ry-ing-ly
-Que-rŽ-ta-ro
+Que-rÅ½-ta-ro
 Que-r-ta-ro
 que-zal
 Que-zal-te-nan-go
@@ -131345,7 +131345,7 @@ quib-ble
 quib-bler
 quib-bling
 quib-bling-ly
-Quib-d—
+Quib-dâ€”
 quib-us
 quiche
 Quich-ua
@@ -131588,10 +131588,10 @@ quo-tid-i-an-ness
 quo-tient
 Qur'-an
 Qutb
-QuŽ-bec
+QuÅ½-bec
 Qu-be-cois
 Qu-ran
-Qžm-ran
+QÅ¾m-ran
 r-col-or
 r-col-ored
 r-col-or-ing
@@ -131776,7 +131776,7 @@ rag-lan
 Rag-lan
 rag-man
 Rag-na-ror Rag-na-rok
-Rag-na-ršk
+Rag-na-rÅ¡k
 rag-pick-er
 rag-tag
 rag-time
@@ -132189,7 +132189,7 @@ rat-fink
 rat-fish
 Rat-haus
 rat-hole
-Rat-hŠu-ser
+Rat-hÅ u-ser
 rat-ing
 Rat-is-bon
 rat-ite
@@ -132199,7 +132199,7 @@ rat-i-fi-er
 rat-i-fy
 rat-i-fy-ing
 rat-i-n
-rat-i-nŽ
+rat-i-nÅ½
 Rat-lam
 rat-like
 rat-lin
@@ -132518,7 +132518,7 @@ ra-dome
 ra-don
 Ra-fa-el
 Ra-fer
-ra-fra”-chis-soir
+ra-fraâ€-chis-soir
 ra-ga
 ra-gout
 Ra-gu-sa
@@ -132558,8 +132558,8 @@ ra-mose
 ra-mous
 Ra-mo-na
 ra-mus
-Ra-mŽe
-Ra-m—n
+Ra-mÅ½e
+Ra-mâ€”n
 ra-nee
 ra-ni
 ra-nun-cu-la-ceous
@@ -132659,7 +132659,7 @@ ra-zor-bill
 ra-zor-fish
 ra-zor-fish-es
 ra-zor-less
-Ra-œl
+Ra-Å“l
 RBE
 RCA
 RCAF
@@ -133153,7 +133153,7 @@ Reg-u-lus
 reg-u-lus-es
 Reich
 Reichs-bank
-Reichs-fŸh-rer
+Reichs-fÅ¸h-rer
 reichs-mark
 Reichs-mark
 Reichs-rat
@@ -133293,7 +133293,7 @@ ren-o-va-tive
 ren-o-va-tor
 ren-tier
 Ren-ton
-ren-ver-sŽ
+ren-ver-sÅ½
 ren-voi
 rep
 Rep
@@ -133505,7 +133505,7 @@ ret-ro
 ret-ro-op-er-a-tive
 ret-ro-rock
 ret-rous-sage
-ret-rous-sŽ
+ret-rous-sÅ½
 ret-ro-act
 ret-ro-ac-tion
 ret-ro-ac-tive
@@ -133638,8 +133638,8 @@ Rey-mont
 Rey-naud
 Rey-nolds num-ber
 Rey-no-sa
-rez-de-chaus-sŽe
-rez-de-chaus-sŽes
+rez-de-chaus-sÅ½e
+rez-de-chaus-sÅ½es
 re--en-force
 Re-a Sil-vi-a
 re-ab-sorb
@@ -134220,8 +134220,8 @@ re-cep-ti-bil-i-ty
 re-cep-tor
 re-cep-tu-al
 re-cep-tu-al-ly
-re-cer-ce-lŽ
-re-cer-ce-lŽe
+re-cer-ce-lÅ½
+re-cer-ce-lÅ½e
 re-cer-ti-fied
 re-cer-ti-fi-ca-tion
 re-cer-ti-fy
@@ -135006,7 +135006,7 @@ re-ex-po-si-tion
 re-ex-po-sure
 re-ex-press
 re-ex-pres-sion
-re-ex-sp™rt
+re-ex-spâ„¢rt
 re-e-ject
 re-e-lect
 re-e-lec-tion
@@ -135914,7 +135914,7 @@ re-lev-er
 re-lev-ied
 re-lev-y
 re-lev-y-ing
-re-le-vŽ
+re-le-vÅ½
 re-lib-er-ate
 re-lib-er-at-ed
 re-lib-er-at-ing
@@ -136316,8 +136316,8 @@ re-nun-ci-a-to-ry
 re-nu-mer-ate
 re-nu-mer-at-ed
 re-nu-mer-at-ing
-Re-nŽ
-Re-nŽe
+Re-nÅ½
+Re-nÅ½e
 re-ob-ject
 re-ob-lige
 re-ob-liged
@@ -136606,7 +136606,7 @@ re-pot
 re-pour
 re-pous-s
 re-pous-sage
-re-pous-sŽ
+re-pous-sÅ½
 re-po-lar-ize
 re-po-lar-ized
 re-po-lar-iz-ing
@@ -137424,7 +137424,7 @@ re-ti-ar-i-i
 re-ti-ar-i-us
 re-ti-ar-y
 re-ti-form
-re-ti-rŽ
+re-ti-rÅ½
 re-ti-tle
 re-toast
 re-told
@@ -137848,16 +137848,16 @@ re-yok-ing
 re-zone
 re-zoned
 re-zon-ing
-re-‘ch-o
-re-‘d-u-cate
-re-‘d-u-ca-tion
-re-‘n-list
-re-‘n-list-ment
-re-‘n-ter
-re-‘n-trance
-re-‘x-port
-re-‘x-port-er
-re-‘x-por-ta-tion
+re-â€˜ch-o
+re-â€˜d-u-cate
+re-â€˜d-u-ca-tion
+re-â€˜n-list
+re-â€˜n-list-ment
+re-â€˜n-ter
+re-â€˜n-trance
+re-â€˜x-port
+re-â€˜x-port-er
+re-â€˜x-por-ta-tion
 RFC
 RGS
 Rgt
@@ -138447,7 +138447,7 @@ ris-i-ble
 ris-qu
 ris-sole
 ris-soles
-ris-so-lŽ
+ris-so-lÅ½
 rit
 rite
 rite of pas-sage
@@ -138912,7 +138912,7 @@ ron-delle
 ron-de-let
 ron-do
 ron-dure
-Ron-d™-nia
+Ron-dâ„¢-nia
 Ron-d-nia
 Ron-kon-ko-ma
 Ron-ni
@@ -139240,7 +139240,7 @@ rou-tin-ist
 rou-tin-ize
 rou-tin-ized
 rou-tin-iz-ing
-rou-Ž
+rou-Å½
 rove
 rove bee-tle
 rove-o-ver
@@ -139455,13 +139455,13 @@ Ro-ma-ni-an
 Ro-ma-no
 Ro-ma-nov
 Ro-ma-nus
-Ro-ma-nŽe-Con-ti
+Ro-ma-nÅ½e-Con-ti
 Ro-me-o
 ro-me-ro
 Ro-mish
 Ro-mu-lo
 ro-my-ko
-Ro-m‰-nia
+Ro-mâ€°-nia
 Ro-ne
 Ro-ne-o
 ro-nin
@@ -139509,7 +139509,7 @@ Ro-si-ta
 Ro-stov-tzeff
 Ro-sy
 Ro-szak
-ro-sŽ
+ro-sÅ½
 ro-ta
 Ro-ta
 Ro-tar-i-an
@@ -139924,7 +139924,7 @@ Ru-by
 ru-by sil-ver
 ru-by spi-nel
 Ru-bye
-Ru-bŽn
+Ru-bÅ½n
 ru-b-y
 ru-da-ceous
 ru-den-ture
@@ -140040,39 +140040,39 @@ ry-ot
 Ry-o-bu Shin-to
 ry-o-kan
 Ry-u-kyu Is-lands
-RŽg-nault
-rŽp-er-toire
-RŽ-au-mur
-RŽ-ca-mier
-rŽ-chauf-fŽ
-rŽ-clame
-RŽ-gence
-rŽ-gime
-rŽ-gis-seur
-RŽ-jane
-rŽ-mou-lade
-rŽ-pŽ-ti-teur
-rŽ-si-stant
-rŽ-si-stante
-rŽ-su-mŽ
-RŽ-u-nion
-R’-o
-R—-mu-lo
-r™-ti
-Ršnt-gen
-ršnt-gen-ize
-ršnt-gen-ized
-ršnt-gen-iz-ing
-ršnt-gen-og-ra-phy
-ršnt-gen-ol-o-gist
-ršnt-gen-ol-o-gy
-ršnt-gen-os-co-py
-ršnt-gen-o-graph-ic
-ršnt-gen-o-graph-i-cal-ly
-ršnt-gen-o-log-ic
-ršnt-gen-o-scope
-ršnt-gen-o-scop-ic
-Ršn-ne
+RÅ½g-nault
+rÅ½p-er-toire
+RÅ½-au-mur
+RÅ½-ca-mier
+rÅ½-chauf-fÅ½
+rÅ½-clame
+RÅ½-gence
+rÅ½-gime
+rÅ½-gis-seur
+RÅ½-jane
+rÅ½-mou-lade
+rÅ½-pÅ½-ti-teur
+rÅ½-si-stant
+rÅ½-si-stante
+rÅ½-su-mÅ½
+RÅ½-u-nion
+Râ€™-o
+Râ€”-mu-lo
+râ„¢-ti
+RÅ¡nt-gen
+rÅ¡nt-gen-ize
+rÅ¡nt-gen-ized
+rÅ¡nt-gen-iz-ing
+rÅ¡nt-gen-og-ra-phy
+rÅ¡nt-gen-ol-o-gist
+rÅ¡nt-gen-ol-o-gy
+rÅ¡nt-gen-os-co-py
+rÅ¡nt-gen-o-graph-ic
+rÅ¡nt-gen-o-graph-i-cal-ly
+rÅ¡nt-gen-o-log-ic
+rÅ¡nt-gen-o-scope
+rÅ¡nt-gen-o-scop-ic
+RÅ¡n-ne
 R-au-mur
 R-au-mur scale
 r-chauf-f
@@ -140100,7 +140100,7 @@ R-u-nion
 S lev-el
 S-R con-nec-tion
 Saar
-Saar-brŸck-en
+Saar-brÅ¸ck-en
 Saar-br-en
 Saar-land
 Saa-di
@@ -140379,7 +140379,7 @@ Saint Vi-tus's dance
 Saint-Bri-euc
 Saint-De-nis
 Saint-Ex-u-pe-ry
-Saint-Ex-u-pŽ-ry
+Saint-Ex-u-pÅ½-ry
 Saint-E-tienne
 Saint-Lau-rent
 Saint-Lou-is
@@ -140945,7 +140945,7 @@ San-tan-der
 san-ta-la-ceous
 San-ta-r
 San-ta-ri-a
-San-ta-rŽm
+San-ta-rÅ½m
 San-ta-ya-na
 San-tee
 san-tims
@@ -141268,7 +141268,7 @@ sau-sage roll
 sau-sage-like
 sau-t
 Sau-ternes
-sau-tŽ
+sau-tÅ½
 sav
 save
 Save
@@ -141479,7 +141479,7 @@ sa-ki
 sa-kor sa-ki
 Sa-kun-ta-la
 Sa-kya-mu-ni
-sa-kŽ
+sa-kÅ½
 Sa-l
 sa-laam
 sa-laam-like
@@ -141719,9 +141719,9 @@ Sa-voy-vy-ing
 Sa-vo-na
 Sa-yan Moun-tains
 sa-yo-na-ra
-Sa-y‹o
-Sa-•s
-Sa-•t-ic
+Sa-yâ€¹o
+Sa-â€¢s
+Sa-â€¢t-ic
 scab
 scab-bard
 scab-bard fish
@@ -142228,7 +142228,7 @@ schrei-ner-ized
 schrei-ner-iz-ing
 schrik
 schry-a-ri
-Schrš-ding-er
+SchrÅ¡-ding-er
 Schr-ding-er
 Schr-ding-er e-qua-tion
 schuit
@@ -142257,9 +142257,9 @@ Schwenk-feld-er
 Schwe-rin
 Schwit-ters
 schyn-bald
-Schšm-ber-ger
-Schšn-bein
-Schšn-berg
+SchÅ¡m-ber-ger
+SchÅ¡n-bein
+SchÅ¡n-berg
 Sch-berg
 sci
 sci-fi
@@ -142826,7 +142826,7 @@ scut-tle
 scut-tle-butt
 scu-ba
 scu-do
-Scu-dŽ-ry
+Scu-dÅ½-ry
 scu-ta
 scu-tage
 scu-tate
@@ -145605,7 +145605,7 @@ se-cre-tion-ar-y
 se-cre-tive
 se-cre-tive-ly
 se-cre-to-ry
-se-crte
+se-crÂte
 se-cund
 se-cund-ly
 Se-cun-da
@@ -145661,7 +145661,7 @@ Se-gni
 se-gno
 se-go
 Se-go-vi-a
-Se-gr
+Se-grÂ
 se-gue
 se-gui-dil-la
 se-gui-dil-las
@@ -145765,7 +145765,7 @@ se-mi-ot-ics
 se-mi-ot-i-cal
 Se-mi-pa-la-tinsk
 se-mor se-m
-Se-m‘-nov
+Se-mâ€˜-nov
 se-na
 se-na-tus con-sul-tum
 se-nes-cence
@@ -145925,7 +145925,7 @@ Se-to Nai-kai
 se-ton
 Se-ton
 se-tose
-Se-tœ-bal
+Se-tÅ“-bal
 Se-t-bal
 Se-van
 Se-vas-to-pol
@@ -145945,9 +145945,9 @@ Se-ville or-ange
 se-wan
 se-wel-lel
 Se-zes-sion
-se-–o-ra
-se-–o-ras
-se-–o-ri-ta
+se-â€“o-ra
+se-â€“o-ras
+se-â€“o-ri-ta
 Sfax
 sfer-ics
 Sfor-za
@@ -146704,7 +146704,7 @@ Shi-ni-chi-ro
 Shi-r
 Shi-raz
 shi-ra-lee
-Shi-rŽ
+Shi-rÅ½
 Shi-r-lands
 Shi-va
 shi-vah
@@ -146716,7 +146716,7 @@ Shi-zu-o-ka
 shkot-zim
 Shko-d
 Shko-dra
-Shko-d‘r
+Shko-dâ€˜r
 shle-miel
 Shluh
 SHM
@@ -147402,7 +147402,7 @@ sil-i-cot-ic
 sil-i-co-sis
 sil-i-qua
 Sil-lan-paa
-Sil-lan-pŠŠ
+Sil-lan-pÅ Å 
 sil-la-bub
 sil-ler
 sil-li-bub
@@ -147889,7 +147889,7 @@ siz-y
 siz-zle
 siz-zler
 siz-zling-ly
-si-cle
+siÂ-cle
 si-al
 si-al-a-gogue
 si-al-a-gog-ic
@@ -147937,7 +147937,7 @@ si-de-re-al-ly
 Si-de-ro
 Si-di If-ni
 Si-di-bel-Ab-b
-Si-di-bel-Ab-bs
+Si-di-bel-Ab-bÂs
 si-dle
 si-dling-ly
 Si-don
@@ -148045,7 +148045,7 @@ si-mul-ta-ne-i-ty
 si-mul-ta-ne-ous
 si-mul-ta-ne-ous-ly
 si-mul-ta-ne-ous-ness
-Si-m—n
+Si-mâ€”n
 Si-na
 Si-nai
 si-nal
@@ -149125,7 +149125,7 @@ smut-ty
 Smyr-na
 Smyr-ne-an
 smy-trie
-smšr-gas-bord
+smÅ¡r-gas-bord
 snack
 snack-ette
 snaf-fle
@@ -149580,10 +149580,10 @@ soil-ure
 Sois-sons
 soix-ante-neuf
 soi-gn
-soi-gnŽ
-soi-gnŽe
+soi-gnÅ½
+soi-gnÅ½e
 soi-ree
-soi-rŽe
+soi-rÅ½e
 soke
 soke-man
 soke-man-ry
@@ -149643,7 +149643,7 @@ sol-feg-gio
 sol-feg-gi-o
 sol-fe-ri-no
 Sol-fe-ri-no
-sol-fge
+sol-fÂge
 sol-id
 sol-id an-gle
 sol-id fu-el
@@ -149968,9 +149968,9 @@ sou mar-qu
 sou'-west-er
 souf-fle
 Souf-flot
-souf-flŽ
-souf-flŽed
-souf-flŽ-ing
+souf-flÅ½
+souf-flÅ½ed
+souf-flÅ½-ing
 sough
 sought
 sought-af-ter
@@ -150152,9 +150152,9 @@ Sou-dan
 Sou-da-nese
 Sou-der-ton
 Sou-fri
-Sou-frire
+Sou-friÂre
 Sou-phan-ou-rong
-sou-pire
+sou-piÂre
 sou-ple
 Sou-sa
 sou-sa-phone
@@ -150423,7 +150423,7 @@ so-li-fluc-tion
 So-li-hull
 So-li-m
 So-li-me-na
-So-li-m›es
+So-li-mâ€ºes
 so-lo
 So-lo man
 so-lo stop
@@ -151025,7 +151025,7 @@ sper-ma-to-zo-an
 sper-ma-to-zo-ic
 sper-ma-to-zo-id
 sper-ma-to-zo-on
-sper-ma-to-zo-šn
+sper-ma-to-zo-Å¡n
 sper-mic
 sper-mi-cide
 sper-mi-o-gen-e-sis
@@ -151953,8 +151953,8 @@ spu-tum
 spy
 spy-glass
 spy-ing
-spŠtz-le
-Spš-rer
+spÅ tz-le
+SpÅ¡-rer
 sqq
 squab
 squab-bi-er
@@ -152169,12 +152169,12 @@ SST
 SSW
 St An-drew's Cross
 St An-drews
-St-Ger-main-des-PrŽs
+St-Ger-main-des-PrÅ½s
 St-Ger-main-en-Laye
 St-James's-flow-er
 St-Jo-seph's-wand
-St-Ž-mi-li-on
-St-Ž-tienne
+St-Å½-mi-li-on
+St-Å½-tienne
 sta
 Sta
 stab
@@ -152687,7 +152687,7 @@ sta-men
 sta-mens
 sta-min-e-al
 Sta-nis-la-o
-Sta-ni-sla-w—w
+Sta-ni-sla-wâ€”w
 Sta-no-voi
 Sta-no-voi Range
 Sta-no-voy Range
@@ -154441,8 +154441,8 @@ sty-my-ing
 sty-rax
 sty-ra-ca-ceous
 sty-rene
-StŽ-phane
-Stšf-ler
+StÅ½-phane
+StÅ¡f-ler
 St-bark
 suave
 suave-ness
@@ -156613,7 +156613,7 @@ sup-pu-rat-ed
 sup-pu-rat-ing
 sup-pu-ra-tion
 sup-pu-ra-tive
-Sup-pŽ
+Sup-pÅ½
 suq
 Sur
 sur
@@ -156854,7 +156854,7 @@ Sut-ton
 Sut-ton Cold-field
 Sut-ton Hoo
 Sut-ton-in-Ash-field
-Su‡-rez
+Suâ€¡-rez
 su-a-bil-i-ty
 su-a-ble
 su-a-bly
@@ -158030,7 +158030,7 @@ su-prem-a-cy
 Su-prem-a-tism
 su-pre-mo
 su-pre-mum
-su-prme
+su-prÂme
 Su-qu-tra
 su-ra
 su-rah
@@ -159025,17 +159025,17 @@ Szold
 Szom-bat-hely
 Szy-man-ows-ki
 Szy-ma-now-ski
-S‡n-dor
-sŽ-ance
-SŽ-kou
-SŽ-vi-gnŽ
-Sšm-mer-ing
-Sš-der-blom
-sžr-chŠrj-charged
-sžr-chŠrj-charg-ing
-sžr-mised
-sžr-mis-ing
-sžr-ta
+Sâ€¡n-dor
+sÅ½-ance
+SÅ½-kou
+SÅ½-vi-gnÅ½
+SÅ¡m-mer-ing
+SÅ¡-der-blom
+sÅ¾r-chÅ rj-charged
+sÅ¾r-chÅ rj-charg-ing
+sÅ¾r-mised
+sÅ¾r-mis-ing
+sÅ¾r-ta
 S-chow
 s-rac
 S-vi-gn
@@ -159285,7 +159285,7 @@ Tai-wan
 Tai-wan Strait
 Tai-wan-ese
 Tai-yu-an
-Tai-yŸan
+Tai-yÅ¸an
 taj
 Taj Ma-hal
 take
@@ -159362,7 +159362,7 @@ tal-lage
 Tal-la-de-ga
 Tal-la-has-see
 Tal-la-poo-sa
-Tal-ley-rand-PŽ-ri-gord
+Tal-ley-rand-PÅ½-ri-gord
 Tal-ley-rand-P-ri-gord
 tal-lied
 Tal-lin
@@ -159477,7 +159477,7 @@ tank-ful
 tank-less
 tank-like
 tank-ship
-Tann-hŠu-ser
+Tann-hÅ u-ser
 Tann-h-ser
 tan-a-ger
 Tan-a-gra
@@ -159681,7 +159681,7 @@ Tar-ne
 tar-nish
 tar-nish-a-ble
 Tar-no-pol
-Tar-n—w
+Tar-nâ€”w
 tar-pan
 tar-pau-lin
 Tar-pe-ia
@@ -159950,7 +159950,7 @@ ta-ble nap-kin
 ta-ble salt
 ta-ble ten-nis
 ta-ble wine
-ta-ble-d'h™te
+ta-ble-d'hâ„¢te
 ta-ble-hop
 ta-ble-hop-per
 ta-ble-turn-ing
@@ -160067,7 +160067,7 @@ Ta-o-ism
 ta-pa
 ta-pas
 Ta-pa-j
-Ta-pa-j—s
+Ta-pa-jâ€”s
 ta-per
 ta-per-er
 ta-per-ing-ly
@@ -160512,7 +160512,7 @@ tem-er-ar-i-ous
 tem-er-ar-i-ous-ly
 tem-er-ar-i-ous-ness
 Tem-es-v
-Tem-es-v‡r
+Tem-es-vâ€¡r
 Tem-e-nus
 Tem-ne
 Tem-pe
@@ -160685,7 +160685,7 @@ ten-nis shoe
 ten-no
 Ten-ny-son
 Ten-ny-so-ni-an
-ten-nŽ
+ten-nÅ½
 ten-on
 ten-on saw
 ten-on-er
@@ -160892,7 +160892,7 @@ ter-rif-ic
 ter-rif-i-cal-ly
 ter-rig-e-nous
 ter-rine
-ter-ri-bi-li-t‡
+ter-ri-bi-li-tâ€¡
 ter-ri-ble
 ter-ri-ble-ness
 ter-ri-bly
@@ -161016,7 +161016,7 @@ tes-ti-mo-ni-al-is-ing
 tes-ti-mo-ni-al-ize
 tes-ti-mo-ni-al-ized
 tes-ti-mo-ny
-tes-ti-re
+tes-ti-Âre
 tes-ton
 tes-toon
 tes-tos-ter-one
@@ -161232,7 +161232,7 @@ te-ni-a-fuge
 te-ni-a-sis
 Te-no
 Te-noch-ti-tl
-Te-noch-ti-tl‡n
+Te-noch-ti-tlâ€¡n
 te-nor clef
 te-nor-rha-phy
 te-not-o-mist
@@ -161294,7 +161294,7 @@ te-tra-dy-na-mous
 te-trox-id
 te-trox-ide
 Te-tu
-Te-tu‡n
+Te-tuâ€¡n
 Te-vet
 Te-ve-re
 Te-zel
@@ -161705,7 +161705,7 @@ the-ol-o-gi-za-tion
 the-ol-o-gy
 the-om-a-chy
 the-on-o-my
-The-on-o-‘
+The-on-o-â€˜
 the-oph-a-gy
 The-oph-a-ne
 the-oph-a-ny
@@ -162108,7 +162108,7 @@ tho-ri-um
 tho-ri-um di-ox-ide
 tho-ri-um se-ries
 tho-ron
-Tho-šn
+Tho-Å¡n
 Thrace
 Thrale
 thrall
@@ -162420,11 +162420,11 @@ thy-ro-tro-phin
 thy-ro-tro-pin
 thy-sa-nu-rous
 thy-self
-ThŽ-o-dore
-ThŽ-o-phile
-ThŽ-rse
-ThŽ-‰-tre-Fran-ais
-ThŸ-ringer
+ThÅ½-o-dore
+ThÅ½-o-phile
+ThÅ½-rÂse
+ThÅ½-â€°-tre-Fran-Âais
+ThÅ¸-ringer
 Th-nard's blue
 Th-r-sieux
 th-sant
@@ -162903,7 +162903,7 @@ Ti-gr
 ti-gress
 Ti-gris
 Ti-gri-nya
-Ti-grŽ
+Ti-grÅ½
 Ti-hua
 Ti-hwa
 Ti-jua-na
@@ -163401,7 +163401,7 @@ tor-ch
 tor-chier
 tor-chiere
 tor-chon lace
-tor-chre
+tor-chÂre
 Tor-de-si-llas
 tor-e-a-dor
 tor-e-a-dor pants
@@ -163578,7 +163578,7 @@ tout-er
 tou-can
 tou-can-et
 tou-ch
-tou-chŽ
+tou-chÅ½
 Tou-lon
 Tou-louse
 Tou-louse-Lau-trec
@@ -163588,7 +163588,7 @@ Tou-raine
 Tou-rane
 tou-ra-co
 tou-relle
-Tou-rŽ
+Tou-rÅ½
 tou-sle
 tou-zle
 tow
@@ -165274,7 +165274,7 @@ tri-gone
 tri-go-num
 tri-graph
 tri-graph-ic
-Tri-gre
+Tri-gÂre
 tri-he-dral
 tri-he-dron
 tri-hy-drate
@@ -165476,7 +165476,7 @@ trog-lo-dyt-ic
 trog-lo-dyt-ism
 troil-ism
 Trois Ri-vi
-Trois-Ri-vires
+Trois-Ri-viÂres
 troi-ka
 Troi-lus
 troke
@@ -165611,7 +165611,7 @@ trou-vaille
 trou-veur
 Trou-ve-lot
 Trou-ville
-trou-vre
+trou-vÂre
 trove
 trow
 Trow-bridge
@@ -165826,8 +165826,8 @@ try-ma-ta
 try-out
 try-par-sa-mide
 try-sail
-trŽm-ie
-trŽm-ies
+trÅ½m-ie
+trÅ½m-ies
 tsar
 tsar-dom
 tsar-e-vitch
@@ -166303,7 +166303,7 @@ tu-co-tu-co
 tu-co-tu-co
 Tu-cum-car-i
 Tu-cu-m
-Tu-cu-m‡n
+Tu-cu-mâ€¡n
 tu-cu-tu-cu
 Tu-dor
 tu-fa
@@ -166332,8 +166332,8 @@ tu-lip tree
 tu-lip-like
 tu-lip-o-ma-ni-a
 tu-lip-wood
-Tu-lu‡
-Tu-lŽ-ar
+Tu-luâ€¡
+Tu-lÅ½-ar
 Tu-ma-co
 tu-mes-cent
 tu-me-fac-tion
@@ -166375,7 +166375,7 @@ Tu-pi-Gua-ra-ni-an
 Tu-pi-an
 Tu-po-lev
 Tu-pun-ga-to
-Tu-p’
+Tu-pâ€™
 Tu-ra
 Tu-ran-dot
 tu-ra-co
@@ -166405,8 +166405,8 @@ Tu-tu-i-lan
 Tu-va
 tu-y
 tu-yer
-tu-yre
-tu-yres
+tu-yÂre
+tu-yÂres
 TVA
 Tver
 twad-dle
@@ -166746,9 +166746,9 @@ Tzi-gane
 Tzi-ga-ny
 tzi-tzith
 Tzu-po
-T‰r-gu-Mu-res
-TŽl-lez
-Tšn-nies
+Tâ€°r-gu-Mu-res
+TÅ½l-lez
+TÅ¡n-nies
 T-bi
 T-gu Mu-re
 t-tain-der
@@ -167313,7 +167313,7 @@ un-ap-pli-ca-bil-i-ty
 un-ap-pli-ca-ble
 un-ap-pli-ca-ble-ness
 un-ap-pli-ca-tive
-un-ap-pli-quŽd
+un-ap-pli-quÅ½d
 un-ap-point-a-ble
 un-ap-point-ed
 un-ap-por-tioned
@@ -169024,7 +169024,7 @@ un-cor-re-lat-ed
 un-cor-ri-dored
 un-cor-rob-o-rant
 un-cor-rob-o-rat-ed
-un-cor-�rob-o-ra-tive
+un-cor-¥rob-o-ra-tive
 un-cor-rob-o-ra-to-ry
 un-cor-rod-ed
 un-cor-rupt
@@ -170787,8 +170787,8 @@ un-dy-ing-ness
 un-dy-nam-ic
 un-dy-nam-i-cal-ly
 un-dy-na-mit-ed
-un-dŽ
-un-dŽe
+un-dÅ½
+un-dÅ½e
 un-earned
 un-earned in-come
 un-earned in-cre-ment
@@ -174155,7 +174155,7 @@ un-na-tion-al-is-tic
 un-na-tion-al-is-ti-cal-ly
 un-na-tion-al-ized
 un-na-tive
-un-na-•ve
+un-na-â€¢ve
 un-neat
 un-nec-es-sar-ies
 un-nec-es-sar-i-ly
@@ -178921,7 +178921,7 @@ Ur-dar
 ur-dor ur-d
 Ur-du
 ur-dy
-ur-dŽ
+ur-dÅ½
 Ur-fa
 Ur-ga
 Ur-gel
@@ -178980,8 +178980,8 @@ us-er
 us-ing
 Us-k
 Us-kub
-Us-kŸp
-Us-kŸ-dar
+Us-kÅ¸p
+Us-kÅ¸-dar
 Us-k-dar
 Us-nach
 Us-nech
@@ -179503,7 +179503,7 @@ vac-u-um tube
 vac-u-um-packed
 vac-u-ums
 VAD
-Vads-š
+Vads-Å¡
 vague
 vague-ly
 vague-ness
@@ -179613,7 +179613,7 @@ val-or-ous-ness
 val-our
 Val-pa-rai-so
 Val-pa-ra-i-so
-Val-pa-ra-’-so
+Val-pa-ra-â€™-so
 val-ue
 val-ue add-ed
 val-ue judg-ment
@@ -179964,8 +179964,8 @@ Va-lois
 Va-lo-na
 va-lo-ni-a
 Va-lo-ra
-Va-lŽ-ry
-Va-l-ry
+Va-lÅ½-ry
+Va-lÂ-ry
 va-moose
 va-moosed
 va-moos-ing
@@ -180048,7 +180048,7 @@ va-ri-o
 va-ri-o-la
 va-ri-o-late
 va-ri-o-lous
-Va-rse
+Va-rÂse
 va-sa
 Va-sa-ri
 va-so-pres-sor
@@ -180189,7 +180189,7 @@ Ven-di-dad
 ven-di-tion
 ven-dor
 ven-due
-Ven-dŽe
+Ven-dÅ½e
 Ven-d-miaire
 ven-er-ate
 ven-er-a-ble
@@ -180268,7 +180268,7 @@ ven-tur-ous-ly
 ven-tur-ous-ness
 Ven-tu-ri tube
 ven-tu-rous
-Ven-t™se
+Ven-tâ„¢se
 ven-ue
 ven-ule
 ven-u-lar
@@ -180446,8 +180446,8 @@ Ver-ny
 Ver-o-nal
 Ver-raz-za-no
 Ver-ra-za-no
-ver-ri-re
-ver-ri-res
+ver-ri-Âre
+ver-ri-Âres
 Ver-roc-chio
 ver-ru-ca
 ver-ru-cose
@@ -180655,7 +180655,7 @@ ve-loc-i-ty mod-u-la-tion
 ve-lour
 ve-lours
 ve-lou-t
-ve-lou-tŽ
+ve-lou-tÅ½
 ve-lo-ce
 ve-lo-drome
 Ve-lo-rum
@@ -180664,7 +180664,7 @@ ve-lure
 ve-lured
 ve-lur-ing
 ve-lu-ti-nous
-Ve-l‡s-quez
+Ve-lâ€¡s-quez
 Ve-l-quez
 ve-na
 ve-na ca-va
@@ -181352,7 +181352,7 @@ Vi-co
 vi-comte
 vi-com-tesse
 vi-con-ti-el
-vi-cu-–a
+vi-cu-â€“a
 Vi-dal-ia
 Vi-dar
 vi-de
@@ -181390,7 +181390,7 @@ Vi-gny
 Vi-go
 vi-go-ro-so
 Vi-grid
-Vi-gŽe-Le-brun
+Vi-gÅ½e-Le-brun
 vi-ha-ra
 vi-hue-la
 Vi-jay-a-wa-da
@@ -181509,9 +181509,9 @@ vi-sion-ar-y
 vi-sion-less
 vi-sor
 vi-sor-less
-vi-sŽ
-vi-sŽed
-vi-sŽ-ing
+vi-sÅ½
+vi-sÅ½ed
+vi-sÅ½-ing
 vi-ta
 Vi-ta
 vi-tae
@@ -181574,14 +181574,14 @@ vi-tu-per-at-ed
 vi-tu-per-at-ing
 vi-tu-per-a-tion
 vi-tu-per-a-tor
-Vi-t—-ri-a
+Vi-tâ€”-ri-a
 Vi-t-ri-a
 vi-va
 vi-va vo-ce
 vi-va-vo-ce
 vi-vac-i-ty
 vi-van-di
-vi-van-dire
+vi-van-diÂre
 vi-var-i-a
 vi-var-i-um
 vi-var-i-ums
@@ -181608,7 +181608,7 @@ vi-zir-ate
 vi-zir-i-al
 vi-zor
 vi-zor-less
-Vi-‘-tor
+Vi-â€˜-tor
 Vlaar-ding-en
 Vlad
 Vlad-i-mir
@@ -181653,7 +181653,7 @@ void-er
 void-ness
 voile
 voix c-leste
-voi-lˆ
+voi-lË†
 Voi-o-ti-a
 voi-ture
 Voi-vo-di-na
@@ -181872,7 +181872,7 @@ vo-lar
 vo-lat-i-lise
 vo-lat-i-lize
 Vo-la-puk-ist
-Vo-la-pŸk
+Vo-la-pÅ¸k
 vo-li-tion
 vo-li-tion-al
 vo-li-tion-al-ly
@@ -181994,13 +181994,13 @@ vy-ing-ly
 Vy-rene
 Vy-shin-sky
 vZi
-VŠi-sŠ-lŠ
-VŠt-ter
-VŠt-tern
-VŠ-ner
-VŠ-nern
-Všlk-er
-Vš-lund
+VÅ i-sÅ -lÅ 
+VÅ t-ter
+VÅ t-tern
+VÅ -ner
+VÅ -nern
+VÅ¡lk-er
+VÅ¡-lund
 V-er-wan-der-ung
 V-los
 V-lund
@@ -182243,7 +182243,7 @@ Wal-hal-la
 wal-ies
 wal-ing
 Wal-kyr-ie
-Wal-kŸ-re
+Wal-kÅ¸-re
 wal-la
 Wal-lace
 Wal-lace's line
@@ -182329,7 +182329,7 @@ want-less-ness
 Wan-a-ma-ker
 Wan-a-que
 wan-chanc-y
-Wan-chŸan
+Wan-chÅ¸an
 Wan-ch-an
 Wan-da
 wan-der
@@ -184718,7 +184718,7 @@ Will-kie
 will-o'-the-wisp-ish
 will-o'-the-wisp-y
 will-pow-er
-Will-stŠt-ter
+Will-stÅ t-ter
 will-yard
 will-yart
 wilt
@@ -185938,10 +185938,10 @@ Wy-o-ming
 Wy-o-ming-ite
 Wy-o-mis-sing
 wy-vern
-Wšh-ler
-Wšn-san
-WŸrt-tem-berg
-WŸrz-burg
+WÅ¡h-ler
+WÅ¡n-san
+WÅ¸rt-tem-berg
+WÅ¸rz-burg
 W-burg
 W-tem-berg
 X-chro-mo-some
@@ -186035,7 +186035,7 @@ xe-ro-sere
 xe-ro-sis
 Xho-sa
 Xin-g
-Xin-gœ
+Xin-gÅ“
 xiph-i-ster-nal
 xiph-i-ster-num
 xiph-oid
@@ -186133,7 +186133,7 @@ Yam-a-ga-ta
 Yam-a-shi-ta
 yam-mer
 Yang
-Yang-kŸ
+Yang-kÅ¸
 Yang-tze
 Yang-tze-Kiang
 yank
@@ -186232,7 +186232,7 @@ Ya-mi
 Ya-na
 Ya-ni-na
 Ya-oun-dor Ya-un-de
-Ya-oun-dŽ
+Ya-oun-dÅ½
 ya-pok
 ya-pon
 Ya-pu-r
@@ -186537,7 +186537,7 @@ Yu-ca-t
 Yu-ca-tan
 Yu-ca-tec
 Yu-ca-tec-an
-Yu-ca-t‡n
+Yu-ca-tâ€¡n
 Yu-ca-t-nel
 Yu-ga
 Yu-go-Slav
@@ -186562,8 +186562,8 @@ Yu-zov-ka
 Yve-lines
 YWCA
 YWHA
-YŸn-nan
-YŸ-an
+YÅ¸n-nan
+YÅ¸-an
 Y-an
 y-clad
 y-cleped
@@ -186637,12 +186637,12 @@ zar-a-tite
 Zar-ga
 zar-zue-la
 zas-tru-ga
-Zau-ber-flš-te
+Zau-ber-flÅ¡-te
 zax
 za-ba-glio-ne
 Za-brze
 Za-ca-te-cas
-za-ca-t—n
+za-ca-tâ€”n
 Za-cyn-thus
 Za-dar
 Za-dok
@@ -186927,7 +186927,7 @@ zod
 Zof-fa-ny
 zois-ite
 Zoll-ver-ein
-Zol-t‡n
+Zol-tâ€¡n
 Zom-ba
 zom-bi
 zom-bie
@@ -187051,49 +187051,49 @@ Zo-ro-as-tri-an
 Zo-ro-as-tri-an-ism
 Zo-ser
 Zo-si-mus
-Zo-‘
-zo-šg-ra-pher
-zo-šg-ra-phy
-zo-šl-a-ter
-zo-šl-a-trous
-zo-šl-o-gist
-zo-šl-o-gy
-zo-šm-e-try
-zo-šn-al
-zo-šn-o-sis
-zo-šph-i-lous
-zo-šph-o-bous
-zo-št-o-mist
-zo-št-o-my
-zo-š-chem-is-try
-zo-š-chem-i-cal
-zo-š-chore
-zo-š-ge-o-graph-i-cal-ly
-zo-š-gle-al
-zo-š-gloe-a
-zo-š-gloe-al
-zo-š-graft-ing
-zo-š-graph-ic
-zo-š-log-ic
-zo-š-log-i-cal
-zo-š-log-i-cal-ly
-zo-š-met-ric
-zo-š-morph
-zo-š-mor-phic
-zo-š-phil-ic
-zo-š-phor-ic
-zo-š-pho-bi-a
-zo-š-plank-ton
-zo-š-plas-tic
-zo-š-plas-ty
-zo-š-sperm
-zo-š-sper-mat-ic
-zo-š-spore
-zo-š-spo-ran-gi-al
-zo-š-spo-ran-gi-um
-zo-š-tom-ic
-zo-š-tom-i-cal-ly
-zo-š-tox-in
+Zo-â€˜
+zo-Å¡g-ra-pher
+zo-Å¡g-ra-phy
+zo-Å¡l-a-ter
+zo-Å¡l-a-trous
+zo-Å¡l-o-gist
+zo-Å¡l-o-gy
+zo-Å¡m-e-try
+zo-Å¡n-al
+zo-Å¡n-o-sis
+zo-Å¡ph-i-lous
+zo-Å¡ph-o-bous
+zo-Å¡t-o-mist
+zo-Å¡t-o-my
+zo-Å¡-chem-is-try
+zo-Å¡-chem-i-cal
+zo-Å¡-chore
+zo-Å¡-ge-o-graph-i-cal-ly
+zo-Å¡-gle-al
+zo-Å¡-gloe-a
+zo-Å¡-gloe-al
+zo-Å¡-graft-ing
+zo-Å¡-graph-ic
+zo-Å¡-log-ic
+zo-Å¡-log-i-cal
+zo-Å¡-log-i-cal-ly
+zo-Å¡-met-ric
+zo-Å¡-morph
+zo-Å¡-mor-phic
+zo-Å¡-phil-ic
+zo-Å¡-phor-ic
+zo-Å¡-pho-bi-a
+zo-Å¡-plank-ton
+zo-Å¡-plas-tic
+zo-Å¡-plas-ty
+zo-Å¡-sperm
+zo-Å¡-sper-mat-ic
+zo-Å¡-spore
+zo-Å¡-spo-ran-gi-al
+zo-Å¡-spo-ran-gi-um
+zo-Å¡-tom-ic
+zo-Å¡-tom-i-cal-ly
+zo-Å¡-tox-in
 ZPG
 Zsig-mon-dy
 Zu'l-ka-dah
@@ -187109,7 +187109,7 @@ Zun-gar-i-a
 Zun-ga-ri-a
 zun-yite
 Zur-ba-r
-Zur-ba-r‡n
+Zur-ba-râ€¡n
 Zur-v
 Zuy-der Zee
 Zu-lei-ka
@@ -187118,8 +187118,8 @@ Zu-lu
 Zu-lu-land
 Zu-pus
 Zu-rich
-Zu-–i
-Zu-–i-an
+Zu-â€“i
+Zu-â€“i-an
 Zweig
 Zwick-au
 Zwick-y
