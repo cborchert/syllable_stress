@@ -21,7 +21,6 @@ if ($conn->connect_error) {
 } else {
     $handle = fopen("stresses.txt", "r");
     if ($handle) {
-        $i = 0;
         while (($line = fgets($handle)) !== false ) {
             $word = strtolower(substr($line, 0, strpos($line, " "))); //get the word 
             $word = str_replace( "'", "\'", preg_replace("/[^a-zA-Z'\.]+/", '', $word));//strip everything except letters, dashes, and apostrophes
@@ -37,8 +36,6 @@ if ($conn->connect_error) {
             } else {
                 echo "Error: " . $sql . "<br>" . $conn->error;
             }
-            
-            $i++;
         }
         fclose($handle);
     } else {
